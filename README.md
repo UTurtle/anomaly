@@ -7,12 +7,12 @@ The **DCASE 2024 Task 2** focuses on developing an **unsupervised anomalous soun
 
 ---
 
-anomaly
-- datasets
-- dev
-- eval_2024
-- eda
-- extract_feature_code
-- notebook
-- unziped
-- model
+- anomaly
+  - datasets
+    - dev
+    - eval_2024
+  - eda
+    - extract_feature_code
+    - notebook
+    - unziped
+  - model
