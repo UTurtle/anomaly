@@ -1,3 +1,9 @@
-datasets/
-dev/
+
+bearing/
+fan/
+gearbox/
+slider/
+ToyCar/
+ToyTrain/
+valve/
 eval_2024/
