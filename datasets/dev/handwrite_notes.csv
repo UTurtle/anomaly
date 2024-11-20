@@ -1,5 +1,6 @@
 anomaly_path,normal_path,anomaly_note,normal_note,common_note
-../../../datasets/dev/ToyCar/test/section_00_source_test_anomaly_0001_car_B1_spd_31V_mic_1.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0001_car_B2_spd_31V_mic_1.wav,스파이크 패턴이 비주기적으로 저주파수에서 고주파수까지 존재하나 높은 주파수일수록 강도가 점점 작아짐,스파이크 패턴이 비주기적으로 저주파수에서 고주파수까지 존재,저주파수(0kHz-1kHz)에서 강한 에너지.
+../../../datasets/dev/ToyCar/test/section_00_source_test_anomaly_0001_car_B1_spd_31V_mic_1.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0001_car_B2_spd_31V_mic_1.wav,"스파이크 패턴이 비주기적으로 저주파수에서 고주파수까지 존재하나 높은 주파수일수록 강도가 점점 작아짐","스파이크 패턴이 비주기적으로 저주파수에서 고주파수까지 존재
+",저주파수(0kHz-1kHz)에서 강한 에너지.
 ../../../datasets/dev/ToyCar/test/section_00_source_test_anomaly_0002_car_B1_spd_34V_mic_1.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0002_car_B2_spd_31V_mic_1.wav,비주기적인 소리의 주파수가 저에서 중까지의 주파수를 가짐. 고주파수까지 가지 않음.,비주기적인 소리의 주파수가 저에서 고주파수까지 존재.,  
 ../../../datasets/dev/ToyCar/test/section_00_source_test_anomaly_0003_car_B1_spd_34V_mic_1.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0003_car_B2_spd_31V_mic_1.wav,"양옆 1초 구간에 중-고 주파수 부분이 약간 존재
 특정 주파수 대역에서 가로 선형 패턴이 다수 존재","양옆 1초 구간에 중-고 주파수 부분이 적음
