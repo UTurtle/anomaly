@@ -1,176 +1,337 @@
 anomaly_path,normal_path,anomaly_note,normal_note,common_note
-../../../datasets/dev/ToyCar/test/section_00_source_test_anomaly_0001_car_B1_spd_31V_mic_1.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0001_car_B2_spd_31V_mic_1.wav,스파이크 형태의 불규칙적인 패턴이 저주파수에서 고주파수까지 존재하나 높은 주파수일수록 강도가 점점 작아짐,스파이크 형태의 불규칙적인 패턴이 저주파수에서 고주파수까지 존재,"저주파수에서 규칙적인 패턴.
-저주파수에서 강한 에너지."
-../../../datasets/dev/ToyCar/test/section_00_source_test_anomaly_0002_car_B1_spd_34V_mic_1.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0002_car_B2_spd_31V_mic_1.wav,불규칙적인 소리의 주파수가 저에서 중까지의 주파수를 가짐. 고주파수까지 가지 않음.,불규칙적인 소리의 주파수가 저에서 고주파수까지 존재.,저주파수에서 규칙적인 패턴
+../../../datasets/dev/ToyCar/test/section_00_source_test_anomaly_0001_car_B1_spd_31V_mic_1.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0001_car_B2_spd_31V_mic_1.wav,스파이크 형태의 불규칙적인 패턴이 저주파수에서 고주파수까지 존재하나 높은 주파수일수록 강도가 점점 작아짐,스파이크 형태의 불규칙적인 패턴이 저주파수에서 고주파수까지 존재,저주파수(0kHz-1kHz)에서 강한 에너지.
+../../../datasets/dev/ToyCar/test/section_00_source_test_anomaly_0002_car_B1_spd_34V_mic_1.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0002_car_B2_spd_31V_mic_1.wav,불규칙적인 소리의 주파수가 저에서 중까지의 주파수를 가짐. 고주파수까지 가지 않음.,불규칙적인 소리의 주파수가 저에서 고주파수까지 존재.,  
 ../../../datasets/dev/ToyCar/test/section_00_source_test_anomaly_0003_car_B1_spd_34V_mic_1.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0003_car_B2_spd_31V_mic_1.wav,"양옆 1초 구간에 중-고 주파수 부분이 약간 존재
 특정 주파수 대역에서 가로 선형 패턴이 다수 존재","양옆 1초 구간에 중-고 주파수 부분이 적음
-특정 주파수 대역에서 약한 가로 선형 패턴이 약간 존재","저주파수에서 규칙적인 패턴
+특정 주파수 대역에서 약한 가로 선형 패턴이 약간 존재","  
 특정 주파수 대역에서 가로 선형 패턴"
 ../../../datasets/dev/ToyCar/test/section_00_source_test_anomaly_0004_car_B1_spd_40V_mic_1.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0004_car_B2_spd_31V_mic_1.wav,"고주파수에서 앞뒤 1초의 강도가 매우 약함
 스파이크 형태의 불규칙적인 패턴이 저에서 고까지의 다양한 주파수로 존재","특정 주파수 대역에서 가로 선형 패턴이 고루 나타나고 높은 주파수일수록 강도가 점점 작아짐
 
 
-",저주파수에서 규칙적인 패턴
+",  
 ../../../datasets/dev/ToyCar/test/section_00_source_test_anomaly_0005_car_B1_spd_31V_mic_1.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0005_car_B1_spd_34V_mic_1.wav,고주파수에서 앞뒤 1초의 강도가 매우 약함,"불규칙적인 세로 주파수 패턴이 저주파수에서 고주파수까지 존재.
 모든 주파수에서 전체적으로 에너지가 높음.
 중주파수에서 고주파수까지 0.5초 동안 중간 강도를 가진 불규칙적인 패턴 존재. 기계가 갈리는 소리가 남.
 ","저주파수에서 중주파수까지 규칙적인 패턴이 나타나고 높은 주파수일수록 강도가 점점 작아짐.
-저주파수에서 강한 에너지"
-../../../datasets/dev/ToyCar/test/section_00_source_test_anomaly_0006_car_B1_spd_34V_mic_1.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0006_car_B1_spd_34V_mic_1.wav,스파이크 형태의 불규칙적인 패턴이 저주파수에서 중주파수까지 존재,언덕 형태의 불규칙적인 소리가 저주파수에서 중주파수까지 관측,"저주파수에서 강한 에너지.
+  저주파수(0kHz-1kHz)에서 강한 에너지"
+../../../datasets/dev/ToyCar/test/section_00_source_test_anomaly_0006_car_B1_spd_34V_mic_1.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0006_car_B1_spd_34V_mic_1.wav,스파이크 형태의 불규칙적인 패턴이 저주파수에서 중주파수까지 존재,언덕 형태의 불규칙적인 소리가 저주파수에서 중주파수까지 관측,"  저주파수(0kHz-1kHz)에서 강한 에너지.
 고주파수에서 앞뒤 1초의 강도가 매우 약함."
 ../../../datasets/dev/ToyCar/test/section_00_source_test_anomaly_0007_car_B1_spd_34V_mic_1.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0007_car_B1_spd_34V_mic_1.wav,0.5초의 구간동안 모든 주파수의 강도가 약간 증가하는 패턴이 존재. ,전체적으로 균일한 에너지를 가짐.,"중주파수와 고주파수에서 1kHz 폭 대역의 약한 강도의 가로 선형 패턴 존재
-저주파수에서 규칙적인 패턴.
-저주파수에서 강한 에너지.
+ 
+  저주파수(0kHz-1kHz)에서 강한 에너지.
 특정 주파수 대역에서 아주 약한 가로 선형 패턴 관측됨.
 고주파수에서 앞뒤 1초의 강도가 매우 약함"
 ../../../datasets/dev/ToyCar/test/section_00_source_test_anomaly_0008_car_B1_spd_40V_mic_1.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0008_car_B1_spd_34V_mic_1.wav,"고주파수에서 앞뒤 1초의 강도가 매우 약함.
 0.5초의 구간동안 모든 대역 주파수의 강도가 약간 증가하는 패턴이 존재",스파이크 형태의 규칙적인 패턴이 저주파수에서 중주파수까지 관측됨.,"중주파수와 고주파수에서 1kHz 폭 대역의 매우 약한 강도의 가로 선형 패턴 존재.
-저주파수에서 규칙적인 패턴.
-저주파수에서 강한 에너지"
+ 
+  저주파수(0kHz-1kHz)에서 강한 에너지"
 ../../../datasets/dev/ToyCar/test/section_00_source_test_anomaly_0009_car_B1_spd_40V_mic_1.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0009_car_B1_spd_34V_mic_1.wav,"불규칙적인 강한 강도의 세로 주파수 패턴이 모든 대역의 주파수에서 존재.
 특정 주파수 대역에서 가로 선형 패턴.
 전체적으로 강한 에너지.","고주파수에서 앞뒤 1초의 강도가 매우 약함.
-고중주파수(4-6kHz)에서 2kHz폭만큼의 약한 가로 선형 패턴 존재.","저주파수에서 규칙적인 패턴.
-저주파수에서 강한 에너지."
+고중주파수(4-6kHz)에서 2kHz폭만큼의 약한 가로 선형 패턴 존재."," 
+  저주파수(0kHz-1kHz)에서 강한 에너지."
 ../../../datasets/dev/ToyCar/test/section_00_source_test_anomaly_0010_car_B2_spd_31V_mic_1.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0010_car_B1_spd_34V_mic_1.wav,고주파수에서 앞뒤 1초의 강도가 매우 약함.,0kHz에서 8kHz까지의 대역에서 강도가 높아지는 구간 관측.,"스파이크 형태의 불규칙적인 패턴이 저주파수에서 중주파수까지 존재하나 높은 주파수일수록 강도가 점점 작아짐.
 전체적으로 높은 에너지.
-저주파수에서 규칙적인 패턴.
-저주파수에서 강한 에너지."
+ 
+  저주파수(0kHz-1kHz)에서 강한 에너지."
 ../../../datasets/dev/ToyCar/test/section_00_source_test_anomaly_0011_car_B2_spd_34V_mic_1.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0011_car_B1_spd_34V_mic_1.wav,"스파이크 형태의 불규칙적인 패턴이 저주파수에서 중주파수까지 존재
 대부분의 대역에서 에너지의 크기가 균일하게 강함.","고중주파수(4-6kHz)에서 2kHz폭만큼의 약한 가로 선형 패턴 존재.
 스파이크 형태의 불규칙적인 패턴이 저주파수에서 고주파수까지 존재하나 높은 주파수일수록 강도가 점점 작아짐.
 언덕 형태의 불규칙적인 소리가 저주파수에서 중주파수까지 관측
 0.5초의 구간동안 중주파수의 강도가 약간 증가하는 패턴이 존재.","고주파수에서 앞뒤 1초의 강도가 매우 약함
-저주파수에서 규칙적인 패턴.
-저주파수에서 강한 에너지"
+ 
+  저주파수(0kHz-1kHz)에서 강한 에너지"
 ../../../datasets/dev/ToyCar/test/section_00_source_test_anomaly_0012_car_B2_spd_34V_mic_1.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0012_car_B1_spd_34V_mic_1.wav,,고중주파수(4-6kHz)에서 2kHz폭만큼의 약한 가로 선형 패턴 존재.,"스파이크 형태의 불규칙적인 패턴이 저주파수에서 고주파수까지 존재하나 높은 주파수일수록 강도가 점점 작아짐.
-저주파수에서 규칙적인 패턴.
-저주파수에서 강한 에너지.
+ 
+  저주파수(0kHz-1kHz)에서 강한 에너지.
 고주파수에서 앞뒤 1초의 강도가 매우 약함."
 ../../../datasets/dev/ToyCar/test/section_00_source_test_anomaly_0013_car_B2_spd_40V_mic_1.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0013_car_B1_spd_34V_mic_1.wav,스파이크 형태의 불규칙적인 패턴이 저주파수에서 고주파수까지 존재,,"전체적으로 모든 대역에서 에너지가 균일함.
 고주파수에서 앞뒤 1초의 강도가 약간 약함.
 고중주파수(4-6kHz)에서 2kHz폭만큼의 약한 가로 선형 패턴 존재.
-저주파수에서 규칙적인 패턴.
-저주파수에서 강한 에너지."
+ 
+  저주파수(0kHz-1kHz)에서 강한 에너지."
 ../../../datasets/dev/ToyCar/test/section_00_source_test_anomaly_0014_car_B2_spd_31V_mic_1.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0014_car_B2_spd_40V_mic_1.wav,"불규칙적인 세로 주파수 패턴이 저주파수에서 고주파수까지 존재.
 모든 주파수에서 전체적으로 에너지가 높음.
 중주파수에서 고주파수까지 0.5초 동안 중간 강도를 가진 불규칙적인 패턴 존재. 기계가 갈리는 소리가 남.
 모든 주파수 대역에서 다양한 강도의 가로 선형 패턴이 매우 많이 나타남.",전체적으로 균일한 에너지를 가짐.,"고주파수에서 앞뒤 1초의 강도가 매우 약함.
-저주파수에서 규칙적인 패턴.
-저주파수에서 강한 에너지."
-../../../datasets/dev/ToyCar/test/section_00_source_test_anomaly_0015_car_B2_spd_34V_mic_1.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0015_car_B2_spd_40V_mic_1.wav,스파이크 형태의 약한 강도의 불규칙적인 패턴이 모든 대역에서 존재,스파이크 형태의 불규칙적인 패턴이 저주파수에서 고주파수까지 존재하나 높은 주파수일수록 강도가 점점 작아짐,"저주파수에서 규칙적인 패턴.
-저주파수에서 강한 에너지
+ 
+  저주파수(0kHz-1kHz)에서 강한 에너지."
+../../../datasets/dev/ToyCar/test/section_00_source_test_anomaly_0015_car_B2_spd_34V_mic_1.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0015_car_B2_spd_40V_mic_1.wav,스파이크 형태의 약한 강도의 불규칙적인 패턴이 모든 대역에서 존재,스파이크 형태의 불규칙적인 패턴이 저주파수에서 고주파수까지 존재하나 높은 주파수일수록 강도가 점점 작아짐," 
+  저주파수(0kHz-1kHz)에서 강한 에너지
 고주파수에서 앞뒤 1초의 강도가 매우 약함
 중주파수와 고주파수에서 1kHz 폭 대역의 약한 강도의 가로 선형 패턴 존재."
-../../../datasets/dev/ToyCar/test/section_00_source_test_anomaly_0016_car_B2_spd_34V_mic_1.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0016_car_B2_spd_40V_mic_1.wav,고중주파수(5-9kHz)에서 1kHz폭만큼의 아주 희미하게 가로 선형 패턴들 존재.,,"저주파수에서 규칙적인 패턴.
-저주파수에서 강한 에너지.
+../../../datasets/dev/ToyCar/test/section_00_source_test_anomaly_0016_car_B2_spd_34V_mic_1.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0016_car_B2_spd_40V_mic_1.wav,고중주파수(5-9kHz)에서 1kHz폭만큼의 아주 희미하게 가로 선형 패턴들 존재.,," 
+  저주파수(0kHz-1kHz)에서 강한 에너지.
 고주파수에서 앞뒤 1초의 강도가 매우 약함"
-../../../datasets/dev/ToyCar/test/section_00_source_test_anomaly_0017_car_B2_spd_40V_mic_1.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0017_car_B2_spd_40V_mic_1.wav,불규칙적인 약한 강도의 세로 주파수 패턴이 모든 대역의 주파수에서 존재,불규칙적인 아주 약한 강도의 세로 주파수 패턴이 모든 대역의 주파수에서 존재,"저주파수에서 규칙적인 패턴.
-저주파수에서 강한 에너지.
+../../../datasets/dev/ToyCar/test/section_00_source_test_anomaly_0017_car_B2_spd_40V_mic_1.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0017_car_B2_spd_40V_mic_1.wav,불규칙적인 약한 강도의 세로 주파수 패턴이 모든 대역의 주파수에서 존재,불규칙적인 아주 약한 강도의 세로 주파수 패턴이 모든 대역의 주파수에서 존재," 
+  저주파수(0kHz-1kHz)에서 강한 에너지.
 고주파수에서 앞뒤 1초의 강도가 매우 약함.
 고중주파수(5-9kHz)에서 1kHz폭만큼의 아주 희미하게 가로 선형 패턴들 존재."
 ../../../datasets/dev/ToyCar/test/section_00_source_test_anomaly_0018_car_C1_spd_31V_mic_1.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0018_car_C2_spd_31V_mic_1.wav,중주파수에서 고주파수까지 0.5초 동안 중간 강도를 가진 불규칙적인 패턴 존재. 기계가 갈리는 소리가 남.,,"스파이크 형태의 불규칙적인 패턴이 저주파수에서 고주파수까지 존재하나 높은 주파수일수록 강도가 점점 작아짐.
-중주파수와 고주파수에서 1kHz 폭 대역의 매우 약한 강도의 가로 선형 패턴 존재.저주파수에서 규칙적인 패턴.
-저주파수에서 강한 에너지.
+중주파수와 고주파수에서 1kHz 폭 대역의 매우 약한 강도의 가로 선형 패턴 존재. 
+  저주파수(0kHz-1kHz)에서 강한 에너지.
 고주파수에서 앞뒤 1초의 강도가 매우 약함."
-../../../datasets/dev/ToyCar/test/section_00_source_test_anomaly_0019_car_C1_spd_34V_mic_1.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0019_car_C2_spd_31V_mic_1.wav,언덕 형태의 불규칙적인 소리가 저주파수에서 고중주파수까지 관측.,,"중주파수와 고주파수에서 1kHz 폭 대역의 매우 약한 강도의 가로 선형 패턴 존재.저주파수에서 규칙적인 패턴.
-저주파수에서 강한 에너지.
+../../../datasets/dev/ToyCar/test/section_00_source_test_anomaly_0019_car_C1_spd_34V_mic_1.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0019_car_C2_spd_31V_mic_1.wav,언덕 형태의 불규칙적인 소리가 저주파수에서 고중주파수까지 관측.,,"중주파수와 고주파수에서 1kHz 폭 대역의 매우 약한 강도의 가로 선형 패턴 존재. 
+  저주파수(0kHz-1kHz)에서 강한 에너지.
 고주파수에서 앞뒤 1초의 강도가 매우 약함"
-../../../datasets/dev/ToyCar/test/section_00_source_test_anomaly_0020_car_C1_spd_34V_mic_1.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0020_car_C2_spd_31V_mic_1.wav,스파이크 형태의 약한 강도의 불규칙적인 패턴이 저주파수에서 중주파수까지 존재,,"중주파수와 고주파수에서 1kHz 폭 대역의 매우 약한 강도의 가로 선형 패턴 존재.저주파수에서 규칙적인 패턴.
-저주파수에서 강한 에너지.
+../../../datasets/dev/ToyCar/test/section_00_source_test_anomaly_0020_car_C1_spd_34V_mic_1.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0020_car_C2_spd_31V_mic_1.wav,스파이크 형태의 약한 강도의 불규칙적인 패턴이 저주파수에서 중주파수까지 존재,,"중주파수와 고주파수에서 1kHz 폭 대역의 매우 약한 강도의 가로 선형 패턴 존재. 
+  저주파수(0kHz-1kHz)에서 강한 에너지.
 고주파수에서 앞뒤 1초의 강도가 매우 약함"
 ../../../datasets/dev/ToyCar/test/section_00_source_test_anomaly_0021_car_C1_spd_40V_mic_1.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0021_car_C2_spd_31V_mic_1.wav,고주파수에서 앞뒤 1초의 강도가 매우 약함,"특정 주파수 대역에서 가로 선형 패턴이 고루 나타남, 
-스파이크 형태의 불규칙적인 패턴이 저주파수에서 고주파수까지 존재하나 높은 주파수일수록 강도가 점점 작아짐.","저주파수에서 규칙적인 패턴.
-저주파수에서 강한 에너지."
+스파이크 형태의 불규칙적인 패턴이 저주파수에서 고주파수까지 존재하나 높은 주파수일수록 강도가 점점 작아짐."," 
+  저주파수(0kHz-1kHz)에서 강한 에너지."
 ../../../datasets/dev/ToyCar/test/section_00_source_test_anomaly_0022_car_C1_spd_31V_mic_1.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0022_car_C2_spd_34V_mic_1.wav,스파이크 형태의 다양한 강도의 불규칙적인 패턴이 저주파수에서 고주파수까지 존재.,저중주파수(3kHz)와 고중주파수(6.5kHz)에서 0.5kHz 폭 대역의 약한 강도의 가로 선형 패턴 존재.,"고주파수에서 앞뒤 1초의 강도가 매우 약함.
-저주파수에서 규칙적인 패턴.
-저주파수에서 강한 에너지."
+ 
+  저주파수(0kHz-1kHz)에서 강한 에너지."
 ../../../datasets/dev/ToyCar/test/section_00_source_test_anomaly_0023_car_C2_spd_34V_mic_1.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0023_car_C2_spd_34V_mic_1.wav,"1.5-9.5초 구간에서 균일한 에너지 분포 존재.
-앞뒤 1초의 구간에서 약한 강도의 가로 선형 패턴이 존재",스파이크 형태의 불규칙적인 패턴이 저주파수에서 고주파수까지 존재하나 높은 주파수일수록 강도가 점점 작아짐.,"저주파수에서 규칙적인 패턴.
-저주파수에서 강한 에너지."
+",스파이크 형태의 불규칙적인 패턴이 저주파수에서 고주파수까지 존재하나 높은 주파수일수록 강도가 점점 작아짐.," 
+  저주파수(0kHz-1kHz)에서 강한 에너지."
 ../../../datasets/dev/ToyCar/test/section_00_source_test_anomaly_0024_car_C2_spd_34V_mic_1.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0024_car_C2_spd_34V_mic_1.wav,1-10초 구간에서 규칙적인 세로 선형 패턴이 존재,,"스파이크 형태의 불규칙적인 패턴이 저주파수에서 고주파수까지 존재하나 높은 주파수일수록 강도가 점점 작아짐.
-저주파수에서 강한 에너지.
+  저주파수(0kHz-1kHz)에서 강한 에너지.
 고주파수에서 앞뒤 1초의 강도가 매우 약함.
 "
 ../../../datasets/dev/ToyCar/test/section_00_source_test_anomaly_0025_car_C2_spd_40V_mic_1.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0025_car_C2_spd_34V_mic_1.wav,"0.5초의 구간동안 중주파수의 강도가 약간 증가하는 패턴이 존재.
-1.5-9.5초 구간에서 균일한 에너지 분포 존재.",,"저주파수에서 규칙적인 패턴.
-저주파수에서 강한 에너지.
+1.5-9.5초 구간에서 균일한 에너지 분포 존재.",," 
+  저주파수(0kHz-1kHz)에서 강한 에너지.
 고주파수에서 앞뒤 1초의 강도가 매우 약함.
 "
 ../../../datasets/dev/ToyCar/test/section_00_source_test_anomaly_0026_car_C2_spd_31V_mic_1.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0026_car_C2_spd_34V_mic_1.wav,스파이크 형태의 약한 강도의 불규칙적인 패턴이 저주파수에서 고주파수까지 존재. 0.5초의 구간동안 모든 주파수의 강도가 약간 증가하는 불규칙적인 패턴이 존재.,,"1.5-9.5초 구간에서 균일한 에너지 분포 존재.
-저주파수에서 규칙적인 패턴.
-저주파수에서 강한 에너지.
+ 
+  저주파수(0kHz-1kHz)에서 강한 에너지.
 앞뒤 1초 구간에서 규칙적인 가로 선형 패턴 존재."
 ../../../datasets/dev/ToyCar/test/section_00_source_test_anomaly_0027_car_C2_spd_31V_mic_1.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0027_car_C2_spd_34V_mic_1.wav,스파이크 형태의 불규칙적인 패턴이 저주파수에서 고주파수까지 존재하나 높은 주파수일수록 강도가 점점 작아짐.,,"1-10초 구간 모든 대역에서 규칙적인 세로 선형 패턴이 존재.
 앞뒤 1초 구간 모든 대역에서 규칙적인 가로 선형 패턴 존재.
-저주파수에서 규칙적인 패턴.
-저주파수에서 강한 에너지.
+ 
+  저주파수(0kHz-1kHz)에서 강한 에너지.
 고주파수에서 앞뒤 1초의 강도가 약함."
 ../../../datasets/dev/ToyCar/test/section_00_source_test_anomaly_0028_car_C2_spd_34V_mic_1.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0028_car_C2_spd_34V_mic_1.wav,고주파수에서 앞뒤 1초의 강도가 매우 약함.,"특정 주파수 대역에서 가로 선형 패턴이 규칙적으로 나오나 강도는 불규칙적임.
-","저주파수에서 규칙적인 패턴.
-저주파수에서 강한 에너지."
+"," 
+  저주파수(0kHz-1kHz)에서 강한 에너지."
 ../../../datasets/dev/ToyCar/test/section_00_source_test_anomaly_0029_car_C2_spd_40V_mic_1.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0029_car_C2_spd_34V_mic_1.wav,스파이크 형태의 약한 강도의 불규칙적인 패턴이 저주파수에 존재. 쿵쿵거리는 소리가 남.,0.5초의 구간동안 중주파수의 강도가 약간 증가하는 불규칙적인 패턴이 존재. 증기기관 소리가 남.,"1.5-9.5초 구간에서 균일한 에너지 분포 존재.
-저주파수에서 규칙적인 패턴.
-저주파수에서 강한 에너지.
+ 
+  저주파수(0kHz-1kHz)에서 강한 에너지.
 고주파수에서 앞뒤 1초의 강도가 매우 약함."
 ../../../datasets/dev/ToyCar/test/section_00_source_test_anomaly_0030_car_C2_spd_31V_mic_1.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0030_car_C2_spd_40V_mic_1.wav,고주파수에서 앞뒤 1초의 강도가 약함.,"스파이크 형태의 불규칙적인 패턴이 저주파수에서 고주파수까지 존재하나 높은 주파수일수록 강도가 점점 작아짐.
 고주파수에서 앞뒤 1초의 강도가 매우 약함.","1.5-9.5초 구간에서 균일한 에너지 분포 존재.
-앞뒤 1초의 구간에서 약한 강도의 가로 선형 패턴이 존재.
+
 "
-../../../datasets/dev/ToyCar/test/section_00_source_test_anomaly_0031_car_C2_spd_31V_mic_1.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0031_car_C2_spd_40V_mic_1.wav,,,"저주파수에서 규칙적인 패턴.
-저주파수에서 강한 에너지.
+../../../datasets/dev/ToyCar/test/section_00_source_test_anomaly_0031_car_C2_spd_31V_mic_1.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0031_car_C2_spd_40V_mic_1.wav,"Envelope로 봤을 때, 초기 구간에서 큰 이상 이벤트(고진폭 피크)가 나타난 후 비교적 안정된 신호 패턴이 관찰됨","Envelope로 봤을 때, 전체적으로 변동 폭이 크고, 안정성보다는 불규칙한 패턴이 보임"," 
+  저주파수(0kHz-1kHz)에서 강한 에너지.
 고주파수에서 앞뒤 1초의 강도가 매우 약함.
 1.5-9.5초 구간에서 균일한 에너지 분포 존재.
-앞뒤 1초의 구간에서 약한 강도의 가로 선형 패턴이 존재."
-../../../datasets/dev/ToyCar/test/section_00_source_test_anomaly_0032_car_C1_spd_34V_mic_1.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0032_car_C2_spd_40V_mic_1.wav,,,
-../../../datasets/dev/ToyCar/test/section_00_source_test_anomaly_0033_car_C2_spd_40V_mic_1.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0033_car_C2_spd_40V_mic_1.wav,,,
-../../../datasets/dev/ToyCar/test/section_00_source_test_anomaly_0034_car_D1_spd_31V_mic_1.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0034_car_C2_spd_40V_mic_1.wav,,,
-../../../datasets/dev/ToyCar/test/section_00_source_test_anomaly_0035_car_D1_spd_31V_mic_1.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0035_car_D2_spd_31V_mic_1.wav,,,
-../../../datasets/dev/ToyCar/test/section_00_source_test_anomaly_0036_car_D1_spd_34V_mic_1.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0036_car_D2_spd_31V_mic_1.wav,,,
-../../../datasets/dev/ToyCar/test/section_00_source_test_anomaly_0037_car_D1_spd_40V_mic_1.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0037_car_D2_spd_31V_mic_1.wav,,,
-../../../datasets/dev/ToyCar/test/section_00_source_test_anomaly_0038_car_D1_spd_31V_mic_1.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0038_car_D2_spd_31V_mic_1.wav,,,
-../../../datasets/dev/ToyCar/test/section_00_source_test_anomaly_0039_car_D1_spd_34V_mic_1.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0039_car_D2_spd_34V_mic_1.wav,,,
-../../../datasets/dev/ToyCar/test/section_00_source_test_anomaly_0040_car_D1_spd_34V_mic_1.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0040_car_D2_spd_34V_mic_1.wav,,,
-../../../datasets/dev/ToyCar/test/section_00_source_test_anomaly_0041_car_D1_spd_40V_mic_1.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0041_car_D2_spd_34V_mic_1.wav,,,
-../../../datasets/dev/ToyCar/test/section_00_source_test_anomaly_0042_car_D2_spd_31V_mic_1.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0042_car_D2_spd_34V_mic_1.wav,,,
-../../../datasets/dev/ToyCar/test/section_00_source_test_anomaly_0043_car_D2_spd_34V_mic_1.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0043_car_D2_spd_34V_mic_1.wav,,,
-../../../datasets/dev/ToyCar/test/section_00_source_test_anomaly_0044_car_D2_spd_34V_mic_1.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0044_car_D2_spd_34V_mic_1.wav,,,
-../../../datasets/dev/ToyCar/test/section_00_source_test_anomaly_0045_car_D2_spd_40V_mic_1.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0045_car_D2_spd_34V_mic_1.wav,,,
-../../../datasets/dev/ToyCar/test/section_00_source_test_anomaly_0046_car_D2_spd_31V_mic_1.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0046_car_D2_spd_34V_mic_1.wav,,,
-../../../datasets/dev/ToyCar/test/section_00_source_test_anomaly_0047_car_D2_spd_34V_mic_1.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0047_car_D2_spd_40V_mic_1.wav,,,
-../../../datasets/dev/ToyCar/test/section_00_source_test_anomaly_0048_car_D2_spd_34V_mic_1.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0048_car_D2_spd_40V_mic_1.wav,,,
-../../../datasets/dev/ToyCar/test/section_00_source_test_anomaly_0049_car_D2_spd_40V_mic_1.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0049_car_D2_spd_40V_mic_1.wav,,,
-../../../datasets/dev/ToyCar/test/section_00_source_test_anomaly_0050_car_D2_spd_40V_mic_1.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0050_car_D2_spd_40V_mic_1.wav,,,
-../../../datasets/dev/ToyCar/test/section_00_target_test_anomaly_0001_car_A1_spd_28V_mic_2.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0001_car_B2_spd_31V_mic_1.wav,,,
-../../../datasets/dev/ToyCar/test/section_00_target_test_anomaly_0002_car_A1_spd_28V_mic_2.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0002_car_B2_spd_31V_mic_1.wav,,,
-../../../datasets/dev/ToyCar/test/section_00_target_test_anomaly_0003_car_A1_spd_28V_mic_2.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0003_car_B2_spd_31V_mic_1.wav,,,
-../../../datasets/dev/ToyCar/test/section_00_target_test_anomaly_0004_car_A1_spd_37V_mic_2.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0004_car_B2_spd_31V_mic_1.wav,,,
-../../../datasets/dev/ToyCar/test/section_00_target_test_anomaly_0005_car_A1_spd_37V_mic_2.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0005_car_B1_spd_34V_mic_1.wav,,,
-../../../datasets/dev/ToyCar/test/section_00_target_test_anomaly_0006_car_A1_spd_37V_mic_2.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0006_car_B1_spd_34V_mic_1.wav,,,
-../../../datasets/dev/ToyCar/test/section_00_target_test_anomaly_0007_car_A1_spd_28V_mic_2.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0007_car_B1_spd_34V_mic_1.wav,,,
-../../../datasets/dev/ToyCar/test/section_00_target_test_anomaly_0008_car_A1_spd_28V_mic_2.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0008_car_B1_spd_34V_mic_1.wav,,,
-../../../datasets/dev/ToyCar/test/section_00_target_test_anomaly_0009_car_A1_spd_28V_mic_2.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0009_car_B1_spd_34V_mic_1.wav,,,
-../../../datasets/dev/ToyCar/test/section_00_target_test_anomaly_0010_car_A1_spd_37V_mic_2.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0010_car_B1_spd_34V_mic_1.wav,,,
-../../../datasets/dev/ToyCar/test/section_00_target_test_anomaly_0011_car_A1_spd_37V_mic_2.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0011_car_B1_spd_34V_mic_1.wav,,,
-../../../datasets/dev/ToyCar/test/section_00_target_test_anomaly_0012_car_A1_spd_37V_mic_2.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0012_car_B1_spd_34V_mic_1.wav,,,
-../../../datasets/dev/ToyCar/test/section_00_target_test_anomaly_0013_car_A2_spd_28V_mic_2.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0013_car_B1_spd_34V_mic_1.wav,,,
-../../../datasets/dev/ToyCar/test/section_00_target_test_anomaly_0014_car_A2_spd_28V_mic_2.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0014_car_B2_spd_40V_mic_1.wav,,,
-../../../datasets/dev/ToyCar/test/section_00_target_test_anomaly_0015_car_A2_spd_28V_mic_2.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0015_car_B2_spd_40V_mic_1.wav,,,
-../../../datasets/dev/ToyCar/test/section_00_target_test_anomaly_0016_car_A2_spd_37V_mic_2.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0016_car_B2_spd_40V_mic_1.wav,,,
-../../../datasets/dev/ToyCar/test/section_00_target_test_anomaly_0017_car_A2_spd_37V_mic_2.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0017_car_B2_spd_40V_mic_1.wav,,,
-../../../datasets/dev/ToyCar/test/section_00_target_test_anomaly_0018_car_A2_spd_37V_mic_2.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0018_car_C2_spd_31V_mic_1.wav,,,
-../../../datasets/dev/ToyCar/test/section_00_target_test_anomaly_0019_car_A2_spd_28V_mic_2.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0019_car_C2_spd_31V_mic_1.wav,,,
-../../../datasets/dev/ToyCar/test/section_00_target_test_anomaly_0020_car_A2_spd_28V_mic_2.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0020_car_C2_spd_31V_mic_1.wav,,,
-../../../datasets/dev/ToyCar/test/section_00_target_test_anomaly_0021_car_A2_spd_28V_mic_2.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0021_car_C2_spd_31V_mic_1.wav,,,
-../../../datasets/dev/ToyCar/test/section_00_target_test_anomaly_0022_car_A2_spd_28V_mic_2.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0022_car_C2_spd_34V_mic_1.wav,,,
-../../../datasets/dev/ToyCar/test/section_00_target_test_anomaly_0023_car_A2_spd_37V_mic_2.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0023_car_C2_spd_34V_mic_1.wav,,,
-../../../datasets/dev/ToyCar/test/section_00_target_test_anomaly_0024_car_A2_spd_37V_mic_2.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0024_car_C2_spd_34V_mic_1.wav,,,
-../../../datasets/dev/ToyCar/test/section_00_target_test_anomaly_0025_car_A2_spd_37V_mic_2.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0025_car_C2_spd_34V_mic_1.wav,,,
-../../../datasets/dev/ToyCar/test/section_00_target_test_anomaly_0026_car_E1_spd_28V_mic_2.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0026_car_C2_spd_34V_mic_1.wav,,,
-../../../datasets/dev/ToyCar/test/section_00_target_test_anomaly_0027_car_E1_spd_28V_mic_2.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0027_car_C2_spd_34V_mic_1.wav,,,
-../../../datasets/dev/ToyCar/test/section_00_target_test_anomaly_0028_car_E1_spd_28V_mic_2.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0028_car_C2_spd_34V_mic_1.wav,,,
-../../../datasets/dev/ToyCar/test/section_00_target_test_anomaly_0029_car_E1_spd_37V_mic_2.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0029_car_C2_spd_34V_mic_1.wav,,,
-../../../datasets/dev/ToyCar/test/section_00_target_test_anomaly_0030_car_E1_spd_37V_mic_2.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0030_car_C2_spd_40V_mic_1.wav,,,
+"
+../../../datasets/dev/ToyCar/test/section_00_source_test_anomaly_0032_car_C1_spd_34V_mic_1.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0032_car_C2_spd_40V_mic_1.wav,스파이크 형태의 약한 강도의 불규칙적인 패턴이 저주파수에서 중주파수까지 존재.,"1.5s-9.5s 구간에서 7-8kHz와 3-4.5kH대역에서 anomaly보다 약간 강한 에너지 분포를 보임.
+"," 
+  저주파수(0kHz-1kHz)에서 강한 에너지.
+고주파수에서 앞뒤 1초의 강도가 매우 약함.
+1.5-9.5초 구간에서 균일한 에너지 분포 존재."
+../../../datasets/dev/ToyCar/test/section_00_source_test_anomaly_0033_car_C2_spd_40V_mic_1.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0033_car_C2_spd_40V_mic_1.wav,,"1.5s-9.5s 구간에서 7-8kHz와 3-4.5kH대역에서 anomaly보다 약간 강한 에너지 분포를 보임.
+","스파이크 형태의 아주 약한 강도의 불규칙적인 패턴이 저주파수에서 고주파수까지 존재.
+중저주파수에서 고주파수까지 앞뒤 1초의 강도가 매우 약함.
+1.5-9.5초 구간에서 균일한 에너지 분포 존재.
+"
+../../../datasets/dev/ToyCar/test/section_00_source_test_anomaly_0034_car_D1_spd_31V_mic_1.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0034_car_C2_spd_40V_mic_1.wav,"스파이크 형태의 약한 강도의 불규칙적인 패턴이 저주파수에서 중주파수까지 존재.
+스파이크 형태의 불규칙적인 패턴이 저주파수에서 고주파수까지 존재하나 높은 주파수일수록 강도가 점점 작아짐.
+중주파수에서 고주파수 사이에 1s만큼의 공백이 관측됨.","불규칙적인 강한 강도의 세로 패턴이 모든 대역의 주파수에서 존재.
+모든 주파수 대역에서 서로 다른 강도의 불규칙적인 가로 선형 패턴이 나타남.
+스파이크 형태의 아주 약한 강도의 불규칙적인 패턴이 저주파수에서 고주파수까지 존재.","
+중저주파수에서 고주파수까지 앞뒤 1초의 강도가 약함.
+저주파수(0kHz-1kHz)에서 강한 에너지."
+../../../datasets/dev/ToyCar/test/section_00_source_test_anomaly_0035_car_D1_spd_31V_mic_1.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0035_car_D2_spd_31V_mic_1.wav,"전체적으로 에너지 분포가 강함.
+모든 주파수 대역에서 서로 다른 강도의 불규칙적인 가로 선형 패턴이 나타남. 
+불규칙적인 강한 강도의 세로 패턴이 저주파수에서 고주파수까지 존재.
+불규칙적인 강한 강도의 세로 패턴이 저주파수에서 중주파수까지 존재.","중주파수에서 고주파수 사이에 0.1s만큼의 공백이 관측됨.
+고주파수에서 앞뒤 1초의 강도가 매우 약함.
+고중주파수(5kHz-7kHz)에서 2kHz 폭 대역의 약한 강도의 가로 선형 패턴 존재.
+스파이크 형태의 약한 강도의 불규칙적인 패턴이 저주파수에서 중주파수까지 존재.",저주파수(0kHz-1kHz)에서 강한 에너지.
+../../../datasets/dev/ToyCar/test/section_00_source_test_anomaly_0036_car_D1_spd_34V_mic_1.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0036_car_D2_spd_31V_mic_1.wav,"모든 주파수 대역에서 서로 다른 강도의 불규칙적인 가로 선형 패턴이 나타남. 
+고주파수에서 앞뒤 1초의 강도가 약함.","중주파수에서 고주파수까지 0.5초 동안 중간 강도를 가진 불규칙적인 패턴 존재. 기계가 갈리는 소리가 남.
+스파이크 형태의 약한 강도의 불규칙적인 패턴이 저주파수에 관측됨.",저주파수(0kHz-1kHz)에서 강한 에너지.
+../../../datasets/dev/ToyCar/test/section_00_source_test_anomaly_0037_car_D1_spd_40V_mic_1.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0037_car_D2_spd_31V_mic_1.wav,"0.5초의 구간동안 중주파수의 강도가 약간 증가하는 불규칙적인 패턴이 존재.
+",모든 주파수 대역에서 가로 선형 패턴이 불규칙적으로 높은 주파수일수록 강도가 점점 작아짐.,저주파수(0kHz-1kHz)에서 강한 에너지.
+../../../datasets/dev/ToyCar/test/section_00_source_test_anomaly_0038_car_D1_spd_31V_mic_1.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0038_car_D2_spd_31V_mic_1.wav,"불규칙적하게 8kHz-에서 2kHz까지 강도가 약해지는 구간이 다수 존재.
+전체적으로 에너지 분포가 normal보 강함.","스파이크 형태의 불규칙적인 패턴이 저주파수에서 고주파수까지 존재하나 높은 주파수일수록 강도가 점점 작아짐.
+불규칙적하게 8kHz-에서 2kHz까지 강도가 약해지는 구간이 하나 관측.
+","저주파수(0kHz-1kHz)에서 강한 에너지.
+"
+../../../datasets/dev/ToyCar/test/section_00_source_test_anomaly_0039_car_D1_spd_34V_mic_1.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0039_car_D2_spd_34V_mic_1.wav,불규칙적으로 8kHz-에서 2kHz까지 강도가 약해지는 구간이 존재.,"스파이크 형태의 약한 강도의 불규칙적인 패턴이 저주파수에서 고주파수까지 존재.
+불규칙적으로 8kHz-에서 2kHz까지 강도가 약해지는 구간이 존재.","저중주파수(2kHz-3kHz)와 고중주파수(5kHz-7kHz)에서 1-2kHz 폭 대역의 강도가 약해지는 가로 선형 패턴 존재.
+저주파수(0kHz-1kHz)에서 강한 에너지."
+../../../datasets/dev/ToyCar/test/section_00_source_test_anomaly_0040_car_D1_spd_34V_mic_1.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0040_car_D2_spd_34V_mic_1.wav,,"불규칙적인 강한 강도의 세로 패턴이 모든 대역의 주파수에서 존재. 중주파수에서 고주파수까지 0.5초 동안 중간 강도를 가진 불규칙적인 패턴 존재. 기계가 갈리는 소리가 남.
+
+","pair끼리의 가로 선형 패턴이 매우 유사하게 나옴.
+저주파수(0kHz-1kHz)에서 강한 에너지.
+"
+../../../datasets/dev/ToyCar/test/section_00_source_test_anomaly_0041_car_D1_spd_40V_mic_1.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0041_car_D2_spd_34V_mic_1.wav,스파이크 형태의 강도의 불규칙적인 패턴이 저주파수에서 고주파수까지 자주 존재.,스파이크 형태의 강도의 불규칙적인 패턴이 저주파수에서 고주파수까지 하나 관측됨.,"전체적으로 40V가 34V보다 강한 에너지 분포를 보이고 있음.
+저주파수(0kHz-1kHz)에서 강한 에너지.
+"
+../../../datasets/dev/ToyCar/test/section_00_source_test_anomaly_0042_car_D2_spd_31V_mic_1.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0042_car_D2_spd_34V_mic_1.wav,,"언덕 형태의 불규칙적인 소리가 0kHz-5kHz까지 2개 관측됨.
+스파이크 형태의 약한 강도의 불규칙적인 패턴이 저주파수에서 고주파수까지 존재.","저주파수(0kHz-1kHz)에서 강한 에너지.
+"
+../../../datasets/dev/ToyCar/test/section_00_source_test_anomaly_0043_car_D2_spd_34V_mic_1.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0043_car_D2_spd_34V_mic_1.wav,스파이크 형태의 약한 강도의 불규칙적인 패턴이 저주파수에서 고주파수까지 존재.,"불규칙적인 강한 강도의 세로 패턴이 하나 관측됨.
+중주파수에서 고주파수까지 0.5초 동안 중간 강도를 가진 불규칙적인 패턴 존재(기계가 갈리는 소리가 남).
+특정 주파수 대역에서 가로 선형 패턴이 고루 나타나고 높은 주파수일수록 강도가 점점 작아짐.
+","저주파수(0kHz-1kHz)에서 강한 에너지.
+"
+../../../datasets/dev/ToyCar/test/section_00_source_test_anomaly_0044_car_D2_spd_34V_mic_1.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0044_car_D2_spd_34V_mic_1.wav,0.5초의 구간동안 중주파수의 강도가 약간 증가하는 불규칙적인 패턴이 존재.,"저중주파수(2kHz, 3kHz)에서 0.5kHz 폭만큼, 고중주파수(5kHz-7kHz)에서 1-2kHz 폭만큼 강도가 약해지는 구간이 관측됨.","스파이크 형태의 불규칙적인 패턴이 저주파수에서 고주파수까지 존재하나 높은 주파수일수록 강도가 점점 작아짐.
+저주파수(0kHz-1kHz)에서 강한 에너지."
+../../../datasets/dev/ToyCar/test/section_00_source_test_anomaly_0045_car_D2_spd_40V_mic_1.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0045_car_D2_spd_34V_mic_1.wav,스파이크 형태의 불규칙적인 패턴이 저주파수에서 중주파수까지 존재하나 높은 주파수일수록 강도가 점점 작아짐.,"0.5초의 구간동안 중주파수의 강도가 약간 증가하는 불규칙적인 패턴이 존재.
+2.5Hz에서 7s-12s까지의 점선형태의 강한 가로 선형 패턴이 관측.
+스파이크 형태의 약한 강도의 불규칙적인 패턴이 저주파수에서 고주파수까지 존재.","저주파수(0kHz-1kHz)에서 강한 에너지.
+고주파수에서 앞뒤 1초의 강도가 매우 약함."
+../../../datasets/dev/ToyCar/test/section_00_source_test_anomaly_0046_car_D2_spd_31V_mic_1.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0046_car_D2_spd_34V_mic_1.wav,0.1s에서 1s 간격으로 가로 선형 패턴이 저주파수에서 자주 관측(학교 종소리).,"특정 주파수 대역에서 가로 선형 패턴이 고루 나타나고 높은 주파수일수록 강도가 점점 작아짐.
+스파이크 형태의 불규칙적인 패턴이 저주파수에서 고주파수까지 존재하나 높은 주파수일수록 강도가 점점 작아짐.",저주파수(0kHz-1kHz)에서 강한 에너지.
+../../../datasets/dev/ToyCar/test/section_00_source_test_anomaly_0047_car_D2_spd_34V_mic_1.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0047_car_D2_spd_40V_mic_1.wav,"스파이크 형태의 불규칙적인 패턴이 저주파수에서 고주파수까지 존재하나 높은 주파수일수록 강도가 점점 작아짐.
+0.5초의 구간동안 중주파수의 강도가 약간 증가하는 불규칙적인 패턴이 2개 존재.",스파이크 형태의 불규칙적인 패턴이 저주파수에서 고주파수까지 존재.,
+../../../datasets/dev/ToyCar/test/section_00_source_test_anomaly_0048_car_D2_spd_34V_mic_1.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0048_car_D2_spd_40V_mic_1.wav,스파이크 형태의 약한 강도의 불규칙적인 패턴이 저주파수에서 고주파수까지 존재.,"스파이크 형태의 불규칙적인 패턴이 1개 관측됨, 저주파수에서 고주파수까지 존재하나 높은 주파수일수록 강도가 점점 작아짐.
+저주파수에서 중주파수까지 규칙적인 패턴이 나타나고 강도는 다양함.",저주파수(0kHz-1kHz)에서 강한 에너지.
+../../../datasets/dev/ToyCar/test/section_00_source_test_anomaly_0049_car_D2_spd_40V_mic_1.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0049_car_D2_spd_40V_mic_1.wav,,스파이크 형태의 불규칙적인 패턴이 저주파수에서 고주파수까지 존재하나 높은 주파수일수록 강도가 점점 작아짐. anomaly에 비해 중주파수가 더 강함.,"저주파수(0kHz-1kHz)에서 강한 에너지.
+고주파수에서 앞뒤 1초의 강도가 매우 약함.
+스파이크 형태의 불규칙적인 패턴이 저주파수에서 고주파수까지 존재하나 높은 주파수일수록 강도가 점점 작아짐."
+../../../datasets/dev/ToyCar/test/section_00_source_test_anomaly_0050_car_D2_spd_40V_mic_1.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0050_car_D2_spd_40V_mic_1.wav,"0.5초의 구간동안 중주파수의 강도가 약간 증가하는 불규칙적인 패턴이 1개 존재.
+","0.5초의 구간동안 중주파수의 강도가 약간 증가하는 불규칙적인 패턴이 2개 존재.
+불규칙적인 약한 강도의 세로 패턴이 하나 관측됨.
+7.5s-12s 구간 0kHz-1kHz 대역에서 아주 강한 에너지 분포를 가짐","0.5초의 구간동안 중주파수의 강도가 약간 증가하는 불규칙적인 패턴이 존재.
+저주파수(0kHz-1kHz)에서 강한 에너지."
+../../../datasets/dev/ToyCar/test/section_00_target_test_anomaly_0001_car_A1_spd_28V_mic_2.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0001_car_B2_spd_31V_mic_1.wav,"0.5초의 구간동안 전 대역의 주파수가 아주 약간, 중주파수의 강도가 약간 증가하는 불규칙적인 패턴이 존재.
+normaly에 비해 고중주파수(5kHz-7kHz)에서 1-2kHz 폭만큼 강도가 매우 약해지는 가로 선형 패턴 존재.",,"스파이크 형태의 불규칙적인 패턴이 저주파수에서 중주파수까지 존재하나 높은 주파수일수록 강도가 점점 작아짐.
+저주파수(0kHz-1kHz)에서 강한 에너지.
+스파이크 형태의 불규칙적인 패턴이 저주파수에서 고주파수까지 존재."
+../../../datasets/dev/ToyCar/test/section_00_target_test_anomaly_0002_car_A1_spd_28V_mic_2.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0002_car_B2_spd_31V_mic_1.wav,A1은 고중주파수(5kHz-7kHz)에서 1-2kHz 폭만큼 강도가 약해지는 구간이 관측됨.,,"불규칙적인 여러 강도의 세로 패턴이 저주파수에서 고주파수까지 존재.
+저주파수(0kHz-1kHz)에서 강한 에너지.
+고주파수에서 앞뒤 1초의 강도가 매우 약함."
+../../../datasets/dev/ToyCar/test/section_00_target_test_anomaly_0003_car_A1_spd_28V_mic_2.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0003_car_B2_spd_31V_mic_1.wav,"A1은 고중주파수(5kHz-7kHz)에서 1-2kHz 폭만큼 강도가 약해지는 구간이 관측됨.
+","B2는 1.5s-9s 구간 2kHz-8kHz 에서 균일한 에너지 분포를 보이고 있음.
+B2는 6kHz와 3.2kHz, 1.8kHz등 에서 가로선형패턴이 보인다.
+스파이크 형태의 불규칙적인 패턴이 저주파수에서 고주파수까지 존재하나 높은 주파수일수록 강도가 점점 작아짐.
+스파이크 형태의 약한 강도의 불규칙적인 패턴이 저주파수에서 중주파수까지 존재.","저주파수(0kHz-1kHz)에서 강한 에너지.
+스파이크 형태의 불규칙적인 패턴이 저주파수에 존재."
+../../../datasets/dev/ToyCar/test/section_00_target_test_anomaly_0004_car_A1_spd_37V_mic_2.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0004_car_B2_spd_31V_mic_1.wav,"스파이크 형태의 불규칙적인 패턴이 저주파수에서 고주파수까지 존재하나 높은 주파수일수록 강도가 점점 작아짐.
+고중주파수(5kHz-7kHz)에서 1-2kHz 폭만큼 강도가 약해지는 구간이 관측됨.
+","특정 주파수 대역에서 가로 선형 패턴이 강도와 함께 불규칙적으로 나옴
+언덕형태의 불규칙적인 패턴 1개가 저주파수에서 강하게 관측됨","고주파수에서 앞뒤 1초의 강도가 약함.
+저주파수(0kHz-1kHz)에서 강한 에너지.
+"
+../../../datasets/dev/ToyCar/test/section_00_target_test_anomaly_0005_car_A1_spd_37V_mic_2.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0005_car_B1_spd_34V_mic_1.wav,,"불규칙적인 강한 강도의 세로 패턴이 여러개 관측됨.
+중주파수에서 고주파수까지 0.5초 동안 중간 강도를 가진 불규칙적인 패턴 존재(기계가 갈리는 소리가 남).","스파이크 형태의 불규칙적인 패턴이 저주파수에서 중주파수까지 존재하나 높은 주파수일수록 강도가 점점 작아짐.
+저주파수(0kHz-1kHz)에서 강한 에너지.
+고주파수에서 앞뒤 1초의 강도가 약함.
+"
+../../../datasets/dev/ToyCar/test/section_00_target_test_anomaly_0006_car_A1_spd_37V_mic_2.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0006_car_B1_spd_34V_mic_1.wav,,"언덕 형태의 불규칙적인 소리가 저주파수에서 중주파수까지 관측(코끼리 소리).
+0kHz-0.5kHz 대역에서 불규칙적으로 강한 스파이크가 관측됨","저주파수(0kHz-1kHz)에서 강한 에너지.
+고주파수에서 앞뒤 1초의 강도가 매우 약함.
+스파이크 형태의 약한 강도의 불규칙적인 패턴이 저주파수에서 중주파수까지 존재."
+../../../datasets/dev/ToyCar/test/section_00_target_test_anomaly_0007_car_A1_spd_28V_mic_2.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0007_car_B1_spd_34V_mic_1.wav,"스파이크 형태의 불규칙적인 패턴이 저주파수에서 중주파수까지 존재하나 높은 주파수일수록 강도가 점점 작아짐.
+A1은 고중주파수(5kHz-7kHz)에서 2kHz 폭만큼 강도가 약해지는 구간이 관측됨.",스파이크 형태의 약한 강도의 불규칙적인 패턴이 저주파수에서 중주파수까지 존재.,"저주파수(0kHz-1kHz)에서 강한 에너지.
+고주파수에서 앞뒤 1초의 강도가 매우 약함."
+../../../datasets/dev/ToyCar/test/section_00_target_test_anomaly_0008_car_A1_spd_28V_mic_2.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0008_car_B1_spd_34V_mic_1.wav,고중주파수(5kHz-7kHz)에서 1-2kHz 폭만큼 강도가 약해지는 구간 관축됨.,,"저주파수(0kHz-1kHz)에서 강한 에너지.
+고주파수에서 앞뒤 1초의 강도가 매우 약함.
+스파이크 형태의 불규칙적인 패턴이 저주파수에서 고주파수까지 존재하나 높은 주파수일수록 강도가 점점 작아짐."
+../../../datasets/dev/ToyCar/test/section_00_target_test_anomaly_0009_car_A1_spd_28V_mic_2.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0009_car_B1_spd_34V_mic_1.wav,"중주파수에서 고주파수까지 0.5초 동안 중간 강도를 가진 불규칙적인 패턴 존재(기계가 갈리는 소리가 남).
+불규칙적인 강한 강도의 세로 패턴이 여러개 관측됨.
+저주파수에서 스파이크 형태의 불규칙적인 패턴 관측","고중주파수(5kHz-7kHz)에서 1-2kHz 폭만큼 강도가 약해지는 구간 관측됨.
+고주파수에서 앞뒤 1초의 강도가 매우 약함.",저주파수(0kHz-1kHz)에서 강한 에너지.
+../../../datasets/dev/ToyCar/test/section_00_target_test_anomaly_0010_car_A1_spd_37V_mic_2.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0010_car_B1_spd_34V_mic_1.wav,"고중주파수(5kHz-7kHz)에서 1-2kHz 폭만큼 강도가 약해지는 구간 관측됨.
+4-5kHz에서 강도가 약간 강해지는 구간이 관측됨.",,"
+저주파수(0kHz-1kHz)에서 강한 에너지.
+고주파수에서 앞뒤 1초의 강도가 매우 약함."
+../../../datasets/dev/ToyCar/test/section_00_target_test_anomaly_0011_car_A1_spd_37V_mic_2.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0011_car_B1_spd_34V_mic_1.wav,"고중주파수(6kHz-7kHz)에서 1kHz 폭만큼 강도가 약해지는 구간 관측됨.
+4-5kHz에서 강도가 약간 강해지는 구간이 관측됨.","고중주파수(5kHz-7kHz)에서 2kHz 폭만큼 강도가 약해지는 구간 관측됨.
+언덕 형태의 불규칙적인 소리가 저주파수에서 중주파수까지 관측.
+0.5초의 구간동안 전 대역의 주파수가 아주 약간, 중주파수의 강도가 약간 증가하는 불규칙적인 패턴이 존재.","스파이크 형태의 불규칙적인 패턴이 저주파수에서 고주파수까지 존재하나 높은 주파수일수록 강도가 점점 작아짐.
+저주파수(0kHz-1kHz)에서 강한 에너지.
+고주파수에서 앞뒤 1초의 강도가 매우 약함.
+고중주파수(5kHz-7kHz)에서 1-2kHz 폭만큼 강도가 약해지는 구간 관측됨.
+"
+../../../datasets/dev/ToyCar/test/section_00_target_test_anomaly_0012_car_A1_spd_37V_mic_2.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0012_car_B1_spd_34V_mic_1.wav,"고중주파수(6kHz-7kHz)에서 1kHz 폭만큼 강도가 약해지는 구간 관측됨.
+4-5kHz에서 강도가 약간 강해지는 구간이 관측됨.",고중주파수(4kHz-6kHz)에서 2kHz 폭만큼 강도가 약해지는 구간 관측됨.,"스파이크 형태의 불규칙적인 패턴이 저주파수에서 고주파수까지 존재하나 높은 주파수일수록 강도가 점점 작아짐.
+저주파수(0kHz-1kHz)에서 강한 에너지.
+고주파수에서 앞뒤 1초의 강도가 매우 약함."
+../../../datasets/dev/ToyCar/test/section_00_target_test_anomaly_0013_car_A2_spd_28V_mic_2.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0013_car_B1_spd_34V_mic_1.wav,특정 주파수 대역에서 다양한 강도의 가로 선형 패턴이 불규칙적으로 나타남.,"스파이크 형태의 약한 강도의 불규칙적인 패턴이 저주파수에서 중주파수까지 존재.
+고주파수에서 앞뒤 1초의 강도가 약함.",저주파수(0kHz-1kHz)에서 강한 에너지.
+../../../datasets/dev/ToyCar/test/section_00_target_test_anomaly_0014_car_A2_spd_28V_mic_2.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0014_car_B2_spd_40V_mic_1.wav,"0kHz-2kHz까지 고주파수에서 강한 에너지.
+특정 주파수 대역에서 가로 선형 패턴이 불규칙적으로 높은 주파수일수록 강도가 점점 작아짐.
+불규칙적인 다양한 강도의 세로 패턴이 여러개 관측됨.
+중주파수에서 고주파수까지 0.5초 동안 중간 강도를 가진 불규칙적인 패턴 존재(기계가 갈리는 소리가 남).","고주파수에서 앞뒤 1초의 강도가 매우 약함.
+","저주파수(0kHz-1kHz)에서 강한 에너지.
+"
+../../../datasets/dev/ToyCar/test/section_00_target_test_anomaly_0015_car_A2_spd_28V_mic_2.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0015_car_B2_spd_40V_mic_1.wav,"불규칙적인 강한 강도의 세로 패턴이 여러 개 관측됨.
+2kHz에서 강도가 주변과 비해 약해지는 가로 선형 패턴이 관측됨.
+2kHz, 3kHz, 5-7kHz 대역별로 계속해서 에너지 분포가 약해지는것이 관측됨.",스파이크 형태의 불규칙적인 패턴이 저주파수에서 고주파수까지 존재하나 높은 주파수일수록 강도가 점점 작아짐.,"고주파수에서 앞뒤 1초의 강도가 매우 약함.
+저주파수(0kHz-1kHz)에서 강한 에너지."
+../../../datasets/dev/ToyCar/test/section_00_target_test_anomaly_0016_car_A2_spd_37V_mic_2.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0016_car_B2_spd_40V_mic_1.wav,"중주파수(4kHz-5kHz)에서 1kHz 폭만큼 강도가 강해지는 구간 관측됨.
+가로 선형 패턴이 3kHz와 6kHz에서 나타남.
+저주파수(0kHz-2kHz)에서 강한 에너지.","저주파수(0kHz-1kHz)에서 강한 에너지.
+언덕 형태의 불규칙적인 소리가 저주파수에서 중주파수까지 나오려다 잘린것으로 보임.","고주파수에서 앞뒤 1초의 강도가 매우 약함.
+"
+../../../datasets/dev/ToyCar/test/section_00_target_test_anomaly_0017_car_A2_spd_37V_mic_2.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0017_car_B2_spd_40V_mic_1.wav,"중주파수(4kHz-5kHz)에서 1kHz 폭만큼 강도가 강해지는 구간 관측됨.
+가로 선형 패턴이 3kHz와 6kHz에서 나타남.
+저주파수(0kHz-2kHz)에서 강한 에너지.",스파이크 형태의 약한 강도의 불규칙적인 패턴이 저주파수에서 중주파수까지 존재.,"저주파수(0kHz-1kHz)에서 강한 에너지.
+고주파수에서 앞뒤 1초의 강도가 매우 약함."
+../../../datasets/dev/ToyCar/test/section_00_target_test_anomaly_0018_car_A2_spd_37V_mic_2.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0018_car_C2_spd_31V_mic_1.wav,"고중주파수(6kHz-7kHz)에서 1kHz 폭만큼 강도가 약해지는 구간 관측됨.
+중주파수(4kHz-5kHz)에서 1kHz 폭만큼 강도가 강해지는 구간 관측됨.
+스파이크 형태의 약한 강도의 불규칙적인 패턴이 저주파수에서 존재.","스파이크 형태의 불규칙적인 패턴이 저주파수에서 고주파수까지 존재하나 높은 주파수일수록 강도가 점점 작아짐.
+고중주파수(5kHz-7kHz)에서 1-2kHz 폭만큼 강도가 약해지는 구간 관측됨.","저주파수(0kHz-1kHz)에서 강한 에너지.
+고주파수에서 앞뒤 1초의 강도가 매우 약함."
+../../../datasets/dev/ToyCar/test/section_00_target_test_anomaly_0019_car_A2_spd_28V_mic_2.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0019_car_C2_spd_31V_mic_1.wav,"고중주파수(6kHz-7kHz)에서 1kHz 폭만큼 강도가 약해지는 구간 관측됨.
+중주파수(4kHz-5kHz)에서 1kHz 폭만큼 강도가 강해지는 구간 관측됨.
+","고중주파수(5kHz-7kHz)에서 1-2kHz 폭만큼 강도가 약해지는 구간 관측됨.
+0.5초의 구간 동안 중주파수에서 고주파수의 강도가 약해지는 구간 관측.","고주파수에서 앞뒤 1초의 강도가 매우 약함.
+저주파수(0kHz-1kHz)에서 강한 에너지."
+../../../datasets/dev/ToyCar/test/section_00_target_test_anomaly_0020_car_A2_spd_28V_mic_2.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0020_car_C2_spd_31V_mic_1.wav,"고중주파수(6kHz-7kHz)에서 1kHz 폭만큼 강도가 약해지는 구간 관측됨.
+중주파수(4kHz-5kHz)에서 1kHz 폭만큼 강도가 강해지는 구간 관측됨.
+불규칙적인 약한 강도의 세로 선형 패턴이 하나 관측됨.
+0.5s 간격 동안 0.8kHz 대역에서 강한 신호가 관측되나 anomaly랑은 무관한 소리로 보임",고중주파수(5kHz-7kHz)에서 1-2kHz 폭만큼 강도가 약해지는 구간 관측됨.,"고주파수에서 앞뒤 1초의 강도가 매우 약함.
+저주파수(0kHz-1kHz)에서 강한 에너지."
+../../../datasets/dev/ToyCar/test/section_00_target_test_anomaly_0021_car_A2_spd_28V_mic_2.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0021_car_C2_spd_31V_mic_1.wav,"저주파수(0kHz-1kHz)에서 강한 에너지.
+고주파수에서 앞뒤 1초의 신호가 거의 공백임.
+중주파수(4kHz-5kHz)에서 1kHz 폭만큼 강도가 강해지는 구간 관측됨.
+고중주파수(6kHz-7kHz)에서 1kHz 폭만큼 강도가 약해지는 구간 관측됨.","저주파수(0kHz-2kHz)에서 강한 에너지.
+고주파수에서 앞뒤 1초의 강도가 약함.
+",스파이크 형태의 불규칙적인 패턴이 저주파수에서 고주파수까지 존재하나 높은 주파수일수록 강도가 점점 작아짐.
+../../../datasets/dev/ToyCar/test/section_00_target_test_anomaly_0022_car_A2_spd_28V_mic_2.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0022_car_C2_spd_34V_mic_1.wav,0.15kHz와 1kHz에서 가로 선형 패턴이 보임,"0.15kHz와 0.75kHz, 1kHz에서 가로 선형 패턴이 보임","저주파수(0kHz-1kHz)에서 강한 에너지.
+고주파수에서 앞뒤 1초의 강도가 매우 약함.
+고중주파수(5kHz-6kHz)에서 1kHz 폭만큼 강도가 약해지는 구간 관측됨.
+중주파수(4kHz-5kHz)에서 1kHz 폭만큼 강도가 강해지는 구간 관측됨."
+../../../datasets/dev/ToyCar/test/section_00_target_test_anomaly_0023_car_A2_spd_37V_mic_2.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0023_car_C2_spd_34V_mic_1.wav,"스파이크 형태의 불규칙적인 패턴이 저주파수에서 고주파수까지 존재하나 높은 주파수일수록 강도가 점점 작아짐.
+고중주파수(6kHz-7kHz)에서 1kHz 폭만큼 강도가 약해지는 구간 관측됨.","스파이크 형태의 약한 강도의 불규칙적인 패턴이 저주파수에서 중주파수까지 존재.
+고중주파수(5kHz-6kHz)에서 1kHz 폭만큼 강도가 약해지는 구간 관측됨.","고주파수에서 앞뒤 1초의 강도가 매우 약함.
+저중주파수(2kHz, 3kHz)에서 0.5kHz 폭만큼 강도가 약해지는 구간 관측됨."
+../../../datasets/dev/ToyCar/test/section_00_target_test_anomaly_0024_car_A2_spd_37V_mic_2.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0024_car_C2_spd_34V_mic_1.wav,고중주파수(6kHz-7kHz)에서 1kHz 폭만큼 강도가 약해지는 구간 관측됨.,고중주파수(5kHz-6kHz)에서 1kHz 폭만큼 강도가 약해지는 구간 관측됨.,"고주파수에서 앞뒤 1초의 강도가 매우 약함.
+스파이크 형태의 약한 강도의 불규칙적인 패턴이 저주파수에서 중주파수까지 존재.
+저주파수(0kHz-1kHz)에서 강한 에너지."
+../../../datasets/dev/ToyCar/test/section_00_target_test_anomaly_0025_car_A2_spd_37V_mic_2.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0025_car_C2_spd_34V_mic_1.wav,"저주파수(0kHz-2kHz)에서 강한 에너지.
+가로 선형 패턴이 2kHz, 3kHz, 6kHz에서 나타남.
+불규칙적인 강한 강도의 세로 선형 패턴이 여러 개 관측됨.
+고주파수에서 앞뒤 1초의 강도가 약함.","저주파수(0kHz-1kHz)에서 강한 에너지.
+스파이크 형태의 약한 강도의 불규칙적인 패턴이 저주파수에서 중주파수까지 존재.
+0.5초의 구간 동안 중주파수에서 고주파수의 강도가 약해지는 구간 관측.
+고주파수에서 앞뒤 1초의 강도가 매우 약함.",
+../../../datasets/dev/ToyCar/test/section_00_target_test_anomaly_0026_car_E1_spd_28V_mic_2.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0026_car_C2_spd_34V_mic_1.wav,"불규칙적인 다양한 강도의 세로 선형 패턴이 여러 개 관측됨.
+스파이크 형태의 약한 강도의 불규칙적인 패턴이 저주파수에서 고주파수까지 1개 관측됨.",,"고주파수에서 앞뒤 1초의 강도가 매우 약함.
+저주파수(0kHz-1kHz)에서 강한 에너지.
+0.15kHz와 0.75kHz, 1kHz에서 가로 선형 패턴이 보임."
+../../../datasets/dev/ToyCar/test/section_00_target_test_anomaly_0027_car_E1_spd_28V_mic_2.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0027_car_C2_spd_34V_mic_1.wav,"스파이크 형태의 불규칙적인 패턴이 저주파수에서 고주파수까지 존재하나 높은 주파수일수록 강도가 점점 작아짐.
+1.5s-2s와 9.5s-10s 구간에서 0.5초 동안 중주파수에서 고주파수의 강도가 약해지는 구간 관측.",스파이크 형태의 약한 강도의 불규칙적인 패턴이 저주파수에서 존재.,"저주파수(0kHz-1kHz)에서 강한 에너지.
+가로 선형 패턴이 1kHz, 0.8kHz, 0.2kHz에서 나타남.
+고주파수에서 앞뒤 1초의 강도가 매우 약함.
+고중주파수(5kHz-6kHz)에서 1kHz 폭만큼 강도가 약해지는 구간 관측됨.
+저중주파수(2kHz, 3kHz)에서 0.5kHz 폭만큼 강도가 약해지는 구간 관측됨."
+../../../datasets/dev/ToyCar/test/section_00_target_test_anomaly_0028_car_E1_spd_28V_mic_2.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0028_car_C2_spd_34V_mic_1.wav,"고중주파수(5kHz-7kHz)에서 1-2kHz 폭만큼 강도가 약해지는 구간 관측됨.
+스파이크 형태의 약한 강도의 불규칙적인 패턴이 저주파수에서 고주파수까지 존재.
+가로 선형 패턴이 불규칙적으로 아주 약하게 나타남
+가로 선형 패턴이 1kHz, 0.8kHz, 0.2kHz에서 나타남.","가로 선형 패턴이 불규칙적으로 나타남.
+가로 선형 패턴이 0.2kHz, 0.7kHz, 1.3kHz, 1.6kHz, 2kHz, 3kHz, 6kHz에서 나타남.
+스파이크 형태의 불규칙적인 패턴이 저주파수에서 중주파수까지 존재.","고주파수에서 앞뒤 1초의 강도가 매우 약함.
+저주파수(0kHz-1kHz)에서 강한 에너지."
+../../../datasets/dev/ToyCar/test/section_00_target_test_anomaly_0029_car_E1_spd_37V_mic_2.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0029_car_C2_spd_34V_mic_1.wav,,"0.5초의 구간 동안 전 대역의 주파수는 아주 약간, 중주파수의 강도는 약간 증가하는 패턴이 존재.","저주파수(0kHz-1kHz)에서 강한 에너지.
+0.1s에서 1s 간격으로 나오는 가로 선형 패턴이 저주파수(0kHz-1kHz)에서 자주 관측됨.
+고주파수에서 앞뒤 1초의 강도가 매우 약함.
+불규칙적인 약한 강도의 세로 선형 패턴이 저주파수에서 중주파수까지 존재.
+가로 선형 패턴이 1kHz, 0.8kHz, 0.2kHz에서 나타남."
+../../../datasets/dev/ToyCar/test/section_00_target_test_anomaly_0030_car_E1_spd_37V_mic_2.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0030_car_C2_spd_40V_mic_1.wav,"가로 선형 패턴이 0.2kHz, 0.7kHz, 1.3kHz, 1.6kHz, 2kHz, 3kHz, 6kHz에서 나타남.
+","가로 선형 패턴이 1kHz, 0.8kHz, 0.2kHz에서 나타남.",
 ../../../datasets/dev/ToyCar/test/section_00_target_test_anomaly_0031_car_E1_spd_37V_mic_2.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0031_car_C2_spd_40V_mic_1.wav,,,
 ../../../datasets/dev/ToyCar/test/section_00_target_test_anomaly_0032_car_E1_spd_28V_mic_2.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0032_car_C2_spd_40V_mic_1.wav,,,
 ../../../datasets/dev/ToyCar/test/section_00_target_test_anomaly_0033_car_E1_spd_28V_mic_2.wav,../../../datasets/dev/ToyCar/test/section_00_source_test_normal_0033_car_C2_spd_40V_mic_1.wav,,,
