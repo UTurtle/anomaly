@@ -1029,7 +1029,7 @@ A1은 고중주파수(5kHz-7kHz)에서 2kHz 폭만큼 강도가 약해지는 구
 아주 얇고 강도가 약한 세로 선형 패턴이 6s를 중심으로 비주기적으로 퍼져있음, 타타닥 하는 소리가 들림.
 4s-8s 구간 전 대역에서 약한 에너지 분포, 4s-5.5s구간 6-8kHz에서도 약한 에너지 분포, 바람(또는 박쥐날갯짓) 소리처럼 들림.",2Khz 대역 밑에서 다수의 가로 선형 패턴이 뚜렷하게 관측됨.
 ../../../datasets/dev/ToyTrain/test/section_00_source_test_anomaly_0021_noAttribute.wav,../../../datasets/dev/ToyTrain/test/section_00_source_test_normal_0021_noAttribute.wav,"중심구간 전 대역에서 강한 에너지 분포, 타타닥하며 음질이 터지는 소리처럼 들림. 음질이 많이 깨짐.
-0.2kHz에서 아주 강한 가로 선형 패턴 관측됨.","0.2, 1, 2kHz에서 아주 강한 가로 선형 패턴 관측됨.","0.1s-0.3s 간격만큼 전 대역의 주파수가 강해지는 세로 선형 패턴 관측되나 4kHz-7kHz의 대역은 조금 약하게 관측됨.
+0.2kHz에서 아주 강한 가로 선형 패턴 관측됨.","0.2, 1, 2kHz에서 아주 강한 가로 선형 패턴 관측됨.","비주기적으로 0.1s-0.3s 구간만큼 전 대역의 주파수가 강해지는 패턴 관측되나 4kHz-7kHz의 대역은 조금 약하게 관측됨.
 전 대역에서 가로 선형패턴이 나타나고 있지만 고주파수로 갈수록 강도가 낮아짐."
 ../../../datasets/dev/ToyTrain/test/section_00_source_test_anomaly_0022_noAttribute.wav,../../../datasets/dev/ToyTrain/test/section_00_source_test_normal_0022_noAttribute.wav,"비주기적으로 1.8kHz에서 가로 선형패턴이 아주 강한 강도를 가지는 구간이 관측됨.
 전 대역에서 가로 선형패턴이 나타나고 있지만 고주파수로 갈수록 강도가 낮아짐.
@@ -1042,11 +1042,11 @@ A1은 고중주파수(5kHz-7kHz)에서 2kHz 폭만큼 강도가 약해지는 구
 ../../../datasets/dev/ToyTrain/test/section_00_source_test_anomaly_0024_noAttribute.wav,../../../datasets/dev/ToyTrain/test/section_00_source_test_normal_0024_noAttribute.wav,"중심구간에서 순간적으로 ""위이잉""소리가 들림. 2kHz 밑의 대역만 들었을 때, 저주파수의 가로 선형 패턴이 강해지는 구간이라 추정.
 중심구간 전 대역에서 강한 에너지 분포, 타타닥하며 음질이 터지는 소리처럼 들림. 
 6s를 기준 0.1-0.3s 간격으로 중심대역에서 주변대역으로 퍼지면서 강해지는 패턴이 비주기적으로 관측, 타다닥 하는 소리가 들림.
-4s-8s 구간 전 대역에서 강한 에너지 분포, 바람(또는 박쥐날갯짓) 소리처럼 들림.","0.1s-0.3s 간격만큼 전 대역의 주파수가 강해지는 세로 선형 패턴 관측되나 4kHz-7kHz의 대역은 조금 약하게 관측됨.
+4s-8s 구간 전 대역에서 강한 에너지 분포, 바람(또는 박쥐날갯짓) 소리처럼 들림.","비주기적으로 0.1s-0.3s 구간만큼 전 대역의 주파수가 강해지는 패턴 관측되나 4kHz-7kHz의 대역은 조금 약하게 관측됨.
 4s-8s 구간 전 대역에서 중간 에너지 분포, 바람(또는 박쥐날갯짓) 소리처럼 들림.",6s을 기준으로 언덕이 형성된 것처럼 점진적으로 에너지가 감소하는 분포가 나타남.
 ../../../datasets/dev/ToyTrain/test/section_00_source_test_anomaly_0025_noAttribute.wav,../../../datasets/dev/ToyTrain/test/section_00_source_test_normal_0025_noAttribute.wav,"중심구간 전 대역에서 강한 에너지 분포, 타타닥하며 음질이 터지는 소리처럼 들림.
 중심구간에서 순간적으로 ""위이잉""하는 저주파수가 들림.",,"4s-8s 구간 전 대역에서 강한 에너지 분포, 바람(또는 박쥐날갯짓) 소리처럼 들림.
-0.1s-0.3s 간격만큼 전 대역의 주파수가 강해지는 세로 선형 패턴 관측되나 4kHz-7kHz의 대역은 조금 약하게 관측됨.
+비주기적으로 0.1s-0.3s 구간만큼 전 대역의 주파수가 강해지는 패턴 관측되나 4kHz-7kHz의 대역은 조금 약하게 관측됨.
 6s를 기준 0.1-0.3s 간격으로 중심대역에서 주변대역으로 퍼지면서 강해지는 패턴이 비주기적으로 관측, 타다닥 하는 소리가 들림.
 0.1s 간격만큼 전 대역의 주파수가 강해지는 세로 선형 패턴 관측."
 ../../../datasets/dev/ToyTrain/test/section_00_source_test_anomaly_0026_noAttribute.wav,../../../datasets/dev/ToyTrain/test/section_00_source_test_normal_0026_noAttribute.wav,"4.5s-7.5s의 중심구간의 전 대역에서 중간 정도의 에너지 분포가 고르게 퍼져있음.
@@ -1057,12 +1057,12 @@ A1은 고중주파수(5kHz-7kHz)에서 2kHz 폭만큼 강도가 약해지는 구
 4s-8s 구간 전 대역에서 강한 에너지 분포, 바람(또는 박쥐날갯짓) 소리처럼 들림. 지지직 거리는 소리도 함께 들림.","아주 얇지만 강한 세로 선형 패턴이 6s를 중심으로 비주기적으로 퍼져있음, 타타닥 하는 소리가 들림."
 ../../../datasets/dev/ToyTrain/test/section_00_source_test_anomaly_0027_noAttribute.wav,../../../datasets/dev/ToyTrain/test/section_00_source_test_normal_0027_noAttribute.wav,"0.25-0.5kHz에서 가로 선형 패턴이 뚜렷하게 관측됨.
 4s-8s 구간 전 대역에서 강한 에너지 분포, 바람(또는 박쥐날갯짓) 소리처럼 들림.","0.2kHz에서 아주 강한 가로 선형 패턴 관측됨.
-4s-8s 구간 전 대역에서 중간 에너지 분포, 바람(또는 박쥐날갯짓) 소리처럼 들림.","0.1s-0.3s 간격만큼 전 대역의 주파수가 강해지는 세로 선형 패턴 관측되나 4kHz-7kHz의 대역은 조금 약하게 관측됨. 탕탕거리는 소리가 남.
+4s-8s 구간 전 대역에서 중간 에너지 분포, 바람(또는 박쥐날갯짓) 소리처럼 들림.","비주기적으로 0.1s-0.3s 구간만큼 전 대역의 주파수가 강해지는 패턴 관측되나 4kHz-7kHz의 대역은 조금 약하게 관측됨. 탕탕거리는 소리가 남.
 4s-8s 구간 전 대역에서 강한 에너지 분포, ""위이잉"" 소리가 들림."
 ../../../datasets/dev/ToyTrain/test/section_00_source_test_anomaly_0028_noAttribute.wav,../../../datasets/dev/ToyTrain/test/section_00_source_test_normal_0028_noAttribute.wav,"가로 선형 패턴이 0.25kHz, 1.1kHz, 1.6kHz, 3.1kHz, 6kHz, 7kHz에서 잘 관측되나, 고주파수일 수록 강도가 낮아짐.
 4s-8s 구간 전 대역에서 강한 에너지 분포, ""위이잉"" 소리가 들림.","언덕 패턴이 비주기적으로 관측.
 0kHz-1kHz에서 강한 가로 선형패턴들이 꽉 차있음.","4s-8s 구간 전 대역에서 강한 에너지 분포, 바람(또는 박쥐날갯짓) 소리처럼 들림."
-../../../datasets/dev/ToyTrain/test/section_00_source_test_anomaly_0029_noAttribute.wav,../../../datasets/dev/ToyTrain/test/section_00_source_test_normal_0029_noAttribute.wav,"0.1s-0.3s 간격만큼 전 대역의 주파수가 강해지는 세로 선형 패턴 관측되나 4kHz-7kHz의 대역은 조금 약하게 관측됨.
+../../../datasets/dev/ToyTrain/test/section_00_source_test_anomaly_0029_noAttribute.wav,../../../datasets/dev/ToyTrain/test/section_00_source_test_normal_0029_noAttribute.wav,"비주기적으로 0.1s-0.3s 구간만큼 전 대역의 주파수가 강해지는 패턴 관측되나 4kHz-7kHz의 대역은 조금 약하게 관측됨.
 4s-8s 구간 전 대역에서 강한 에너지 분포, ""지이잉"" 하는 저주파수가 들림.
 7.5kHz-7.8kHz에서 0.3kHz폭으로 중간 에너지 분포 관측.
 0.2, 1kHz에서 강한 가로 선형 패턴 관측됨.","4s-8s 구간 전 대역에서 강한 에너지 분포, ""위이잉"" 하는 저주파수가 작게 들림.
@@ -1085,7 +1085,7 @@ A1은 고중주파수(5kHz-7kHz)에서 2kHz 폭만큼 강도가 약해지는 구
 ","가로 선형 패턴이 0.25-0.4kHz, 1kHz, 1.3-1.7kHz. 1.9-2.4kHz등 다양한 곳에서 나타남.
 4s-8s 구간 전 대역에서 강한 에너지 분포. 바람(또는 박쥐날갯짓)소리가 들림.
 ""지이잉"" 하는 저주파수가 6s 근처에서 들림.
-0.1s-0.3s 간격만큼 전 대역의 주파수가 강해지는 세로 선형 패턴 관측되나 4kHz-7kHz의 대역은 조금 약하게 관측됨.","6s을 기준으로 언덕이 형성된 것처럼 점진적으로 에너지가 감소하는 분포가 나타남.
+비주기적으로 0.1s-0.3s 구간만큼 전 대역의 주파수가 강해지는 패턴 관측되나 4kHz-7kHz의 대역은 조금 약하게 관측됨.","6s을 기준으로 언덕이 형성된 것처럼 점진적으로 에너지가 감소하는 분포가 나타남.
 "
 ../../../datasets/dev/ToyTrain/test/section_00_source_test_anomaly_0032_noAttribute.wav,../../../datasets/dev/ToyTrain/test/section_00_source_test_normal_0032_noAttribute.wav,"4s-8s 구간 전 대역에서 강한 에너지 분포, 특히 4s-5.5s구간 6-8kHz에서 특히 강한 에너지 분포, 바람(또는 박쥐날갯짓) 소리처럼 들림.",,"6s을 기준으로 언덕이 형성된 것처럼 점진적으로 에너지가 감소하는 분포가 나타남.
 "
@@ -1105,34 +1105,34 @@ A1은 고중주파수(5kHz-7kHz)에서 2kHz 폭만큼 강도가 약해지는 구
 4s-8s 구간 전 대역에서 약한 에너지 분포, 바람(또는 박쥐날갯짓) 소리처럼 들림.",
 ../../../datasets/dev/ToyTrain/test/section_00_source_test_anomaly_0036_noAttribute.wav,../../../datasets/dev/ToyTrain/test/section_00_source_test_normal_0036_noAttribute.wav,"중심구간 전 대역에서 강한 에너지 분포, 타타닥하며 음질이 터지는 소리처럼 들림.
 중심구간에서 순간적으로 ""위이잉""소리가 들림. 2kHz 밑의 대역만 들었을 때, 저주파수(1kHz)의 가로 선형 패턴이 강해지는 구간으로 추정.","4s-8s 구간 전 대역에서 약한 에너지 분포, 바람(또는 박쥐날갯짓) 소리처럼 들림.
-0.1s-0.3s 간격만큼 전 대역의 주파수가 강해지는 세로 선형 패턴 관측되나 4kHz-7kHz의 대역은 조금 약하게 관측됨.",6s을 기준으로 언덕이 형성된 것처럼 점진적으로 에너지가 감소하는 분포가 나타남.
+비주기적으로 0.1s-0.3s 구간만큼 전 대역의 주파수가 강해지는 패턴 관측되나 4kHz-7kHz의 대역은 조금 약하게 관측됨.",6s을 기준으로 언덕이 형성된 것처럼 점진적으로 에너지가 감소하는 분포가 나타남.
 ../../../datasets/dev/ToyTrain/test/section_00_source_test_anomaly_0037_noAttribute.wav,../../../datasets/dev/ToyTrain/test/section_00_source_test_normal_0037_noAttribute.wav,"강도가 약한 스파이크 패턴이 비주기적으로 저주파수에서 고주파수까지 존재.
 중심구간 전 대역에서 강한 에너지 분포, 타타닥하며 음질이 터지는 소리처럼 들림.
 아주 얇지만 강한 세로 선형 패턴이 6s를 중심으로 비주기적으로 퍼져있음, 타타닥 하는 소리가 들림.
 언덕 패턴이 비주기적으로 관측.","4s-8s 구간 전 대역에서 약한 에너지 분포, 바람(또는 박쥐날갯짓) 소리처럼 들림.
 노이즈가 잘 보이지 않음.",
-../../../datasets/dev/ToyTrain/test/section_00_source_test_anomaly_0038_noAttribute.wav,../../../datasets/dev/ToyTrain/test/section_00_source_test_normal_0038_noAttribute.wav,"6s 근처 전 대역에서 강한 에너지 분포, 타타닥하며 음질이 터지는 소리처럼 들림.
+../../../datasets/dev/ToyTrain/test/section_00_source_test_anomaly_0038_noAttribute.wav,../../../datasets/dev/ToyTrain/test/section_00_source_test_normal_0038_noAttribute.wav,"6s 근처 전 대역에서 로 선형 패턴 다수가 강한 에너지를 가지며 관측됨, 타타닥하며 음질이 터지는 소리처럼 들림.
 아주 얇지만 강한 세로 선형 패턴이 6s를 중심으로 비주기적으로 퍼져있음, 타타닥 하는 소리가 들림.","4s-8s 구간 전 대역에서 약한 에너지 분포, 바람(또는 박쥐날갯짓) 소리처럼 들림.
 노이즈가 잘 보이지 않음.",
 ../../../datasets/dev/ToyTrain/test/section_00_source_test_anomaly_0039_noAttribute.wav,../../../datasets/dev/ToyTrain/test/section_00_source_test_normal_0039_noAttribute.wav,"비주기적인 강한 강도의 세로 선형 패턴이 여러 개 관측됨. 이러한 강한 강도의 세로 선형 패턴이 관측된 뒤에 바로 전 대역의 주파수에서 몇초 동안 강도가 강해지는 패턴이 두번정도 일어나고 다시 강한강도의 세로 선형 패턴이 두번 일어나고 몇초 동안 강도가 강해지는 패턴, 그다음에 강한강도의 세로 선형 한번 이런식으로 규칙성을 가지면서 일어나는 것을 관측함.
-6s 근처 전 대역에서 강한 에너지 분포, 타타닥하며 음질이 터지는 소리처럼 들림.
+6s 근처 전 대역에서 로 선형 패턴 다수가 강한 에너지를 가지며 관측됨, 타타닥하며 음질이 터지는 소리처럼 들림.
 아주 얇지만 강한 세로 선형 패턴이 6s를 중심으로 비주기적으로 퍼져있음, 타타닥 하는 소리가 들림.
-","0.1s-0.3s 간격만큼 전 대역의 주파수가 강해지는 세로 선형 패턴 관측되나 4kHz-7kHz의 대역은 조금 약하게 관측됨.
+","비주기적으로 0.1s-0.3s 구간만큼 전 대역의 주파수가 강해지는 패턴 관측되나 4kHz-7kHz의 대역은 조금 약하게 관측됨.
 중심구간에서 순간적으로 ""위이잉""소리가 들림. 2kHz 밑의 대역만 들었을 때, 저주파수(1kHz)의 가로 선형 패턴이 강해지는 구간으로 추정.
 
 ","4s-8s 구간 전 대역에서 강한 에너지 분포, 바람(또는 박쥐날갯짓) 소리처럼 들림."
 ../../../datasets/dev/ToyTrain/test/section_00_source_test_anomaly_0040_noAttribute.wav,../../../datasets/dev/ToyTrain/test/section_00_source_test_normal_0040_noAttribute.wav,"4s-8s 구간 전 대역에서 강한 에너지 분포, 바람(또는 박쥐날갯짓) 소리처럼 들림.
-6s 근처 전 대역에서 강한 에너지 분포, 타타닥하며 음질이 터지는 소리처럼 들림.
+6s 근처 전 대역에서 로 선형 패턴 다수가 강한 에너지를 가지며 관측됨, 타타닥하며 음질이 터지는 소리처럼 들림.
 사다리꼴 패턴이 비주기적으로 관측.","4s-8s 구간 전 대역에서 중간 에너지 분포, 바람(또는 박쥐날갯짓) 소리처럼 들림.
-0.1s-0.3s 간격만큼 전 대역의 주파수가 강해지는 세로 선형 패턴 관측되나 4kHz-7kHz의 대역은 조금 약하게 관측됨.
+비주기적으로 0.1s-0.3s 구간만큼 전 대역의 주파수가 강해지는 패턴 관측되나 4kHz-7kHz의 대역은 조금 약하게 관측됨.
 저주파수에서 비주기적인 스파이크 패턴 관측.",6s을 기준으로 언덕이 형성된 것처럼 점진적으로 에너지가 감소하는 분포가 나타남.
-../../../datasets/dev/ToyTrain/test/section_00_source_test_anomaly_0041_noAttribute.wav,../../../datasets/dev/ToyTrain/test/section_00_source_test_normal_0041_noAttribute.wav,"6s 근처 전 대역에서 강한 에너지 분포, 타타닥하며 음질이 터지는 소리처럼 들림.","0.1s-0.3s 간격만큼 전 대역의 주파수가 강해지는 세로 선형 패턴 관측되나 4kHz-7kHz의 대역은 조금 약하게 관측됨.
+../../../datasets/dev/ToyTrain/test/section_00_source_test_anomaly_0041_noAttribute.wav,../../../datasets/dev/ToyTrain/test/section_00_source_test_normal_0041_noAttribute.wav,"6s 근처 전 대역에서 로 선형 패턴 다수가 강한 에너지를 가지며 관측됨, 타타닥하며 음질이 터지는 소리처럼 들림.","비주기적으로 0.1s-0.3s 구간만큼 전 대역의 주파수가 강해지는 패턴 관측되나 4kHz-7kHz의 대역은 조금 약하게 관측됨.
 ","4s-8s 구간 전 대역에서 강한 에너지 분포, 바람(또는 박쥐날갯짓) 소리처럼 들림.
 6s을 기준으로 언덕이 형성된 것처럼 점진적으로 에너지가 감소하는 분포가 나타남."
 ../../../datasets/dev/ToyTrain/test/section_00_source_test_anomaly_0042_noAttribute.wav,../../../datasets/dev/ToyTrain/test/section_00_source_test_normal_0042_noAttribute.wav,"노이즈나 패턴이 잘 관측되지 않음.
 4s-8s 구간 전 대역에서 중간 에너지 분포, 바람(또는 박쥐날갯짓) 소리처럼 들림.
 0.1s에서 1s 간격으로 나오는 가로 선형 패턴이 저주파수(0kHz-1kHz)에서 자주 관측됨.
-","0.1s-0.3s 간격만큼 전 대역의 주파수가 강해지는 세로 선형 패턴 관측되나 4kHz-7kHz의 대역은 조금 약하게 관측됨.
+","비주기적으로 0.1s-0.3s 구간만큼 전 대역의 주파수가 강해지는 패턴 관측되나 4kHz-7kHz의 대역은 조금 약하게 관측됨.
 사다리꼴 패턴이 비주기적으로 관측.
 ",
 ../../../datasets/dev/ToyTrain/test/section_00_source_test_anomaly_0043_noAttribute.wav,../../../datasets/dev/ToyTrain/test/section_00_source_test_normal_0043_noAttribute.wav,,"중심구간에서 순간적으로 ""위이잉""소리가 들림. 2kHz 밑의 대역만 들었을 때, 저주파수(1kHz)의 가로 선형 패턴이 강해지는 구간으로 추정.
@@ -1144,11 +1144,11 @@ A1은 고중주파수(5kHz-7kHz)에서 2kHz 폭만큼 강도가 약해지는 구
 중심구간에서 순간적으로 ""위이잉""소리가 들림. 2kHz 밑의 대역만 들었을 때, 저주파수(1kHz)의 가로 선형 패턴이 강해지는 구간으로 추정.
 4s-8s 구간 전 대역에서 강한 에너지 분포, 바람(또는 박쥐날갯짓) 소리처럼 들림.
 6s을 기준으로 언덕이 형성된 것처럼 점진적으로 에너지가 감소하는 분포가 나타남.
-","4s-8s 구간 전 대역에서 중간 에너지 분포, 바람(또는 박쥐날갯짓) 소리처럼 들림. 자글거리는 느낌 존재.","0.1s-0.3s 간격만큼 전 대역의 주파수가 강해지는 세로 선형 패턴 관측되나 4kHz-7kHz의 대역은 조금 약하게 관측됨.
+","4s-8s 구간 전 대역에서 중간 에너지 분포, 바람(또는 박쥐날갯짓) 소리처럼 들림. 자글거리는 느낌 존재.","비주기적으로 0.1s-0.3s 구간만큼 전 대역의 주파수가 강해지는 패턴 관측되나 4kHz-7kHz의 대역은 조금 약하게 관측됨.
 "
 ../../../datasets/dev/ToyTrain/test/section_00_source_test_anomaly_0046_noAttribute.wav,../../../datasets/dev/ToyTrain/test/section_00_source_test_normal_0046_noAttribute.wav,"아주 얇지만 강한 세로 선형 패턴이 0.1초 간격으로 주기적으로 관측됨. 탁탁탁 하는 소리를 들려줌.
 비주기적인 강한 강도의 스파이크 패턴이 저주파수에 관측됨.
-4s-8s 구간 전 대역에서 강한 에너지 분포, 바람(또는 박쥐날갯짓) 소리처럼 들림(날카로움).","0.1s-0.3s 간격만큼 전 대역의 주파수가 강해지는 세로 선형 패턴 관측되나 4kHz-7kHz의 대역은 조금 약하게 관측됨.
+4s-8s 구간 전 대역에서 강한 에너지 분포, 바람(또는 박쥐날갯짓) 소리처럼 들림(날카로움).","비주기적으로 0.1s-0.3s 구간만큼 전 대역의 주파수가 강해지는 패턴 관측되나 4kHz-7kHz의 대역은 조금 약하게 관측됨.
 4s-8s 구간 전 대역에서 강한 에너지 분포, 바람(또는 박쥐날갯짓) 소리처럼 들림(자글거리는 느낌 존재).","6s을 기준으로 언덕이 형성된 것처럼 점진적으로 에너지가 감소하는 분포가 나타남.
 "
 ../../../datasets/dev/ToyTrain/test/section_00_source_test_anomaly_0047_noAttribute.wav,../../../datasets/dev/ToyTrain/test/section_00_source_test_normal_0047_noAttribute.wav,"아주 얇지만 강한 세로 선형 패턴이 0.1초 간격으로 주기적으로 관측됨. 탁탁탁 하는 소리를 들려줌.
@@ -1157,7 +1157,7 @@ A1은 고중주파수(5kHz-7kHz)에서 2kHz 폭만큼 강도가 약해지는 구
 중심구간에서 순간적으로 ""위이잉""소리가 들림. 2kHz 밑의 대역만 들었을 때, 저주파수(1kHz)의 가로 선형 패턴이 강해지는 구간으로 추정.",
 ../../../datasets/dev/ToyTrain/test/section_00_source_test_anomaly_0048_noAttribute.wav,../../../datasets/dev/ToyTrain/test/section_00_source_test_normal_0048_noAttribute.wav,"6s를 기준으로 강해지는 아주 얇지만 강한 세로 선형 패턴이 0.1초 간격으로 주기적으로 관측됨. 탁탁탁 하는 소리를 들려줌.
 강도가 약한 스파이크 패턴이 비주기적으로 저주파수에서 고주파수까지 존재.
-0.1s-0.3s 간격만큼 전 대역의 주파수가 강해지는 세로 선형 패턴 관측되나 4kHz-7kHz의 대역은 조금 약하게 관측됨.
+비주기적으로 0.1s-0.3s 구간만큼 전 대역의 주파수가 강해지는 패턴 관측되나 4kHz-7kHz의 대역은 조금 약하게 관측됨.
 ","""지이잉"" 하는 저주파수가 6s 근처에서 들림.2kHz 밑의 대역만 들었을 때, 저주파수(0.2kHz)의 가로 선형 패턴이 강해지는 구간으로 추정","6s을 기준으로 언덕이 형성된 것처럼 점진적으로 에너지가 감소하는 분포가 나타남.
 4s-8s 구간 전 대역에서 강한 에너지 분포, 특히 4s-5.5s구간 6-8kHz에서 특히 강한 에너지 분포, 바람(또는 박쥐날갯짓) 소리처럼 들림."
 ../../../datasets/dev/ToyTrain/test/section_00_source_test_anomaly_0049_noAttribute.wav,../../../datasets/dev/ToyTrain/test/section_00_source_test_normal_0049_noAttribute.wav,"비주기적인 강한 강도의 스파이크 패턴이 저주파수에 관측됨.
@@ -1172,7 +1172,7 @@ A1은 고중주파수(5kHz-7kHz)에서 2kHz 폭만큼 강도가 약해지는 구
 전체적으로 에너지 분포가 강함.","4s-8s 구간 전 대역에서 강한 에너지 분포, 바람(또는 박쥐날갯짓) 소리처럼 들림.
 ""위이잉"" 하는 저주파수가 6s 근처에서 들림.","6s을 기준으로 언덕이 형성된 것처럼 점진적으로 에너지가 감소하는 분포가 나타남.
 "
-../../../datasets/dev/ToyTrain/test/section_00_target_test_anomaly_0001_noAttribute.wav,../../../datasets/dev/ToyTrain/test/section_00_source_test_normal_0001_noAttribute.wav,"6s 근처 전 대역에서 강한 에너지 분포, 타타닥하며 음질이 터지는 소리처럼 들림.
+../../../datasets/dev/ToyTrain/test/section_00_target_test_anomaly_0001_noAttribute.wav,../../../datasets/dev/ToyTrain/test/section_00_source_test_normal_0001_noAttribute.wav,"6s 근처 전 대역에서 로 선형 패턴 다수가 강한 에너지를 가지며 관측됨, 타타닥하며 음질이 터지는 소리처럼 들림.
 4s-8s 구간 전 대역에서 강한 에너지 분포, 특히 4s-5.5s구간 6-8kHz에서 특히 강한 에너지 분포.
 아주 얇지만 강한 세로 선형 패턴이 6s를 중심으로 비주기적으로 퍼져있음, 타타닥 하는 소리가 자주 포착.","4s-8s 구간 전 대역에서 중간 에너지 분포, 특히 4s-5.5s구간 6-8kHz에서도 강한 에너지 분포, 바람(또는 박쥐날갯짓) 소리처럼 들림.
 아주 얇지만 강한 세로 선형 패턴이 6s를 중심으로 비주기적으로 퍼져있음, 타타닥 하는 소리가 들림.",
@@ -1180,75 +1180,250 @@ A1은 고중주파수(5kHz-7kHz)에서 2kHz 폭만큼 강도가 약해지는 구
 6s 근처 전 대역에서 강한 에너지 분포. 폭이 좁은 세로 선형 패턴이 모여있는 형태로, 타타닥하며 음질이 터지는 소리처럼 들림.",,"특히 4s-5.5s구간 6-8kHz에서도 중간 에너지 분포
 아주 얇은 세로 선형 패턴이 6s를 중심으로 비주기적으로 퍼져있음, 타타닥 하는 소리가 들림."
 ../../../datasets/dev/ToyTrain/test/section_00_target_test_anomaly_0003_noAttribute.wav,../../../datasets/dev/ToyTrain/test/section_00_source_test_normal_0003_noAttribute.wav,"비주기적인 강한 강도의 세로 선형 패턴이 여러 개 관측됨. 이러한 강한 강도의 세로 선형 패턴이 관측된 뒤에 바로 전 대역의 주파수에서 몇초 동안 강도가 강해지는 패턴이 두번정도 일어나고 다시 강한강도의 세로 선형 패턴이 두번 일어나고 몇초 동안 강도가 강해지는 패턴, 그다음에 강한강도의 세로 선형 한번 이런식으로 규칙성을 가지면서 일어나는 것을 관측함.
-6s 근처 전 대역에서 강한 에너지 분포, 타타닥하며 음질이 터지는 소리처럼 들림.
+6s 근처 전 대역에서 로 선형 패턴 다수가 강한 에너지를 가지며 관측됨, 타타닥하며 음질이 터지는 소리처럼 들림.
 전체적으로 노이즈가 많음.
 ","4s-8s 구간 전 대역에서 약한 에너지 분포, 특히 4s-5.5s구간 6-8kHz에서도 중간 에너지 분포, 바람(또는 박쥐날갯짓) 소리처럼 들림.",
-../../../datasets/dev/ToyTrain/test/section_00_target_test_anomaly_0004_noAttribute.wav,../../../datasets/dev/ToyTrain/test/section_00_source_test_normal_0004_noAttribute.wav,"6s 근처 전 대역에서 강한 에너지 분포, 타타닥하며 음질이 터지는 소리처럼 들림.
+../../../datasets/dev/ToyTrain/test/section_00_target_test_anomaly_0004_noAttribute.wav,../../../datasets/dev/ToyTrain/test/section_00_source_test_normal_0004_noAttribute.wav,"6s 근처 전 대역에서 로 선형 패턴 다수가 강한 에너지를 가지며 관측됨, 타타닥하며 음질이 터지는 소리처럼 들림.
 ","4s-8s 구간 전 대역에서 약한 에너지 분포, 특히 4s-5.5s구간 6-8kHz에서도 중간 에너지 분포, 바람(또는 박쥐날갯짓) 소리처럼 들림.",강도가 약한 스파이크 패턴이 비주기적으로 저주파수에서 고주파수까지 존재.
-../../../datasets/dev/ToyTrain/test/section_00_target_test_anomaly_0005_noAttribute.wav,../../../datasets/dev/ToyTrain/test/section_00_source_test_normal_0005_noAttribute.wav,"6s 근처 전 대역에서 강한 에너지 분포, 타타닥하며 음질이 터지는 소리처럼 들림.
+../../../datasets/dev/ToyTrain/test/section_00_target_test_anomaly_0005_noAttribute.wav,../../../datasets/dev/ToyTrain/test/section_00_source_test_normal_0005_noAttribute.wav,"6s 근처 전 대역에서 로 선형 패턴 다수가 강한 에너지를 가지며 관측됨, 타타닥하며 음질이 터지는 소리처럼 들림.
 6s을 기준으로 언덕이 형성된 것처럼 점진적으로 에너지가 감소하는 분포가 나타남.
 4s-8s 구간 전 대역에서 강한 에너지 분포, 바람(또는 박쥐날갯짓) 소리처럼 들림.","4s-8s 구간 전 대역에서 강한 에너지 분포, 특히 4s-5.5s구간 6-8kHz에서 특히 강한 에너지 분포, 바람(또는 박쥐날갯짓) 소리처럼 들림.",
 ../../../datasets/dev/ToyTrain/test/section_00_target_test_anomaly_0006_noAttribute.wav,../../../datasets/dev/ToyTrain/test/section_00_source_test_normal_0006_noAttribute.wav,"4s-8s 구간 전 대역에서 강한 에너지 분포, 바람(또는 박쥐날갯짓) 소리처럼 들림.
-6s 근처 전 대역에서 강한 에너지 분포, 타타닥하며 음질이 터지는 소리처럼 들림.","4s-8s 구간 전 대역에서 중간 에너지 분포, 특히 4s-5.5s구간 6-8kHz에서도 강한 에너지 분포, 바람(또는 박쥐날갯짓) 소리처럼 들림.
+6s 근처 전 대역에서 로 선형 패턴 다수가 강한 에너지를 가지며 관측됨, 타타닥하며 음질이 터지는 소리처럼 들림.","4s-8s 구간 전 대역에서 중간 에너지 분포, 특히 4s-5.5s구간 6-8kHz에서도 강한 에너지 분포, 바람(또는 박쥐날갯짓) 소리처럼 들림.
 6s를 기준으로 강하고 멀어질 수록 약해지는 아주 얇은 세로 선형 패턴이 6s를 중심 0.3s 간격으로 나름 주기적으로 퍼져있음, 타타닥 하는 소리가 들림.",6s을 기준으로 언덕이 형성된 것처럼 점진적으로 에너지가 감소하는 분포가 나타남.
-../../../datasets/dev/ToyTrain/test/section_00_target_test_anomaly_0007_noAttribute.wav,../../../datasets/dev/ToyTrain/test/section_00_source_test_normal_0007_noAttribute.wav,"6s 근처 전 대역에서 강한 에너지 분포, 타타닥하며 음질이 터지는 소리처럼 들림.
+../../../datasets/dev/ToyTrain/test/section_00_target_test_anomaly_0007_noAttribute.wav,../../../datasets/dev/ToyTrain/test/section_00_source_test_normal_0007_noAttribute.wav,"6s 근처 전 대역에서 로 선형 패턴 다수가 강한 에너지를 가지며 관측됨, 타타닥하며 음질이 터지는 소리처럼 들림.
 아주 얇지만 강한 세로 선형 패턴이 6s를 중심으로 비주기적으로 퍼져있음, 타타닥 하는 소리가 들림.
-4s-8s 구간 전 대역에서 강한 에너지 분포, 바람(또는 박쥐날갯짓) 소리처럼 들림.","0.1s-0.3s 간격만큼 전 대역의 주파수가 강해지는 세로 선형 패턴 관측되나 4kHz-7kHz의 대역은 조금 약하게 관측됨.
+4s-8s 구간 전 대역에서 강한 에너지 분포, 바람(또는 박쥐날갯짓) 소리처럼 들림.","비주기적으로 0.1s-0.3s 구간만큼 전 대역의 주파수가 강해지는 패턴 관측되나 4kHz-7kHz의 대역은 조금 약하게 관측됨.
 4s-8s 구간 전 대역에서 중간 에너지 분포, 특히 4s-5.5s구간 6-8kHz에서도 강한 에너지 분포, 바람(또는 박쥐날갯짓) 소리처럼 들림.",
 ../../../datasets/dev/ToyTrain/test/section_00_target_test_anomaly_0008_noAttribute.wav,../../../datasets/dev/ToyTrain/test/section_00_source_test_normal_0008_noAttribute.wav,"전체적으로 약한 에너지 분포.
 4s-8s 구간 전 대역에서 약한 에너지 분포, 바람(또는 박쥐날갯짓) 소리처럼 들림.
 아주 얇은 세로 선형 패턴이 6s를 중심으로 비주기적으로 퍼져있음, 타타닥 하는 소리가 들림.
 ","비주기적인 강한 강도의 세로 선형 패턴이 여러 개 관측됨. 이러한 강한 강도의 세로 선형 패턴이 관측된 뒤에 바로 전 대역의 주파수에서 몇초 동안 강도가 강해지는 패턴이 두번정도 일어나고 다시 강한강도의 세로 선형 패턴이 두번 일어나고 몇초 동안 강도가 강해지는 패턴, 그다음에 강한강도의 세로 선형 한번 이런식으로 규칙성을 가지면서 일어나는 것을 관측함.
 4s-8s 구간 전 대역에서 강한 에너지 분포, 특히 4s-5.5s구간 6-8kHz에서 특히 강한 에너지 분포, 바람(또는 박쥐날갯짓) 소리처럼 들림.
-6s 근처 전 대역에서 강한 에너지 분포, 타타닥하며 음질이 터지는 소리처럼 들림.
+6s 근처 전 대역에서 로 선형 패턴 다수가 강한 에너지를 가지며 관측됨, 타타닥하며 음질이 터지는 소리처럼 들림.
 ",
 ../../../datasets/dev/ToyTrain/test/section_00_target_test_anomaly_0009_noAttribute.wav,../../../datasets/dev/ToyTrain/test/section_00_source_test_normal_0009_noAttribute.wav,"아주 얇지만 강한 세로 선형 패턴이 6s를 중심으로 비주기적으로 퍼져있음, 타타닥 하는 소리가 들림.
 2kHz밑으로 가로 선형 패턴이 매우 많이 보임.","4s-8s 구간 전 대역에서 강한 에너지 분포, 특히 4s-5.5s구간 6-8kHz에서 특히 강한 에너지 분포, 바람(또는 박쥐날갯짓) 소리처럼 들림.
 6s를 기준으로 강하고 멀어질 수록 약해지는 아주 얇은 세로 선형 패턴이 6s를 중심 0.3s 간격으로 나름 주기적으로 퍼져있음, 타타닥 하는 소리가 들림.",
-../../../datasets/dev/ToyTrain/test/section_00_target_test_anomaly_0010_noAttribute.wav,../../../datasets/dev/ToyTrain/test/section_00_source_test_normal_0010_noAttribute.wav,"고중파수에 있는 가로선형패턴이 파도타는 것처럼 울렁이는 패턴을 보임.
+../../../datasets/dev/ToyTrain/test/section_00_target_test_anomaly_0010_noAttribute.wav,../../../datasets/dev/ToyTrain/test/section_00_source_test_normal_0010_noAttribute.wav,"고중파수에 있는 가로선형패턴이 파도타는 것처럼 울렁이는 패턴을 보임. 6s 근처에서 날카로운 고주파음이 들림.
 4s-8s 구간 전 대역에서 강한 에너지 분포, 바람(또는 박쥐날갯짓) 소리처럼 들림.
 아주 얇지만 강한 세로 선형 패턴이 6s를 중심으로 비주기적으로 퍼져있음, 타타닥 하는 소리가 들림.","4s-8s 구간 전 대역에서 강한 에너지 분포, 특히 4s-5.5s구간 6-8kHz에서 특히 강한 에너지 분포, 바람(또는 박쥐날갯짓) 소리처럼 들림.
 사다리꼴 패턴이 비주기적으로 관측.",
-../../../datasets/dev/ToyTrain/test/section_00_target_test_anomaly_0011_noAttribute.wav,../../../datasets/dev/ToyTrain/test/section_00_source_test_normal_0011_noAttribute.wav,"고중파수에 있는 가로선형패턴이 파도타는 것처럼 울렁이는 패턴을 보임.
+../../../datasets/dev/ToyTrain/test/section_00_target_test_anomaly_0011_noAttribute.wav,../../../datasets/dev/ToyTrain/test/section_00_source_test_normal_0011_noAttribute.wav,"고중파수에 있는 가로선형패턴이 파도타는 것처럼 울렁이는 패턴을 보임. 6s 근처에서 날카로운 고주파음이 들림.
 학교 종소리가 들림.
-4s-8s 구간 전 대역에서 강한 에너지 분포, 바람(또는 박쥐날갯짓) 소리처럼 들림.","0.1s-0.3s 간격만큼 전 대역의 주파수가 강해지는 세로 선형 패턴 관측되나 4kHz-7kHz의 대역은 조금 약하게 관측됨.
+4s-8s 구간 전 대역에서 강한 에너지 분포, 바람(또는 박쥐날갯짓) 소리처럼 들림.","비주기적으로 0.1s-0.3s 구간만큼 전 대역의 주파수가 강해지는 패턴 관측되나 4kHz-7kHz의 대역은 조금 약하게 관측됨.
 4s-8s 구간 전 대역에서 중간 에너지 분포, 특히 4s-5.5s구간 6-8kHz에서도 강한 에너지 분포, 바람(또는 박쥐날갯짓) 소리처럼 들림.",6s을 기준으로 언덕이 형성된 것처럼 점진적으로 에너지가 감소하는 분포가 나타남.
-../../../datasets/dev/ToyTrain/test/section_00_target_test_anomaly_0012_noAttribute.wav,../../../datasets/dev/ToyTrain/test/section_00_source_test_normal_0012_noAttribute.wav,,,
-../../../datasets/dev/ToyTrain/test/section_00_target_test_anomaly_0013_noAttribute.wav,../../../datasets/dev/ToyTrain/test/section_00_source_test_normal_0013_noAttribute.wav,,,
-../../../datasets/dev/ToyTrain/test/section_00_target_test_anomaly_0014_noAttribute.wav,../../../datasets/dev/ToyTrain/test/section_00_source_test_normal_0014_noAttribute.wav,,,
-../../../datasets/dev/ToyTrain/test/section_00_target_test_anomaly_0015_noAttribute.wav,../../../datasets/dev/ToyTrain/test/section_00_source_test_normal_0015_noAttribute.wav,,,
-../../../datasets/dev/ToyTrain/test/section_00_target_test_anomaly_0016_noAttribute.wav,../../../datasets/dev/ToyTrain/test/section_00_source_test_normal_0016_noAttribute.wav,,,
-../../../datasets/dev/ToyTrain/test/section_00_target_test_anomaly_0017_noAttribute.wav,../../../datasets/dev/ToyTrain/test/section_00_source_test_normal_0017_noAttribute.wav,,,
-../../../datasets/dev/ToyTrain/test/section_00_target_test_anomaly_0018_noAttribute.wav,../../../datasets/dev/ToyTrain/test/section_00_source_test_normal_0018_noAttribute.wav,,,
-../../../datasets/dev/ToyTrain/test/section_00_target_test_anomaly_0019_noAttribute.wav,../../../datasets/dev/ToyTrain/test/section_00_source_test_normal_0019_noAttribute.wav,,,
-../../../datasets/dev/ToyTrain/test/section_00_target_test_anomaly_0020_noAttribute.wav,../../../datasets/dev/ToyTrain/test/section_00_source_test_normal_0020_noAttribute.wav,,,
-../../../datasets/dev/ToyTrain/test/section_00_target_test_anomaly_0021_noAttribute.wav,../../../datasets/dev/ToyTrain/test/section_00_source_test_normal_0021_noAttribute.wav,,,
-../../../datasets/dev/ToyTrain/test/section_00_target_test_anomaly_0022_noAttribute.wav,../../../datasets/dev/ToyTrain/test/section_00_source_test_normal_0022_noAttribute.wav,,,
-../../../datasets/dev/ToyTrain/test/section_00_target_test_anomaly_0023_noAttribute.wav,../../../datasets/dev/ToyTrain/test/section_00_source_test_normal_0023_noAttribute.wav,,,
-../../../datasets/dev/ToyTrain/test/section_00_target_test_anomaly_0024_noAttribute.wav,../../../datasets/dev/ToyTrain/test/section_00_source_test_normal_0024_noAttribute.wav,,,
-../../../datasets/dev/ToyTrain/test/section_00_target_test_anomaly_0025_noAttribute.wav,../../../datasets/dev/ToyTrain/test/section_00_source_test_normal_0025_noAttribute.wav,,,
-../../../datasets/dev/ToyTrain/test/section_00_target_test_anomaly_0026_noAttribute.wav,../../../datasets/dev/ToyTrain/test/section_00_source_test_normal_0026_noAttribute.wav,,,
-../../../datasets/dev/ToyTrain/test/section_00_target_test_anomaly_0027_noAttribute.wav,../../../datasets/dev/ToyTrain/test/section_00_source_test_normal_0027_noAttribute.wav,,,
-../../../datasets/dev/ToyTrain/test/section_00_target_test_anomaly_0028_noAttribute.wav,../../../datasets/dev/ToyTrain/test/section_00_source_test_normal_0028_noAttribute.wav,,,
-../../../datasets/dev/ToyTrain/test/section_00_target_test_anomaly_0029_noAttribute.wav,../../../datasets/dev/ToyTrain/test/section_00_source_test_normal_0029_noAttribute.wav,,,
-../../../datasets/dev/ToyTrain/test/section_00_target_test_anomaly_0030_noAttribute.wav,../../../datasets/dev/ToyTrain/test/section_00_source_test_normal_0030_noAttribute.wav,,,
-../../../datasets/dev/ToyTrain/test/section_00_target_test_anomaly_0031_noAttribute.wav,../../../datasets/dev/ToyTrain/test/section_00_source_test_normal_0031_noAttribute.wav,,,
-../../../datasets/dev/ToyTrain/test/section_00_target_test_anomaly_0032_noAttribute.wav,../../../datasets/dev/ToyTrain/test/section_00_source_test_normal_0032_noAttribute.wav,,,
-../../../datasets/dev/ToyTrain/test/section_00_target_test_anomaly_0033_noAttribute.wav,../../../datasets/dev/ToyTrain/test/section_00_source_test_normal_0033_noAttribute.wav,,,
-../../../datasets/dev/ToyTrain/test/section_00_target_test_anomaly_0034_noAttribute.wav,../../../datasets/dev/ToyTrain/test/section_00_source_test_normal_0034_noAttribute.wav,,,
-../../../datasets/dev/ToyTrain/test/section_00_target_test_anomaly_0035_noAttribute.wav,../../../datasets/dev/ToyTrain/test/section_00_source_test_normal_0035_noAttribute.wav,,,
-../../../datasets/dev/ToyTrain/test/section_00_target_test_anomaly_0036_noAttribute.wav,../../../datasets/dev/ToyTrain/test/section_00_source_test_normal_0036_noAttribute.wav,,,
-../../../datasets/dev/ToyTrain/test/section_00_target_test_anomaly_0037_noAttribute.wav,../../../datasets/dev/ToyTrain/test/section_00_source_test_normal_0037_noAttribute.wav,,,
-../../../datasets/dev/ToyTrain/test/section_00_target_test_anomaly_0038_noAttribute.wav,../../../datasets/dev/ToyTrain/test/section_00_source_test_normal_0038_noAttribute.wav,,,
-../../../datasets/dev/ToyTrain/test/section_00_target_test_anomaly_0039_noAttribute.wav,../../../datasets/dev/ToyTrain/test/section_00_source_test_normal_0039_noAttribute.wav,,,
-../../../datasets/dev/ToyTrain/test/section_00_target_test_anomaly_0040_noAttribute.wav,../../../datasets/dev/ToyTrain/test/section_00_source_test_normal_0040_noAttribute.wav,,,
-../../../datasets/dev/ToyTrain/test/section_00_target_test_anomaly_0041_noAttribute.wav,../../../datasets/dev/ToyTrain/test/section_00_source_test_normal_0041_noAttribute.wav,,,
-../../../datasets/dev/ToyTrain/test/section_00_target_test_anomaly_0042_noAttribute.wav,../../../datasets/dev/ToyTrain/test/section_00_source_test_normal_0042_noAttribute.wav,,,
-../../../datasets/dev/ToyTrain/test/section_00_target_test_anomaly_0043_noAttribute.wav,../../../datasets/dev/ToyTrain/test/section_00_source_test_normal_0043_noAttribute.wav,,,
-../../../datasets/dev/ToyTrain/test/section_00_target_test_anomaly_0044_noAttribute.wav,../../../datasets/dev/ToyTrain/test/section_00_source_test_normal_0044_noAttribute.wav,,,
-../../../datasets/dev/ToyTrain/test/section_00_target_test_anomaly_0045_noAttribute.wav,../../../datasets/dev/ToyTrain/test/section_00_source_test_normal_0045_noAttribute.wav,,,
-../../../datasets/dev/ToyTrain/test/section_00_target_test_anomaly_0046_noAttribute.wav,../../../datasets/dev/ToyTrain/test/section_00_source_test_normal_0046_noAttribute.wav,,,
-../../../datasets/dev/ToyTrain/test/section_00_target_test_anomaly_0047_noAttribute.wav,../../../datasets/dev/ToyTrain/test/section_00_source_test_normal_0047_noAttribute.wav,,,
-../../../datasets/dev/ToyTrain/test/section_00_target_test_anomaly_0048_noAttribute.wav,../../../datasets/dev/ToyTrain/test/section_00_source_test_normal_0048_noAttribute.wav,,,
-../../../datasets/dev/ToyTrain/test/section_00_target_test_anomaly_0049_noAttribute.wav,../../../datasets/dev/ToyTrain/test/section_00_source_test_normal_0049_noAttribute.wav,,,
-../../../datasets/dev/ToyTrain/test/section_00_target_test_anomaly_0050_noAttribute.wav,../../../datasets/dev/ToyTrain/test/section_00_source_test_normal_0050_noAttribute.wav,,,
+../../../datasets/dev/ToyTrain/test/section_00_target_test_anomaly_0012_noAttribute.wav,../../../datasets/dev/ToyTrain/test/section_00_source_test_normal_0012_noAttribute.wav,"고중파수에 있는 가로선형패턴이 파도타는 것처럼 울렁이는 패턴을 보임. 6s 근처에서 강도가 강해지는데, 이때 날카로운 고주파음이 들림.
+4s-8s 구간 전 대역에서 강한 에너지 분포, 바람(또는 박쥐날갯짓) 소리처럼 들림.
+","4s-8s 구간 전 대역에서 조금 강한 에너지 분포, 특히 4s-5.5s구간 6-8kHz에서도 조금 강한 에너지 분포, 바람(또는 박쥐날갯짓) 소리처럼 들림.","2kHz이하 대역에서 많은 가로 선형 패턴이 관측됨.
+6s을 기준으로 언덕이 형성된 것처럼 점진적으로 에너지가 감소하는 분포가 나타남.
+"
+../../../datasets/dev/ToyTrain/test/section_00_target_test_anomaly_0013_noAttribute.wav,../../../datasets/dev/ToyTrain/test/section_00_source_test_normal_0013_noAttribute.wav,"아주 얇은 세로 선형 패턴이 6s를 중심으로 비주기적으로 퍼져있음, 타타닥 하는 소리가 들림.
+0.1s 간격만큼 전 대역의 주파수가 강해지는 세로 선형 패턴 관측.
+",,"4s-8s 구간 전 대역에서 중간 에너지 분포, 특히 4s-5.5s구간 6-8kHz에서도 강한 에너지 분포, 바람(또는 박쥐날갯짓) 소리처럼 들림.
+0.3초 동안 중주파수에서 고주파수의 강도가 약해지는 구간 관측."
+../../../datasets/dev/ToyTrain/test/section_00_target_test_anomaly_0014_noAttribute.wav,../../../datasets/dev/ToyTrain/test/section_00_source_test_normal_0014_noAttribute.wav,"고중파수에 있는 강도가 약한 가로선형패턴이 파도타는 것처럼 울렁이는 패턴을 보임.
+4s-8s 구간 전 대역에서 약한 에너지 분포, 특히 4s-5.5s구간 6-8kHz에서도 중간 에너지 분포, 바람(또는 박쥐날갯짓) 소리처럼 들림.
+아주 얇지만 강한 세로 선형 패턴이 6s를 중심으로 비주기적으로 퍼져있음, 타타닥 하는 소리가 들림.
+2.5kHz 이하구간에서 많은 가로 선형 패턴이 관찰됨. 특히 1.6kHz는 매우 강한 가로 선형 패턴임.","4s-8s 구간 전 대역에서 강한 에너지 분포, 특히 4s-5.5s구간 6-8kHz에서 특히 강한 에너지 분포, 바람(또는 박쥐날갯짓) 소리처럼 들림.",6s을 기준으로 언덕이 형성된 것처럼 점진적으로 에너지가 감소하는 분포가 나타남.
+../../../datasets/dev/ToyTrain/test/section_00_target_test_anomaly_0015_noAttribute.wav,../../../datasets/dev/ToyTrain/test/section_00_source_test_normal_0015_noAttribute.wav,"비주기적인 강한 강도의 세로 선형 패턴이 여러 개 관측됨. 이러한 강한 강도의 세로 선형 패턴이 관측된 뒤에 바로 전 대역의 주파수에서 몇초 동안 강도가 강해지는 패턴이 두번정도 일어나고 다시 강한강도의 세로 선형 패턴이 두번 일어나고 몇초 동안 강도가 강해지는 패턴, 그다음에 강한강도의 세로 선형 한번 이런식으로 규칙성을 가지면서 일어나는 것을 관측함.
+아주 얇지만 강한 세로 선형 패턴이 6s를 중심으로 비주기적으로 퍼져있음, 타타닥 하는 소리가 들림.
+비주기적인 강한 강도의 스파이크 패턴이 저주파수에서 중주파수까지 관측됨.
+4s-8s 구간 전 대역에서 약한 에너지 분포, 특히 4s-5.5s구간 6-8kHz에서도 중간 에너지 분포, 바람(또는 박쥐날갯짓) 소리처럼 들림.
+","4s-8s 구간 전 대역에서 중간 에너지 분포, 특히 4s-5.5s구간 6-8kHz에서도 강한 에너지 분포, 바람(또는 박쥐날갯짓) 소리처럼 들림.
+사다리꼴 패턴이 비주기적으로 관측.",
+../../../datasets/dev/ToyTrain/test/section_00_target_test_anomaly_0016_noAttribute.wav,../../../datasets/dev/ToyTrain/test/section_00_source_test_normal_0016_noAttribute.wav,"4s-8s 구간 전 대역에서 강한 에너지 분포, 바람(또는 박쥐날갯짓) 소리처럼 들림.
+몇초 동안 전 대역의 주파수에서 강도가 강해지는 비주기적인 패턴 존재(갈리는 소리가 남).","4s-8s 구간 전 대역에서 강한 에너지 분포, 특히 4s-5.5s구간 6-8kHz에서 특히 강한 에너지 분포, 바람(또는 박쥐날갯짓) 소리처럼 들림.
+비주기적으로 0.1s-0.3s 구간만큼 전 대역의 주파수가 강해지는 패턴 관측되나 4kHz-7kHz의 대역은 조금 약하게 관측됨.",아주 얇지만 강한 세로 선형 패턴이 0.1초 간격으로 주기적으로 관측됨. 탁탁탁 하는 소리를 들려줌.
+../../../datasets/dev/ToyTrain/test/section_00_target_test_anomaly_0017_noAttribute.wav,../../../datasets/dev/ToyTrain/test/section_00_source_test_normal_0017_noAttribute.wav,"6s을 기준으로 언덕이 형성된 것처럼 점진적으로 에너지가 감소하는 분포가 나타남.
+4s-8s 구간 전 대역에서 강한 에너지 분포, 바람(또는 박쥐날갯짓) 소리처럼 들림.
+강도가 약한 스파이크 패턴이 비주기적으로 저주파수에서 고주파수까지 존재.","4s-8s 구간 전 대역에서 강한 에너지 분포, 특히 4s-5.5s구간 6-8kHz에서 특히 강한 에너지 분포, 바람(또는 박쥐날갯짓) 소리처럼 들림.
+2kHz이하 대역에서 많은 가로 선형 패턴이 관측됨.",
+../../../datasets/dev/ToyTrain/test/section_00_target_test_anomaly_0018_noAttribute.wav,../../../datasets/dev/ToyTrain/test/section_00_source_test_normal_0018_noAttribute.wav,"1kHz이하 대역에서 많은 가로 선형 패턴이 관측됨.
+1KHz의 가로선형 패턴이 비주기적으로 강해졌다가 약해지고 있음.
+주파수 전 대역에서 불규칙한 간격으로 강한 세로 패턴이 나타나지만, 4kHz에서 7kHz 사이의 대역에서는 상대적으로 약하게 보임.
+","1.8kHz이하 대역에서 많은 가로 선형 패턴이 관측됨.
+강도가 약한 스파이크 패턴이 비주기적으로 저주파수에서 고주파수까지 존재.
+아주 얇지만 강한 세로 선형 패턴이 6s를 중심으로 비주기적으로 퍼져있음, 타타닥 하는 소리가 들림.
+","4s-8s 구간 전 대역에서 강한 에너지 분포, 바람(또는 박쥐날갯짓) 소리처럼 들림."
+../../../datasets/dev/ToyTrain/test/section_00_target_test_anomaly_0019_noAttribute.wav,../../../datasets/dev/ToyTrain/test/section_00_source_test_normal_0019_noAttribute.wav,"비주기적인 강한 강도의 스파이크 패턴이 저주파수에서 중주파수까지 관측됨.
+4s-8s 구간 전 대역에서 강한 에너지 분포, 바람(또는 박쥐날갯짓) 소리처럼 들림.
+아주 얇은 세로 선형 패턴이 6s를 중심으로 비주기적으로 퍼져있음, 타타닥 하는 소리가 들림.","주파수 전 대역에서 불규칙한 간격으로 강한 세로 패턴이 나타나지만, 4kHz에서 7kHz 사이의 대역에서는 상대적으로 약하게 보임.
+4s-8s 구간 전 대역에서 중간 에너지 분포, 바람(또는 박쥐날갯짓) 소리처럼 들림.",강도가 약한 스파이크 패턴이 비주기적으로 저주파수에서 고주파수까지 존재.
+../../../datasets/dev/ToyTrain/test/section_00_target_test_anomaly_0020_noAttribute.wav,../../../datasets/dev/ToyTrain/test/section_00_source_test_normal_0020_noAttribute.wav,"4s-8s 구간 전 대역에서 중간 에너지 분포, 바람(또는 박쥐날갯짓) 소리처럼 들림.","비주기적으로 0.1s-0.3s 구간만큼 전 대역의 주파수가 강해지는 패턴 관측되나 4kHz-7kHz의 대역은 조금 약하게 관측됨.
+4s-8s 구간 전 대역에서 약한 에너지 분포, 바람(또는 박쥐날갯짓) 소리처럼 들림.
+6s근처를 제외한 4kHz-7kHz의 대역은 에너지 분포가 약함.
+잠시 동안 중주파수에서 고주파수의 강도가 약해지는 구간 관측.","아주 얇지만 강한 세로 선형 패턴이 6s를 중심으로 비주기적으로 퍼져있음, 타타닥 하는 소리가 들림."
+../../../datasets/dev/ToyTrain/test/section_00_target_test_anomaly_0021_noAttribute.wav,../../../datasets/dev/ToyTrain/test/section_00_source_test_normal_0021_noAttribute.wav,"주파수 전 대역에서 불규칙한 간격으로 전 대역의 주파수가 강해지는 구간이 존재하지만, 4kHz에서 7kHz 사이의 대역에서는 상대적으로 약하게 보임.
+1kH이하에서 가로 선형 패턴이 많이 관측됨.","비주기적으로 0.1s-0.3s 구간만큼 전 대역의 주파수가 강해지는 패턴 관측되나 4kHz-7kHz의 대역은 조금 약하게 관측됨.
+0.2, 1, 2kHz에서 아주 강한 가로 선형 패턴 관측됨.","4kHz에서 7kHz 사이의 대역에서는 에너지 분포가 약해짐.
+4s-8s 구간 전 대역에서 중간 에너지 분포, 바람(또는 박쥐날갯짓) 소리처럼 들림.
+아주 얇지만 강한 세로 선형 패턴이 6s를 중심으로 비주기적으로 퍼져있음, 타타닥 하는 소리가 들림."
+../../../datasets/dev/ToyTrain/test/section_00_target_test_anomaly_0022_noAttribute.wav,../../../datasets/dev/ToyTrain/test/section_00_source_test_normal_0022_noAttribute.wav,"아주 얇지만 강한 세로 선형 패턴이 6s를 중심으로 비주기적으로 퍼져있음, 타타닥 하는 소리가 들림.
+4s-8s 구간 전 대역에서 중간 에너지 분포, 바람(또는 박쥐날갯짓) 소리처럼 들림.
+0.2, 1, 2kHz에서 아주 강한 가로 선형 패턴 관측됨.
+","6s을 기준으로 언덕이 형성된 것처럼 점진적으로 에너지가 감소하는 분포가 나타남.
+4s-8s 구간 전 대역에서 강한 에너지 분포, 바람(또는 박쥐날갯짓) 소리처럼 들림.
+0.25-0.5kHz에서 가로 선형 패턴이 뚜렷하게 관측됨.
+7.5kHz-7.8kHz에서 0.3kHz폭으로 중간 에너지 푼포 관측.
+6s 근처 전 대역에서 로 선형 패턴 다수가 강한 에너지를 가지며 관측됨, 타타닥하며 음질이 터지는 소리처럼 들림.",4kHz에서 7kHz 사이의 대역에서는 에너지 분포가 약해짐.
+../../../datasets/dev/ToyTrain/test/section_00_target_test_anomaly_0023_noAttribute.wav,../../../datasets/dev/ToyTrain/test/section_00_source_test_normal_0023_noAttribute.wav,"고중파수에 있는 가로선형패턴이 파도타는 것처럼 울렁이는 패턴을 보임. 6s 근처에서 날카로운 고주파음이 들림.
+4s-8s 구간 전 대역에서 강한 에너지 분포, 특히 4s-5.5s구간 6-8kHz에서 특히 강한 에너지 분포, 바람(또는 박쥐날갯짓) 소리처럼 들림.
+6s를 기준으로 강하고 멀어질 수록 약해지는 아주 얇은 세로 선형 패턴이 6s를 중심 0.3s 간격으로 나름 주기적으로 퍼져있음, 타타닥 하는 소리가 들림.","4s-8s 구간 전 대역에서 중간 에너지 분포, 바람(또는 박쥐날갯짓) 소리처럼 들림.
+비주기적인 강한 강도의 스파이크 패턴이 저주파수에서 중주파수까지 관측됨.
+아주 얇지만 강한 세로 선형 패턴이 6s를 중심으로 비주기적으로 퍼져있음, 타타닥 하는 소리가 들림.",
+../../../datasets/dev/ToyTrain/test/section_00_target_test_anomaly_0024_noAttribute.wav,../../../datasets/dev/ToyTrain/test/section_00_source_test_normal_0024_noAttribute.wav,"고중파수에 있는 가로선형패턴이 파도타는 것처럼 울렁이는 패턴을 보임. 6s 근처에서 날카로운 고주파음이 들림.
+4s-8s 구간 전 대역에서 강한 에너지 분포, 특히 4s-5.5s구간 6-8kHz에서 특히 강한 에너지 분포, 바람(또는 박쥐날갯짓) 소리처럼 들림.
+6s를 기준으로 강하고 멀어질 수록 약해지는 아주 얇은 세로 선형 패턴이 6s를 중심 0.3s 간격으로 나름 주기적으로 퍼져있음, 타타닥 하는 소리가 들림.
+비주기적인 강한 강도의 스파이크 패턴이 저주파수에서 중주파수까지 관측됨.","비주기적으로 0.1s-0.3s 구간만큼 전 대역의 주파수가 강해지는 패턴 관측되나 4kHz-7kHz의 대역은 조금 약하게 관측됨.
+4s-8s 구간 전 대역에서 중간 에너지 분포, 바람(또는 박쥐날갯짓) 소리처럼 들림.",
+../../../datasets/dev/ToyTrain/test/section_00_target_test_anomaly_0025_noAttribute.wav,../../../datasets/dev/ToyTrain/test/section_00_source_test_normal_0025_noAttribute.wav,"고중파수에 있는 가로선형패턴이 파도타는 것처럼 울렁이는 패턴을 보임. 6s 근처에서 날카로운 고주파음이 들림.
+4s-8s 구간 전 대역에서 중간 에너지 분포, 바람(또는 박쥐날갯짓) 소리처럼 들림.
+6s를 기준으로 강하고 멀어질 수록 약해지는 아주 얇은 세로 선형 패턴이 6s를 중심 0.3s 간격으로 나름 주기적으로 퍼져있음, 타타닥 하는 소리가 들림.
+비주기적인 강한 강도의 스파이크 패턴이 저주파수에서 중주파수까지 관측됨.","비주기적으로 0.1s-0.3s 구간만큼 전 대역의 주파수가 강해지는 패턴 관측되나 4kHz-7kHz의 대역은 조금 약하게 관측됨.
+4s-8s 구간 전 대역에서 중간 에너지 분포, 바람(또는 박쥐날갯짓) 소리처럼 들림.
+0.1s 간격만큼 전 대역의 주파수가 강해지는 세로 선형 패턴 관측.",
+../../../datasets/dev/ToyTrain/test/section_00_target_test_anomaly_0026_noAttribute.wav,../../../datasets/dev/ToyTrain/test/section_00_source_test_normal_0026_noAttribute.wav,"3s-9.5s구간 전 대역에서 세로 선형 패턴 다수가 강한 에너지를 가지며 관측됨, 타타닥하며 음질이 터지는 소리처럼 들림.","0.1s 간격만큼 전 대역의 주파수가 강해지는 세로 선형 패턴 관측.
+6s 근처 전 대역에서 로 선형 패턴 다수가 강한 에너지를 가지며 관측됨, 타타닥하며 음질이 터지는 소리처럼 들림.
+","6s을 기준으로 언덕이 형성된 것처럼 점진적으로 에너지가 감소하는 분포가 나타남.
+4s-8s 구간 전 대역에서 강한 에너지 분포, 바람(또는 박쥐날갯짓) 소리처럼 들림."
+../../../datasets/dev/ToyTrain/test/section_00_target_test_anomaly_0027_noAttribute.wav,../../../datasets/dev/ToyTrain/test/section_00_source_test_normal_0027_noAttribute.wav,"3s-9.5s구간 전 대역에서 세로 선형 패턴 다수가 강한 에너지를 가지며 관측됨, 타타닥하며 음질이 터지는 소리처럼 들림.
+0.1s-0.3s 간격만큼 전 대역의 주파수가 강해지는 세로 선형 패턴 관측됨.","4s-8s 구간 전 대역에서 강한 에너지 분포, 바람(또는 박쥐날갯짓) 소리처럼 들림.",0.1s-0.3s 구간만큼 전 대역의 주파수가 강해지는 세로 선형 패턴 관측되나 4kHz-7kHz의 대역은 조금 약하게 관측됨.
+../../../datasets/dev/ToyTrain/test/section_00_target_test_anomaly_0028_noAttribute.wav,../../../datasets/dev/ToyTrain/test/section_00_source_test_normal_0028_noAttribute.wav,"3s-9.5s구간 전 대역에서 세로 선형 패턴 다수가 강한 에너지를 가지며 관측됨, 타타닥하며 음질이 터지는 소리처럼 들림.
+불규칙적인 간격으로 전 대역의 주파수가 강해지는 세로 선형 패턴 관측됨.
+0.1s 간격만큼 전 대역의 주파수가 강해지는 세로 선형 패턴 관측.","전 대역에서 불규칙한 간격으로 전 대역의 주파수가 강해지는 구간이 존재하지만, 4kHz에서 7kHz 사이의 대역에서는 상대적으로 약하게 보임.
+4s-8s 구간 전 대역에서 강한 에너지 분포, 바람(또는 박쥐날갯짓) 소리처럼 들림.",6s을 기준으로 언덕이 형성된 것처럼 점진적으로 에너지가 감소하는 분포가 나타남.
+../../../datasets/dev/ToyTrain/test/section_00_target_test_anomaly_0029_noAttribute.wav,../../../datasets/dev/ToyTrain/test/section_00_source_test_normal_0029_noAttribute.wav,"중심구간에서 순간적으로 ""위이잉""소리가 들림. 2kHz 밑의 대역만 들었을 때, 저주파수(1kHz)의 가로 선형 패턴이 강해지는 구간으로 추정.
+""지이잉"" 하는 저주파수가 6s 근처에서 들림.2kHz 밑의 대역만 들었을 때, 저주파수(0.2kHz)의 가로 선형 패턴이 강해지는 구간으로 추정.
+6s 근처 중심 주파수를 기준으로 강해지는 세로 선형 패턴 다수가 강한 에너지를 가지며 관측됨, 타타닥하며 음질이 터지는 소리처럼 들림.
+6s를 기준으로 강하고 멀어질 수록 약해지는 아주 얇은 세로 선형 패턴이 6s를 중심 특정 간격으로 나름 주기적으로 퍼져있음, 타타닥 하는 소리가 들림.","중심구간에서 순간적으로 ""위이잉""소리가 들림. 2kHz 밑의 대역만 들었을 때, 저주파수(0.8kHz. 0.6kHz)의 가로 선형 패턴이 강해지는 구간으로 추정.","6s을 기준으로 언덕이 형성된 것처럼 점진적으로 에너지가 감소하는 분포가 나타남.
+4s-8s 구간 전 대역에서 강한 에너지 분포, 바람(또는 박쥐날갯짓) 소리처럼 들림."
+../../../datasets/dev/ToyTrain/test/section_00_target_test_anomaly_0030_noAttribute.wav,../../../datasets/dev/ToyTrain/test/section_00_source_test_normal_0030_noAttribute.wav,"중심구간에서 순간적으로 ""배애앵""소리가 들림. 2kHz 밑의 대역만 들었을 때, 저주파수(1kHz)의 가로 선형 패턴이 강해지는 구간으로 추정.
+6s 근처 중심 주파수를 기준으로 강해지는 세로 선형 패턴 다수가 강한 에너지를 가지며 관측됨, 타타닥하며 음질이 터지는 소리처럼 들림.
+6s를 기준으로 강하고 멀어질 수록 약해지는 아주 얇은 세로 선형 패턴이 6s를 중심 특정 간격으로 나름 주기적으로 퍼져있음, 타타닥 하는 소리가 들림.
+
+","""지이잉"" 하는 저주파수가 6s 근처에서 들림.2kHz 밑의 대역만 들었을 때, 저주파수(0.2kHz)의 가로 선형 패턴이 강해지는 구간으로 추정.
+비주기적으로 0.1s-0.3s 구간만큼 전 대역의 주파수가 강해지는 패턴 관측되나 4kHz-7kHz의 대역은 조금 약하게 관측됨.","6s을 기준으로 언덕이 형성된 것처럼 점진적으로 에너지가 감소하는 분포가 나타남.
+4s-8s 구간 전 대역에서 강한 에너지 분포, 바람(또는 박쥐날갯짓) 소리처럼 들림."
+../../../datasets/dev/ToyTrain/test/section_00_target_test_anomaly_0031_noAttribute.wav,../../../datasets/dev/ToyTrain/test/section_00_source_test_normal_0031_noAttribute.wav,"중심구간에서 순간적으로 ""배애앵""소리가 들림. 2kHz 밑의 대역만 들었을 때, 저주파수(1kHz)의 가로 선형 패턴이 강해지는 구간으로 추정.
+6s 근처 중심 주파수를 기준으로 강해지는 세로 선형 패턴 다수가 강한 에너지를 가지며 관측됨, 타타닥하며 음질이 터지는 소리처럼 들림.
+6s를 기준으로 강하고 멀어질 수록 약해지는 아주 얇은 세로 선형 패턴이 6s를 중심 특정 간격으로 나름 주기적으로 퍼져있음, 타타닥 하는 소리가 들림.
+1kHz 이하 대역에서 많은 가로 선형 패턴이 관측됨.","전 대역에서 불규칙한 간격으로 전 대역의 주파수가 강해지는 구간이 존재하지만, 4kHz에서 7kHz 사이의 대역에서는 상대적으로 약하게 보임.
+2.5kHz 이하 대역에서 많은 가로 선형 패턴이 관측됨.
+비주기적인 강한 강도의 스파이크 패턴이 저주파수에서 중주파수까지 관측됨.","6s을 기준으로 언덕이 형성된 것처럼 점진적으로 에너지가 감소하는 분포가 나타남.
+4s-8s 구간 전 대역에서 강한 에너지 분포, 바람(또는 박쥐날갯짓) 소리처럼 들림."
+../../../datasets/dev/ToyTrain/test/section_00_target_test_anomaly_0032_noAttribute.wav,../../../datasets/dev/ToyTrain/test/section_00_source_test_normal_0032_noAttribute.wav,"비주기적인 강한 강도의 세로 선형 패턴이 여러 개 관측됨. 이러한 강한 강도의 세로 선형 패턴이 관측된 뒤에 바로 전 대역의 주파수에서 몇초 동안 강도가 강해지는 패턴이 두번정도 일어나고 다시 강한강도의 세로 선형 패턴이 두번 일어나고 몇초 동안 강도가 강해지는 패턴, 그다음에 강한강도의 세로 선형 한번 이런식으로 규칙성을 가지면서 일어나는 것을 관측함.
+몇초 동안 전 대역의 주파수에서 강도가 강해지는 비주기적인 패턴 존재(갈리는 소리가 남).
+불규칙적으로 전 대역에서 세로 선형 패턴 다수가 강한 에너지를 가지며 관측됨, 타타닥하며 음질이 터지는 소리처럼 들림.
+1.5kHz에서 강한 가로 선형 패턴.","전 대역에서 불규칙한 간격으로 전 대역의 주파수가 강해지는 구간이 존재하지만, 4kHz에서 7kHz 사이의 대역에서는 상대적으로 약하게 보임.
+1kHz 이하 대역에서 많은 가로 선형 패턴이 관측됨.
+비주기적인 강한 강도의 스파이크 패턴이 저주파수에서 중주파수까지 관측됨.
+6s을 기준으로 언덕이 형성된 것처럼 점진적으로 에너지가 감소하는 분포가 나타남.
+4s-8s 구간 전 대역에서 강한 에너지 분포, 바람(또는 박쥐날갯짓) 소리처럼 들림.
+""지이잉"" 하는 저주파수가 6s 근처에서 들림.2kHz 밑의 대역만 들었을 때, 저주파수(0.2kHz)의 가로 선형 패턴이 강해지는 구간으로 추정.",
+../../../datasets/dev/ToyTrain/test/section_00_target_test_anomaly_0033_noAttribute.wav,../../../datasets/dev/ToyTrain/test/section_00_source_test_normal_0033_noAttribute.wav,"몇초 동안 전 대역의 주파수에서 강도가 강해지는 비주기적인 패턴 존재(갈리는 소리가 남).
+불규칙적으로 전 대역에서 세로 선형 패턴 다수가 강한 에너지를 가지며 관측됨, 타타닥하며 음질이 터지는 소리처럼 들림.
+2.5kHz이하에서 다수의 가로 선형 패턴.
+0.1s 간격만큼 전 대역의 주파수가 강해지는 세로 선형 패턴 관측.","비주기적인 강한 강도의 세로 선형 패턴이 여러 개 관측됨. 이러한 강한 강도의 세로 선형 패턴이 관측된 뒤에 바로 전 대역의 주파수에서 몇초 동안 강도가 강해지는 패턴이 두번정도 일어나고 다시 강한강도의 세로 선형 패턴이 두번 일어나고 몇초 동안 강도가 강해지는 패턴, 그다음에 강한강도의 세로 선형 한번 이런식으로 규칙성을 가지면서 일어나는 것을 관측함.
+1kHz-2kHz에서 다수의 가로 선형 패턴.
+6s을 기준으로 언덕이 형성된 것처럼 점진적으로 에너지가 감소하는 분포가 나타남.
+4s-8s 구간 전 대역에서 강한 에너지 분포, 바람(또는 박쥐날갯짓) 소리처럼 들림.
+""지이잉"" 하는 저주파수가 6s 근처에서 들림.2kHz 밑의 대역만 들었을 때, 저주파수(0.2kHz)의 가로 선형 패턴이 강해지는 구간으로 추정.",
+../../../datasets/dev/ToyTrain/test/section_00_target_test_anomaly_0034_noAttribute.wav,../../../datasets/dev/ToyTrain/test/section_00_source_test_normal_0034_noAttribute.wav,"1kHz이하 대역에서 많은 가로 선형 패턴이 관측됨.
+아주 얇은 세로 선형 패턴이 비주기적으로 퍼져있음, 타타닥 하는 소리가 들림.
+7.2kHz-7.8kHz에서 0.5kHz폭으로 약한 에너지 분포 관측.
+전 대역에서 불규칙한 간격으로 전 대역의 주파수가 강해지는 구간이 존재하지만, 4kHz에서 7kHz 사이의 대역에서는 상대적으로 약하게 보임.
+강도가 약한 스파이크 패턴이 비주기적으로 저주파수에서 고주파수까지 존재.","중심구간에서 순간적으로 ""배애앵""소리가 들림. 2kHz 밑의 대역만 들었을 때, 저주파수(1kHz)의 가로 선형 패턴이 강해지는 구간으로 추정.
+강도가 약한 스파이크 패턴이 비주기적으로 저주파수에서 고주파수까지 존재.
+6s을 기준으로 언덕이 형성된 것처럼 점진적으로 에너지가 감소하는 분포가 나타남.
+
+",
+../../../datasets/dev/ToyTrain/test/section_00_target_test_anomaly_0035_noAttribute.wav,../../../datasets/dev/ToyTrain/test/section_00_source_test_normal_0035_noAttribute.wav,"아주 얇은 세로 선형 패턴이 비주기적으로 퍼져있음, 타타닥 하는 소리가 들림.
+6s와 중주파수에 가까울수록 강하고 멀어질 수록 약해지는 아주 얇은 세로 선형 패턴이 6s를 중심 특정 간격으로 나름 주기적으로 퍼져있음.
+4s-8s 구간 전 대역에서 강한 에너지 분포, 바람(또는 박쥐날갯짓) 소리처럼 들림.
+6s을 기준으로 언덕이 형성된 것처럼 점진적으로 에너지가 감소하는 분포가 나타남.","4s-8s 구간 전 대역에서 중간 에너지 분포, 특히 4s-5.5s구간 6-8kHz에서도 강한 에너지 분포, 바람(또는 박쥐날갯짓) 소리처럼 들림.
+몇초 동안 전 대역의 주파수에서 강도가 강해지는 비주기적인 패턴 존재(갈리는 소리가 남).
+0.1s 간격만큼 전 대역의 주파수가 강해지는 세로 선형 패턴 관측.
+",
+../../../datasets/dev/ToyTrain/test/section_00_target_test_anomaly_0036_noAttribute.wav,../../../datasets/dev/ToyTrain/test/section_00_source_test_normal_0036_noAttribute.wav,"아주 얇은 세로 선형 패턴이 비주기적으로 퍼져있음, 타타닥 하는 소리가 들림.
+6s와 중주파수에 가까울수록 강하고 멀어질 수록 약해지는 아주 얇은 세로 선형 패턴이 6s를 중심 특정 간격으로 나름 주기적으로 퍼져있음.
+4s-8s 구간 전 대역에서 강한 에너지 분포, 바람(또는 박쥐날갯짓) 소리처럼 들림.
+6s을 기준으로 언덕이 형성된 것처럼 점진적으로 에너지가 감소하는 분포가 나타남.",0.1s 간격만큼 전 대역의 주파수가 강해지는 세로 선형 패턴 관측.,
+../../../datasets/dev/ToyTrain/test/section_00_target_test_anomaly_0037_noAttribute.wav,../../../datasets/dev/ToyTrain/test/section_00_source_test_normal_0037_noAttribute.wav,"6s을 기준으로 언덕이 형성된 것처럼 점진적으로 에너지가 감소하는 분포가 나타남.
+경적음이 들림.
+4s-8s 구간 전 대역에서 강한 에너지 분포, 바람(또는 박쥐날갯짓) 소리처럼 들림.
+비주기적인 강한 강도의 스파이크 패턴이 저주파수에서 중주파수까지 관측됨.
+6s와 중주파수에 가까울수록 강하고 멀어질 수록 약해지는 아주 얇은 세로 선형 패턴이 6s를 중심 특정 간격으로 나름 주기적으로 퍼져있음.","4s-8s 구간 전 대역에서 약한 에너지 분포, 바람(또는 박쥐날갯짓) 소리처럼 들림.
+6s 근처 중심 주파수를 기준으로 강해지는 세로 선형 패턴 다수가 강한 에너지를 가지며 관측됨, 타타닥하며 음질이 터지는 소리처럼 들림.",1kHz이하 대역에서 많은 가로 선형 패턴이 관측됨.
+../../../datasets/dev/ToyTrain/test/section_00_target_test_anomaly_0038_noAttribute.wav,../../../datasets/dev/ToyTrain/test/section_00_source_test_normal_0038_noAttribute.wav,"아주 얇은 세로 선형 패턴이 비주기적으로 퍼져있음, 타타닥 하는 소리가 들림.
+1.5kHz이하 대역에서 많은 가로 선형 패턴이 관측됨.
+0.25-0.5kHz에서 가로 선형 패턴이 뚜렷하게 관측됨.","4s-8s 구간 전 대역에서 약한 에너지 분포, 특히 4s-5.5s구간 6-8kHz에서도 중간 에너지 분포, 바람(또는 박쥐날갯짓) 소리처럼 들림.
+0.2, 1, 2kHz에서 아주 강한 가로 선형 패턴 관측됨.
+아주 얇고 강도가 약한 세로 선형 패턴이 6s를 중심으로 비주기적으로 퍼져있음, 타타닥 하는 소리가 들림.",
+../../../datasets/dev/ToyTrain/test/section_00_target_test_anomaly_0039_noAttribute.wav,../../../datasets/dev/ToyTrain/test/section_00_source_test_normal_0039_noAttribute.wav,"아주 얇은 세로 선형 패턴이 비주기적으로 퍼져있음, 타타닥 하는 소리가 들림.
+0.1s 간격만큼 전 대역의 주파수가 강해지는 세로 선형 패턴 관측.
+0.2, 1.5kHz에서 아주 강한 가로 선형 패턴 관측됨.","6s을 기준으로 언덕이 형성된 것처럼 점진적으로 에너지가 감소하는 분포가 나타남.
+4s-8s 구간 전 대역에서 강한 에너지 분포, 바람(또는 박쥐날갯짓) 소리처럼 들림.
+중심구간에서 순간적으로 ""위이잉""소리가 들림. 2kHz 밑의 대역만 들었을 때, 저주파수(1.5kHz)의 가로 선형 패턴이 강해지는 구간으로 추정.
+전 대역에서 불규칙한 간격으로 전 대역의 주파수가 강해지는 구간이 존재.",
+../../../datasets/dev/ToyTrain/test/section_00_target_test_anomaly_0040_noAttribute.wav,../../../datasets/dev/ToyTrain/test/section_00_source_test_normal_0040_noAttribute.wav,"비주기적인 강한 강도의 세로 선형 패턴이 여러 개 관측됨. 이러한 강한 강도의 세로 선형 패턴이 관측된 뒤에 바로 전 대역의 주파수에서 몇초 동안 강도가 강해지는 패턴이 두번정도 일어나고 다시 강한강도의 세로 선형 패턴이 두번 일어나고 몇초 동안 강도가 강해지는 패턴, 그다음에 강한강도의 세로 선형 한번 이런식으로 규칙성을 가지면서 일어나는 것을 관측함.
+6s 근처 중심 주파수를 기준으로 강해지는 세로 선형 패턴 다수가 강한 에너지를 가지며 관측됨, 타타닥하며 음질이 터지는 소리처럼 들림.
+","6s을 기준으로 언덕이 형성된 것처럼 점진적으로 에너지가 감소하는 분포가 나타남.
+4s-8s 구간 전 대역에서 중간 에너지 분포, 바람(또는 박쥐날갯짓) 소리처럼 들림.
+중심구간에서 순간적으로 ""위이잉""소리가 들림. 2kHz 밑의 대역만 들었을 때, 저주파수(1.5kHz)의 가로 선형 패턴이 강해지는 구간으로 추정.
+전 대역에서 불규칙한 간격으로 전 대역의 주파수가 강해지는 구간이 존재하지만, 4kHz에서 7kHz 사이의 대역에서는 상대적으로 약하게 보임.","2kHz이하 대역에서 많은 가로 선형 패턴이 관측됨.
+"
+../../../datasets/dev/ToyTrain/test/section_00_target_test_anomaly_0041_noAttribute.wav,../../../datasets/dev/ToyTrain/test/section_00_source_test_normal_0041_noAttribute.wav,"6s와 중주파수에 가까울수록 강하고 멀어질 수록 약해지는 아주 얇은 세로 선형 패턴이 6s를 중심 특정 간격으로 나름 주기적으로 퍼져있음.
+2kHz이하 6s 근처에서 가로 선형패턴들의 강도가 강해지는 구간이 있음. 이때 ""위이잉""하는 소리가 들림.
+2kHz이하에서의 가로 선형 패턴이 10s 근처에서 공백이 생기는 경우가 존재. ","비주기적으로 0.1s-0.3s 구간만큼 전 대역의 주파수가 강해지는 패턴 관측되나 4kHz-7kHz의 대역은 조금 약하게 관측됨.
+1kHz이하 대역에서 많은 가로 선형 패턴이 관측됨.","6s을 기준으로 언덕이 형성된 것처럼 점진적으로 에너지가 감소하는 분포가 나타남.
+4s-8s 구간 전 대역에서 강한 에너지 분포, 바람(또는 박쥐날갯짓) 소리처럼 들림."
+../../../datasets/dev/ToyTrain/test/section_00_target_test_anomaly_0042_noAttribute.wav,../../../datasets/dev/ToyTrain/test/section_00_source_test_normal_0042_noAttribute.wav,"6s와 중주파수에 가까울수록 강하고 멀어질 수록 약해지는 아주 얇은 세로 선형 패턴이 6s를 중심 특정 간격으로 나름 주기적으로 퍼져있음.
+4s-8s 구간 전 대역에서 강한 에너지 분포, 바람(또는 박쥐날갯짓) 소리처럼 들림.","사다리꼴 패턴이 비주기적으로 관측.
+4s-8s 구간 전 대역에서 중간 에너지 분포, 특히 4s-5.5s구간 6-8kHz에서도 강한 에너지 분포, 바람(또는 박쥐날갯짓) 소리처럼 들림.","전 대역에서 불규칙한 간격으로 전 대역의 주파수가 강해지는 구간이 존재하지만, 4kHz에서 7kHz 사이의 대역에서는 상대적으로 약하게 보임."
+../../../datasets/dev/ToyTrain/test/section_00_target_test_anomaly_0043_noAttribute.wav,../../../datasets/dev/ToyTrain/test/section_00_source_test_normal_0043_noAttribute.wav,"0.1s 간격만큼 전 대역의 주파수가 강해지는 세로 선형 패턴 관측.
+6s와 중주파수에 가까울수록 강하고 멀어질 수록 약해지는 아주 얇은 세로 선형 패턴이 6s를 중심 특정 간격으로 나름 주기적으로 퍼져있음.
+2kHz이하에서 가로 선형 패턴이 많음.
+잠시 동안 중주파수에서 고주파수의 강도가 약해지는 구간 관측.",7.8kHz대의 고주파수에서 가로 점선 패턴이 보임.,"비주기적인 강한 강도의 스파이크 패턴이 저주파수에서 중주파수까지 관측됨.
+6s을 기준으로 언덕이 형성된 것처럼 점진적으로 에너지가 감소하는 분포가 나타남.
+4s-8s 구간 전 대역에서 강한 에너지 분포, 바람(또는 박쥐날갯짓) 소리처럼 들림."
+../../../datasets/dev/ToyTrain/test/section_00_target_test_anomaly_0044_noAttribute.wav,../../../datasets/dev/ToyTrain/test/section_00_source_test_normal_0044_noAttribute.wav,"비주기적으로 0.1s-0.3s 구간만큼 전 대역의 주파수가 강해지는 패턴 관측되나 4kHz-7kHz의 대역은 조금 약하게 관측됨.
+아주 얇고 강도가 약한 세로 선형 패턴이 6s를 중심으로 비주기적으로 퍼져있음, 타타닥 하는 소리가 들림.
+","7.8kHz대의 고주파수에서 가로 점선 패턴이 보임.
+","전 대역에서 불규칙한 간격으로 전 대역의 주파수가 강해지는 구간이 존재하지만, 4kHz에서 7kHz 사이의 대역에서는 상대적으로 약하게 보임.
+6s을 기준으로 언덕이 형성된 것처럼 점진적으로 에너지가 감소하는 분포가 나타남.
+4s-8s 구간 전 대역에서 중간 에너지 분포, 바람(또는 박쥐날갯짓) 소리처럼 들림.
+"
+../../../datasets/dev/ToyTrain/test/section_00_target_test_anomaly_0045_noAttribute.wav,../../../datasets/dev/ToyTrain/test/section_00_source_test_normal_0045_noAttribute.wav,"비주기적인 강한 강도의 세로 선형 패턴이 여러 개 관측됨. 이러한 강한 강도의 세로 선형 패턴이 관측된 뒤에 바로 전 대역의 주파수에서 몇초 동안 강도가 강해지는 패턴이 두번정도 일어나고 다시 강한강도의 세로 선형 패턴이 두번 일어나고 몇초 동안 강도가 강해지는 패턴, 그다음에 강한강도의 세로 선형 한번 이런식으로 규칙성을 가지면서 일어나는 것을 관측함.
+1.6kHz에서 강한 강도의 가로 선형 패턴 감지.
+아주 얇고 강도가 약한 세로 선형 패턴이 6s를 중심으로 비주기적으로 퍼져있음, 타타닥 하는 소리가 들림.","4s-8s 구간 전 대역에서 중간 에너지 분포, 바람(또는 박쥐날갯짓) 소리처럼 들림.
+비주기적으로 0.1s-0.3s 구간만큼 전 대역의 주파수가 강해지는 패턴 관측되나 4kHz-7kHz의 대역은 조금 약하게 관측됨.
+1kHz이하 대역에서 4개정도의 가로 선형 패턴 감지.",
+../../../datasets/dev/ToyTrain/test/section_00_target_test_anomaly_0046_noAttribute.wav,../../../datasets/dev/ToyTrain/test/section_00_source_test_normal_0046_noAttribute.wav,"0.1s 간격만큼 전 대역의 주파수가 강해지는 세로 선형 패턴 관측.
+
+잠시 동안 중주파수에서 고주파수의 강도가 약해지는 구간 관측.","7.8kHz대의 고주파수에서 가로 점선 패턴이 보임.
+""위이잉"" 하는 저주파수가 6s 근처에서 들림.
+4s-8s 구간 전 대역에서 강한 에너지 분포, 바람(또는 박쥐날갯짓) 소리처럼 들림.
+
+","2kHz이하 대역에서 다수의 가로 선형 패턴 감지.
+아주 얇고 강도가 약한 세로 선형 패턴이 6s를 중심으로 비주기적으로 퍼져있음, 타타닥 하는 소리가 들림."
+../../../datasets/dev/ToyTrain/test/section_00_target_test_anomaly_0047_noAttribute.wav,../../../datasets/dev/ToyTrain/test/section_00_source_test_normal_0047_noAttribute.wav,"비주기적인 강한 강도의 세로 선형 패턴이 여러 개 관측됨. 이러한 강한 강도의 세로 선형 패턴이 관측된 뒤에 바로 전 대역의 주파수에서 몇초 동안 강도가 강해지는 패턴이 두번정도 일어나고 다시 강한강도의 세로 선형 패턴이 두번 일어나고 몇초 동안 강도가 강해지는 패턴, 그다음에 강한강도의 세로 선형 한번 이런식으로 규칙성을 가지면서 일어나는 것을 관측함.
+아주 얇고 강도가 약한 세로 선형 패턴이 6s를 중심으로 비주기적으로 퍼져있음, 타타닥 하는 소리가 들림.
+1kHz-2kHz에서 4개의 강한 강도의 가로선형 패턴 감지.
+다수의 강한 가로선형 패턴이 불규칙적하게 감지됨.","6s을 기준으로 언덕이 형성된 것처럼 점진적으로 에너지가 감소하는 분포가 나타남.
+중간대역에서 원형으로 강도가 약간 강해지는 패턴이 중심부를 중심으로 약간 대칭하여 존재하는것이 관측됨.
+4s-8s 구간 전 대역에서 중간 에너지 분포, 바람(또는 박쥐날갯짓) 소리처럼 들림.
+""지이잉"" 하는 저주파수가 6s 근처에서 들림.",
+../../../datasets/dev/ToyTrain/test/section_00_target_test_anomaly_0048_noAttribute.wav,../../../datasets/dev/ToyTrain/test/section_00_source_test_normal_0048_noAttribute.wav,"6s와 중주파수에 가까울수록 강하고 멀어질 수록 약해지는 아주 얇은 세로 선형 패턴이 6s를 중심 특정 간격으로 나름 주기적으로 퍼져있음.
+""지이잉"" 하는 저주파수가 6s 근처에서 들림.2kHz 밑의 대역만 들었을 때, 저주파수에 있는 가로 선형 패턴이 강해지는 구간으로 추정.",7.5kHz-7.8kHz에서 0.3kHz폭으로 중간 에너지 푼포 관측.,"6s을 기준으로 언덕이 형성된 것처럼 점진적으로 에너지가 감소하는 분포가 나타남.
+4s-8s 구간 전 대역에서 강한 에너지 분포, 바람(또는 박쥐날갯짓) 소리처럼 들림."
+../../../datasets/dev/ToyTrain/test/section_00_target_test_anomaly_0049_noAttribute.wav,../../../datasets/dev/ToyTrain/test/section_00_source_test_normal_0049_noAttribute.wav,"강도가 약한 스파이크 패턴이 비주기적으로 저주파수에서 고주파수까지 존재.
+비주기적으로 0.1s-0.3s 구간만큼 전 대역의 주파수가 강해지는 패턴 관측되나 4kHz-7kHz의 대역은 조금 약하게 관측됨.
+""지이잉"" 하는 저주파수가 6s 근처에서 들림.2kHz 밑의 대역만 들었을 때, 저주파수에 있는 가로 선형 패턴이 강해지는 구간으로 추정.
+6s와 중주파수에 가까울수록 강하고 멀어질 수록 약해지는 아주 얇은 세로 선형 패턴이 6s를 중심 특정 간격으로 나름 주기적으로 퍼져있음.","전 대역에서 불규칙한 간격으로 전 대역의 주파수가 강해지는 구간이 존재하지만, 4kHz에서 7kHz 사이의 대역에서는 상대적으로 약하게 보임.","6s을 기준으로 언덕이 형성된 것처럼 점진적으로 에너지가 감소하는 분포가 나타남.
+4s-8s 구간 전 대역에서 강한 에너지 분포, 바람(또는 박쥐날갯짓) 소리처럼 들림.
+
+"
+../../../datasets/dev/ToyTrain/test/section_00_target_test_anomaly_0050_noAttribute.wav,../../../datasets/dev/ToyTrain/test/section_00_source_test_normal_0050_noAttribute.wav,"""지이잉"" 하는 저주파수가 6s 근처에서 들림.2kHz 밑의 대역만 들었을 때, 저주파수에 있는 가로 선형 패턴이 강해지는 구간으로 추정.
+6s와 중주파수에 가까울수록 강하고 멀어질 수록 약해지는 아주 얇은 세로 선형 패턴이 6s를 중심 특정 간격으로 나름 주기적으로 퍼져있음.","전 대역에서 불규칙한 간격으로 전 대역의 주파수가 강해지는 구간이 존재하지만, 4kHz에서 7kHz 사이의 대역에서는 상대적으로 약하게 보임.","6s을 기준으로 언덕이 형성된 것처럼 점진적으로 에너지가 감소하는 분포가 나타남.
+4s-8s 구간 전 대역에서 강한 에너지 분포, 바람(또는 박쥐날갯짓) 소리처럼 들림."

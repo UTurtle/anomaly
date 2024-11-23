@@ -26,3 +26,8 @@ The **DCASE 2024 Task 2** focuses on developing an **Anomalous sound detection (
     - notebook
     - unziped
   - model
+
+
+---
+
+dataset attributes_00.csv is broken. please use `dataset_attributes_00_rebuild.ipynb`.
