@@ -1205,8 +1205,14 @@ A1은 고중주파수(5kHz-7kHz)에서 2kHz 폭만큼 강도가 약해지는 구
 ../../../datasets/dev/ToyTrain/test/section_00_target_test_anomaly_0009_noAttribute.wav,../../../datasets/dev/ToyTrain/test/section_00_source_test_normal_0009_noAttribute.wav,"아주 얇지만 강한 세로 선형 패턴이 6s를 중심으로 비주기적으로 퍼져있음, 타타닥 하는 소리가 들림.
 2kHz밑으로 가로 선형 패턴이 매우 많이 보임.","4s-8s 구간 전 대역에서 강한 에너지 분포, 특히 4s-5.5s구간 6-8kHz에서 특히 강한 에너지 분포, 바람(또는 박쥐날갯짓) 소리처럼 들림.
 6s를 기준으로 강하고 멀어질 수록 약해지는 아주 얇은 세로 선형 패턴이 6s를 중심 0.3s 간격으로 나름 주기적으로 퍼져있음, 타타닥 하는 소리가 들림.",
-../../../datasets/dev/ToyTrain/test/section_00_target_test_anomaly_0010_noAttribute.wav,../../../datasets/dev/ToyTrain/test/section_00_source_test_normal_0010_noAttribute.wav,,,
-../../../datasets/dev/ToyTrain/test/section_00_target_test_anomaly_0011_noAttribute.wav,../../../datasets/dev/ToyTrain/test/section_00_source_test_normal_0011_noAttribute.wav,,,
+../../../datasets/dev/ToyTrain/test/section_00_target_test_anomaly_0010_noAttribute.wav,../../../datasets/dev/ToyTrain/test/section_00_source_test_normal_0010_noAttribute.wav,"고중파수에 있는 가로선형패턴이 파도타는 것처럼 울렁이는 패턴을 보임.
+4s-8s 구간 전 대역에서 강한 에너지 분포, 바람(또는 박쥐날갯짓) 소리처럼 들림.
+아주 얇지만 강한 세로 선형 패턴이 6s를 중심으로 비주기적으로 퍼져있음, 타타닥 하는 소리가 들림.","4s-8s 구간 전 대역에서 강한 에너지 분포, 특히 4s-5.5s구간 6-8kHz에서 특히 강한 에너지 분포, 바람(또는 박쥐날갯짓) 소리처럼 들림.
+사다리꼴 패턴이 비주기적으로 관측.",
+../../../datasets/dev/ToyTrain/test/section_00_target_test_anomaly_0011_noAttribute.wav,../../../datasets/dev/ToyTrain/test/section_00_source_test_normal_0011_noAttribute.wav,"고중파수에 있는 가로선형패턴이 파도타는 것처럼 울렁이는 패턴을 보임.
+학교 종소리가 들림.
+4s-8s 구간 전 대역에서 강한 에너지 분포, 바람(또는 박쥐날갯짓) 소리처럼 들림.","0.1s-0.3s 간격만큼 전 대역의 주파수가 강해지는 세로 선형 패턴 관측되나 4kHz-7kHz의 대역은 조금 약하게 관측됨.
+4s-8s 구간 전 대역에서 중간 에너지 분포, 특히 4s-5.5s구간 6-8kHz에서도 강한 에너지 분포, 바람(또는 박쥐날갯짓) 소리처럼 들림.",6s을 기준으로 언덕이 형성된 것처럼 점진적으로 에너지가 감소하는 분포가 나타남.
 ../../../datasets/dev/ToyTrain/test/section_00_target_test_anomaly_0012_noAttribute.wav,../../../datasets/dev/ToyTrain/test/section_00_source_test_normal_0012_noAttribute.wav,,,
 ../../../datasets/dev/ToyTrain/test/section_00_target_test_anomaly_0013_noAttribute.wav,../../../datasets/dev/ToyTrain/test/section_00_source_test_normal_0013_noAttribute.wav,,,
 ../../../datasets/dev/ToyTrain/test/section_00_target_test_anomaly_0014_noAttribute.wav,../../../datasets/dev/ToyTrain/test/section_00_source_test_normal_0014_noAttribute.wav,,,
