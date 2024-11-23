@@ -1,3 +1,11 @@
+##### Challenge:
+
+---
+
+This is a record of the challenges that I'm personally doing.
+
+---
+
 # DCASE 2024 Task 2: First-Shot Unsupervised Anomalous Sound Detection
 
 ## Overview
