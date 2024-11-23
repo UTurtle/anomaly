@@ -22,6 +22,7 @@ The **DCASE 2024 Task 2** focuses on developing an **Anomalous sound detection (
 
 ##### What's next
 - EDA (Exploratory Data Analysis)
+  - using eda/notebook/playground/eda_playground complete.ipynb
 
 ##### directory structure
 
@@ -32,8 +33,10 @@ The **DCASE 2024 Task 2** focuses on developing an **Anomalous sound detection (
   - eda
     - extract_feature_code
     - notebook
+      - playground (*)
     - unziped
   - model
+
 
 
 ---
