@@ -23,8 +23,8 @@ The **DCASE 2024 Task 2** focuses on developing an **Anomalous sound detection (
 ##### TODO
 - EDA (Exploratory Data Analysis)
   - using `eda/notebook/playground/eda_playground complete.ipynb`
-    - [ ] make `audio_pair_notes.json`. has attribute `same note` and `difference note`
-    - [ ] add write `difference note` and `same note` in `eda_playground complete pair.ipynb` 
+    - [ x ] make `audio_pair_notes.json`. has attribute `same note` and `difference note`
+    - [ x ] add write `difference note` and `same note` in `eda_playground complete pair.ipynb` 
 
 ##### directory structure
 
