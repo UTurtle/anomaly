@@ -34,11 +34,18 @@ The **DCASE 2024 Task 2** focuses on developing an **Anomalous sound detection (
     - extract_feature_code
     - notebook
       - playground (*)
-    - unziped
+    - unziped (same datasets but has feature extracted files)
+      - dev
+      - eval_2024s
   - model
-
 
 
 ---
 
-dataset attributes_00.csv is broken. please use `dataset_attributes_00_rebuild.ipynb`.
+### EDA setup
+
+1. setup new python(or conda) enviroment and `pip install -r requirements.txt`. 
+2. setup datasets folder `datasets` and `unziped`
+3. dataset attributes_00.csv is broken. please use `eda/notebook/dataset_attributes_00_rebuild.ipynb`.
+4. execute `eda/extract_feature_code/extract_feature.ipynb`. will make extract features
+5. Finally, we can use `eda/notebook/playground/eda_playground complete.ipynb`.
