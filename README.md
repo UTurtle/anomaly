@@ -28,7 +28,7 @@ The **DCASE 2024 Task 2** focuses on developing an **Anomalous sound detection (
   
 - Dataset make and augmentation
   - [ x ] extracting features
-  - [ ] extracting features with `librosa feature parameters`.
+  - [ x ] extracting features with `librosa feature parameters`.
       - warning: do not overlaping `["audio_features"]["note"]` in `audio_features.json`.
       - warning: backup `audio_features.json` before extracting features.
     - [ ] fill the blank note for `test` data, `machine_type`: `"ToyCar", "ToyTrain"`. (100 data)
