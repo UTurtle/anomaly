@@ -25,6 +25,22 @@ The **DCASE 2024 Task 2** focuses on developing an **Anomalous sound detection (
   - using `eda/notebook/playground/eda_playground complete.ipynb`
     - [ x ] make `audio_pair_notes.json`. has attribute `same note` and `difference note`
     - [ x ] add write `difference note` and `same note` in `eda_playground complete pair.ipynb` 
+  
+- Dataset make and augmentation
+  - [ x ] extracting features
+  - [ ] extracting features with `librosa feature parameters`.
+      - warning: do not overlaping `["audio_features"]["note"]` in `audio_features.json`.
+      - warning: backup `audio_features.json` before extracting features.
+    - [ ] fill the blank note for `test` data, `machine_type`: `"ToyCar", "ToyTrain"`. (100 data)
+    - [ ] augmentation note dataset using gpt4o-mini or llama 3.2 3B Instruction.
+      - extracting `audio_features["audio_features"]["note"]` to csv `audio_features_note.csv`.
+      - data reformat using GPT4o-mini (`test` data, `machine_type`: `"ToyCar", "ToyTrain"`)
+        - Do this and save `audio_features_note_with_augmentation.csv`
+          - 1. make English
+          - 2. make look like Instruction
+          - 3. make pair data compare (skip)
+      - make `audio_features_with_augmentation.json`.
+
 
 ##### directory structure
 
