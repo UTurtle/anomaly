@@ -1,0 +1,1212 @@
+{
+    "audio_features": [
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_source_test_normal_0027_car_C2_spd_34V_mic_1.wav",
+            "note": "Strong energy is observed in the low-frequency range (0 kHz - 1 kHz). Horizontal linear patterns appear at 1 kHz, 0.8 kHz, and 0.2 kHz. At high frequencies, the intensity is very weak for one second before and after. In the high-frequency range (5 kHz - 6 kHz), a decrease in intensity is observed, approximately matching the width of 1 kHz. In the low-mid frequency range (2 kHz, 3 kHz), a decrease in intensity is observed over a width of 0.5 kHz. An aperiodic pattern of weak intensity in the form of spikes exists in the low-frequency range."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_source_test_normal_0021_car_C2_spd_31V_mic_1.wav",
+            "note": "The spike pattern exists non-periodically across low frequencies to high frequencies, with the intensity gradually decreasing as the frequency increases. Strong energy is observed in the low frequency range (0 kHz - 2 kHz). However, at high frequencies, the intensity is weak for one second before and after the peak."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_source_test_normal_0046_car_D2_spd_34V_mic_1.wav",
+            "note": "The horizontal linear patterns appear irregularly, with the intensity gradually decreasing at higher frequencies. \n\nThere is strong energy present in the low-frequency range (0 kHz - 2 kHz). \n\nAt high frequencies, the intensity is very weak for 1 second before and after. \n\nIn the low-frequency range, a low hill-like shape is observed."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_target_test_normal_0003_car_A1_spd_28V_mic_2.wav",
+            "note": "Here is the translated text:\n\n\"Strong energy at low frequencies (0kHz-1.3kHz).\nSpike patterns are present at low frequencies in aperiodic manner.\nIn A1, a decrease in intensity is observed in the high mid-frequency range (5kHz-7kHz) over a bandwidth of 1-2kHz.\""
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_target_test_anomaly_0022_car_A2_spd_28V_mic_2.wav",
+            "note": "Strong energy is observed at low frequencies (0 kHz - 1 kHz).  \nThe intensity is very weak in the high-frequency range, particularly in the intervals before and after 1 second.  \nIn the high-mid frequency range (5 kHz - 6 kHz), a decrease in intensity is observed over a bandwidth of 1 kHz.  \nConversely, an increase in intensity is noted in the mid-frequency range (4 kHz - 5 kHz) over the same bandwidth of 1 kHz.  \nA horizontal linear pattern is evident at both 0.15 kHz and 1 kHz."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_source_test_normal_0028_car_C2_spd_34V_mic_1.wav",
+            "note": "At high frequencies, the intensity is very weak, with a notable decrease in strength for one second before and after. Strong energy is observed at low frequencies (0 kHz - 1 kHz). A horizontal linear pattern appears irregularly. This horizontal linear pattern is noted at frequencies of 0.2 kHz, 0.7 kHz, 1.3 kHz, 1.6 kHz, 2 kHz, 3 kHz, and 6 kHz. Spike patterns are exhibited aperiodically, ranging from low to mid frequencies."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_target_test_anomaly_0017_car_A2_spd_37V_mic_2.wav",
+            "note": "Strong energy is observed in the low frequency range (0 kHz - 1 kHz). In the high frequency range, the intensity is very weak for a duration of 1 second on either side. In the mid-frequency range (4 kHz - 5 kHz), there is a noticeable increase in intensity corresponding to the bandwidth of 1 kHz. Horizontal linear patterns appear at 3 kHz and 6 kHz. Additionally, strong energy is observed in the low frequency range (0 kHz - 2 kHz)."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_source_test_anomaly_0010_car_B2_spd_31V_mic_1.wav",
+            "note": "The spike pattern exists intermittently from low frequencies to mid frequencies, with the intensity diminishing as the frequency increases. Overall, there is a high energy level.\n\nThere is strong energy in the low frequency range (0 kHz - 1 kHz). However, at high frequencies, the intensity is very weak for 1 second before and after."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_target_test_anomaly_0045_car_E2_spd_28V_mic_2.wav",
+            "note": "Strong energy is observed at low frequencies (0 kHz - 1 kHz). Multiple instances of a non-repetitive, high-intensity vertical linear pattern have been detected. Following the observation of these strong vertical linear patterns, there are approximately two occurrences of a pattern where intensity increases for 0.5 seconds at the frequency just below this range. This is then followed by two occurrences of the strong vertical linear pattern, again followed by a 0.5-second intensity increase, and then a single occurrence of a strong vertical linear pattern. This sequence appears to exhibit a consistent regularity. Meanwhile, horizontal linear patterns appear irregularly. Strong energy is also noted in the low frequency range (0 kHz - 2 kHz)."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_source_test_anomaly_0035_car_D1_spd_31V_mic_1.wav",
+            "note": "Strong energy is observed in the low-frequency range (0 kHz - 1 kHz). Overall, there is a robust energy distribution. Distinct non-periodic horizontal linear patterns of varying intensities are present across all frequency bands. Additionally, there exists a non-periodic vertical pattern of high intensity that spans from low frequencies to high frequencies. Specifically, this non-periodic vertical pattern of high intensity is evident from low frequencies to mid frequencies."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_source_test_anomaly_0020_car_C1_spd_34V_mic_1.wav",
+            "note": "In the mid-frequency and high-frequency ranges, there is the presence of a very weak intensity horizontal linear pattern with a bandwidth of 1 kHz. In the low-frequency range (0 kHz - 1 kHz), there is strong energy. The intensity in the high frequency range is very weak, with fluctuations that occur in a back-and-forth manner over a span of 1 second. An irregular pattern of weak intensity with a spike-like shape exists from low frequencies to mid frequencies."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_source_test_normal_0024_car_C2_spd_34V_mic_1.wav",
+            "note": "At high frequencies, the intensity is very weak for 1 second before and after. A weak, irregular pattern in the form of spikes is present from low frequencies to mid frequencies. There is strong energy at low frequencies (0 kHz - 1 kHz). A region is observed at high mid frequencies (5 kHz - 6 kHz) where the intensity decreases by the width of 1 kHz."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_target_test_anomaly_0044_car_E2_spd_28V_mic_2.wav",
+            "note": "Strong energy is observed at low frequencies. At high frequencies, the intensity is very weak in the one-second interval before and after. It has been observed that the intensity decreases over a bandwidth of 0.5 kHz at low mid-range frequencies (2 kHz, 3 kHz). A reduction in intensity of high frequencies is observed over a duration of 0.5 seconds in the mid-range frequencies. At high frequencies (6 kHz - 7 kHz), a decrease in intensity is noted over a bandwidth of 1 kHz. An irregular pattern of weak intensity, in the form of spikes, exists from low frequencies to high frequencies."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_source_test_normal_0042_car_D2_spd_34V_mic_1.wav",
+            "note": "Multiple instances of aperiodic weak vertical linear patterns have been observed. There is a strong energy presence at low frequencies. At high frequencies, the intensity is exceedingly weak, measured at an interval of 1 second. Irregular sounds in the form of tonal fluctuations have been observed from low to mid frequencies."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_target_test_anomaly_0023_car_A2_spd_37V_mic_2.wav",
+            "note": "At high frequencies, the intensity is very weak for 1 second before and after. A region has been observed at low mid-range frequencies (2 kHz, 3 kHz) where the intensity decreases over a bandwidth of 0.5 kHz. Spike patterns are present intermittently from low frequencies to high frequencies, but the intensity diminishes increasingly as the frequency rises. In the high mid-range frequency band (6 kHz - 7 kHz), a region has been noted where the intensity decreases over a bandwidth of 1 kHz."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_source_test_normal_0012_car_B1_spd_34V_mic_1.wav",
+            "note": "The spike pattern exhibits a non-periodic distribution of strengths across a range from low frequency to high frequency; however, the intensity diminishes progressively at higher frequencies. There is strong energy in the low frequency range (0 kHz - 1 kHz). In the high frequency range, the intensity one second before and after shows a significant reduction. Additionally, a drop in intensity over a bandwidth of 2 kHz is observed in the mid-high frequency range (4 kHz - 6 kHz)."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_target_test_normal_0002_car_A1_spd_28V_mic_2.wav",
+            "note": "Observation of an intermittent pattern in the spike pattern at low frequencies, occurring three consecutive times. \n\nThere is strong energy at low frequencies (0 kHz - 1 kHz). \n\nAt high frequencies (5 kHz - 7 kHz), a horizontal linear pattern appears, with a significant attenuation of intensity over a bandwidth of 1-2 kHz."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_source_test_anomaly_0046_car_D2_spd_31V_mic_1.wav",
+            "note": "Strong energy in the low frequency range (0 kHz - 1 kHz). Linear horizontal patterns are frequently observed in the low frequency range at intervals of 0.1 seconds to 1 second (such as the sound of a school bell)."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_source_test_anomaly_0017_car_B2_spd_40V_mic_1.wav",
+            "note": "Strong energy at low frequencies (0 kHz - 1 kHz).  \nThe intensity at high frequencies exhibits a very weak signal, with minimal variation over a 1-second interval.  \nIn the mid-high frequency range (5-9 kHz), there are faint horizontal linear patterns corresponding to a bandwidth of 1 kHz.  \nAdditionally, non-periodic weak vertical frequency patterns are present across all frequency bands."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_source_test_anomaly_0042_car_D2_spd_31V_mic_1.wav",
+            "note": "Strong energy in the low frequency range (0 kHz - 1 kHz)."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_source_test_normal_0044_car_D2_spd_34V_mic_1.wav",
+            "note": "Strong energy in the low-frequency range. The intensity is very weak in the high-frequency range, particularly over a duration of one second before and after. A region has been observed where the intensity decreases by the width of 0.5 kHz at low-mid frequencies (2 kHz, 3 kHz). Additionally, a period has been noted where the intensity of high frequencies diminishes within mid frequencies over a span of 0.5 seconds. In the high-frequency range (6 kHz-7 kHz), a region has been identified where the intensity decreases by a width of 1 kHz. Spike patterns exist irregularly from low frequencies to high frequencies; however, the intensity progressively diminishes as the frequency increases."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_source_test_normal_0013_car_B1_spd_34V_mic_1.wav",
+            "note": "Strong energy at low frequencies (0 kHz - 1 kHz).  \nA weak, aperiodic pattern in the form of spikes exists from low to mid frequencies.  \nAt high frequencies, the intensity is weak for one second before and after."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_target_test_anomaly_0042_car_E2_spd_37V_mic_2.wav",
+            "note": "Several instances of irregular weak vertical linear patterns have been observed. Strong energy is present at low frequencies. At high frequencies, the intensity is very weak, with fluctuations occurring every second."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_target_test_anomaly_0016_car_A2_spd_37V_mic_2.wav",
+            "note": "At high frequencies, the intensity is very weak for a duration of 1 second before and after. In the mid-frequency range (4 kHz - 5 kHz), an increase in intensity is observed, corresponding to a bandwidth of 1 kHz. A horizontal linear pattern emerges at 3 kHz and 6 kHz. There is significant energy present in the low-frequency range (0 kHz - 2 kHz)."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_source_test_anomaly_0040_car_D1_spd_34V_mic_1.wav",
+            "note": "The horizontal linear pattern between pairs appears very similar. There is strong energy in the low frequency range (0kHz-1kHz)."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_target_test_anomaly_0005_car_A1_spd_37V_mic_2.wav",
+            "note": "The spike pattern exists intermittently from low frequencies to mid frequencies, but the intensity decreases progressively at higher frequencies. There is strong energy present in the low frequency range (0 kHz - 1 kHz). At high frequencies, the intensity is weak within a 1-second interval before and after."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_source_test_normal_0043_car_D2_spd_34V_mic_1.wav",
+            "note": "Strong energy at low frequencies.  \nThe intensity at high frequencies is very weak for one second before and after.  \nIrregular horizontal linear patterns are observed.  \nOne non-periodic strong intensity vertical linear pattern is noted. It appears that a pattern of increased intensity lasting for 0.5 seconds is followed by the emergence of the vertical linear pattern, indicating that \"multiple non-periodic strong intensity vertical linear patterns are observed. After observing these strong intensity vertical linear patterns, a pattern of increased intensity lasting for 0.5 seconds occurs twice at the frequency of the previous band, followed by two instances of the strong intensity vertical linear pattern, then again a 0.5-second pattern of increased intensity, followed by one occurrence of the strong intensity vertical linear pattern, all occurring in a regular sequence.\" This appears to be similar."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_source_test_anomaly_0034_car_D1_spd_31V_mic_1.wav",
+            "note": "The intensity is weak for both low and high frequencies, with a duration of 1 second. There is strong energy present in the low frequency range (0 kHz - 1 kHz). An irregular pattern of weak intensity spikes exists between low and mid frequencies. Although spike patterns are observed intermittently from low to high frequencies, their intensity diminishes progressively as the frequency increases. Additionally, a gap of 1 second is observed between mid and high frequencies."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_target_test_anomaly_0021_car_A2_spd_28V_mic_2.wav",
+            "note": "The spike pattern exists periodically across a range from low frequency to high frequency; however, the intensity diminishes progressively at higher frequencies. There is strong energy present at low frequencies (0 kHz - 1 kHz). At high frequencies, the signals from the previous and following second are almost empty. A notable increase in intensity is observed in the mid-frequency range (4 kHz - 5 kHz), corresponding to a width of 1 kHz. Conversely, a decrease in intensity over a width of 1 kHz is observed in the high-frequency range (6 kHz - 7 kHz)."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_target_test_anomaly_0018_car_A2_spd_37V_mic_2.wav",
+            "note": "Strong energy at low frequencies (0 kHz - 1 kHz).\nThe intensity is very weak for 1 second before and after at high frequencies.\nA range where the intensity decreases by the width of 1 kHz is observed at mid-high frequencies (6 kHz - 7 kHz).\nA range where the intensity increases by the width of 1 kHz is observed at mid frequencies (4 kHz - 5 kHz).\nAn irregular pattern of weak intensity in a spike-like form exists at low frequencies."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_source_test_anomaly_0021_car_C1_spd_40V_mic_1.wav",
+            "note": "Strong energy at low frequencies (0 kHz - 1 kHz). The intensity is very weak one second before and after at high frequencies."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_source_test_normal_0004_car_B2_spd_31V_mic_1.wav",
+            "note": "The intensity is weak for one second before and after in the high-frequency range. Strong energy is observed in the low-frequency range (0 kHz - 1 kHz). An irregular horizontal linear pattern emerges with varying intensity in specific frequency bands. Additionally, one hill-shaped aperiodic pattern is strongly observed in the low-frequency range."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_source_test_normal_0014_car_B2_spd_40V_mic_1.wav",
+            "note": "Strong energy at low frequencies (0 kHz - 1 kHz).\nThe intensity is very weak 1 second before and after at high frequencies."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_target_test_anomaly_0050_car_E2_spd_37V_mic_2.wav",
+            "note": "Strong energy is present in the low frequency range (0 kHz - 1 kHz). The intensity in the high frequency range shows a significant reduction over a span of 1 second both before and after. A pattern emerges where the frequency across the entire spectrum slightly increases during a 0.5-second interval. In the low mid-frequency range (2 kHz, 3 kHz), a decrease in intensity is observed over a width of 0.5 kHz. Additionally, a reduction in intensity is noted over a width of 1-2 kHz in the high mid-frequency range (5 kHz - 7 kHz)."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_source_test_anomaly_0049_car_D2_spd_40V_mic_1.wav",
+            "note": "Strong energy is present in the low-frequency range (0 kHz - 1 kHz). At high frequencies, the intensity is very weak with a one-second delay. Spike patterns exist non-periodically from low frequencies to high frequencies, but the intensity diminishes progressively as the frequency increases."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_source_test_normal_0030_car_C2_spd_40V_mic_1.wav",
+            "note": "The horizontal linear pattern is observed at 1 kHz, 0.8 kHz, and 0.2 kHz. The spike pattern exists periodically across a range from low frequency to high frequency. The horizontal linear pattern appears distinctly at 0.2 kHz, while it is faintly present at 1 kHz and 0.8 kHz."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_source_test_anomaly_0030_car_C2_spd_31V_mic_1.wav",
+            "note": "There is a uniform energy distribution in the 1.5 to 9.5-second interval. The intensity in the 1-second intervals before and after the high frequency is weak."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_source_test_anomaly_0005_car_B1_spd_31V_mic_1.wav",
+            "note": "The analysis reveals that from low frequencies to mid frequencies, a regular pattern emerges, with the intensity gradually decreasing at higher frequencies. At low frequencies (0 kHz - 1 kHz), there is a significant amount of energy present, while in the high frequency range, the intensity is very weak over a span of one second before and after."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_source_test_anomaly_0033_car_C2_spd_40V_mic_1.wav",
+            "note": "There exists a very weak non-periodic pattern in the form of spikes across a frequency range from low to high. The intensity is extremely low, with a duration of 1 second both before and after in the mid to high frequency range. A uniform energy distribution is observed within the interval of 1.5 to 9.5 seconds."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_target_test_anomaly_0027_car_E1_spd_28V_mic_2.wav",
+            "note": "Strong energy is observed at low frequencies (0 kHz - 1 kHz). Horizontal linear patterns appear at 1 kHz, 0.8 kHz, and 0.2 kHz. The intensity in the high-frequency range shows a very weak signal in the preceding and following 1 second. In the high mid-frequency range (5 kHz - 6 kHz), intervals are observed where the intensity decreases to a level corresponding to that of 1 kHz. In the low mid-frequency range (2 kHz, 3 kHz), a decrease in intensity to levels corresponding to a bandwidth of 0.5 kHz is also observed. Spike patterns exist irregularly from low to high frequencies; however, the intensity diminishes progressively as the frequency increases. In the intervals from 1.5 s to 2 s and from 9.5 s to 10 s, a weakening of intensity from mid-frequency to high-frequency is observed over a duration of 0.5 seconds."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_source_test_normal_0041_car_D2_spd_34V_mic_1.wav",
+            "note": "A weak spike-shaped periodic pattern exists from low frequencies to high frequencies."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_target_test_anomaly_0031_car_E1_spd_37V_mic_2.wav",
+            "note": "At high frequencies, the intensity is very weak for 1 second before and after. At low frequencies (0 kHz - 1 kHz), there is strong energy. Horizontal linear patterns appear at 0.2 kHz, 0.7 kHz, 1.3 kHz, 1.7 Hz, 3 kHz, and 5 kHz. The horizontal linear patterns appear irregularly, with the intensity decreasing progressively at higher frequencies. A horizontal linear pattern is observed at low frequency (0 kHz - 1 kHz) occurring at intervals of 0.1 seconds to 1 second."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_source_test_anomaly_0003_car_B1_spd_34V_mic_1.wav",
+            "note": "The horizontal linear patterns exist in a specific frequency band. There is a slight presence of mid-to-high frequency components in the one-second intervals on both sides. Additionally, multiple horizontal linear patterns are found within the specified frequency range."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_source_test_normal_0036_car_D2_spd_31V_mic_1.wav",
+            "note": "At low frequencies (2 kHz, 3 kHz), a decrease in intensity is observed over a bandwidth of 0.5 kHz. At high frequencies (5 kHz to 7 kHz), a reduction in intensity is noted over a bandwidth of 1 to 2 kHz. Strong energy is present at low frequencies. During a duration of 0.5 seconds, there exists a pattern where the intensity across the entire frequency range slightly increases, with a more noticeable increment in the mid-frequency range."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_target_test_anomaly_0036_car_E1_spd_37V_mic_2.wav",
+            "note": "The following observations were noted:\n\nA decrease in intensity by 0.5 kHz was observed in the low-frequency range (2 kHz to 3 kHz).  \nIn the high-frequency range (5 kHz to 7 kHz), a decrease in intensity was observed over a width of 1-2 kHz.  \nStrong energy was recorded at low frequencies.  \nSpike patterns exist non-periodically from low to high frequencies; however, the intensity diminishes progressively at higher frequencies.  \nAt high frequencies, the intensity is significantly weak in the intervals before and after 1 second."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_source_test_normal_0017_car_B2_spd_40V_mic_1.wav",
+            "note": "Strong energy at low frequencies (0 kHz - 1 kHz).  \nThe intensity at high frequencies is very weak in the one-second intervals before and after.  \nThere is an irregular pattern of weak intensity in a spike form existing from low frequencies to mid frequencies."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_source_test_normal_0001_car_B2_spd_31V_mic_1.wav",
+            "note": "The spike pattern appears intermittently across a range from low frequency to mid-frequency, though the intensity diminishes progressively at higher frequencies. There is strong energy observed in the low frequency range (0 kHz - 1 kHz). The spike pattern is present intermittently from low frequency to high frequency."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_target_test_anomaly_0046_car_E2_spd_28V_mic_2.wav",
+            "note": "The horizontal linear pattern appears irregularly, and its intensity diminishes progressively with increasing frequency. There is a strong energy presence at low frequencies (0 kHz - 2 kHz). In the high-frequency range, the intensity is very weak for 1 second before and after the peak. Several non-periodic strong intensity vertical linear patterns have been observed. An aperiodic pattern exists in which intensity increases across the entire frequency spectrum over 0.5 seconds (producing a crackling sound). Spike patterns manifest in aperiodic intervals from low to high frequencies, yet the intensity decreases progressively at higher frequencies."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_source_test_anomaly_0013_car_B2_spd_40V_mic_1.wav",
+            "note": "The overall energy distribution is uniform across all frequency bands. There is a slight reduction in intensity one second before and after in the high-frequency range. In the high mid-frequency range (4-6 kHz), a weak horizontal linear pattern exists, occupying a bandwidth of 2 kHz.\n\nIn the low-frequency range (0 kHz - 1 kHz), there is strong energy present. A spike pattern exhibits an aperiodic presence from the low frequencies to the high frequencies."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_source_test_anomaly_0004_car_B1_spd_40V_mic_1.wav",
+            "note": "At high frequencies, the intensity is very low for one second before and after. The spike pattern exists periodically across a range of frequencies from low to high."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_source_test_anomaly_0006_car_B1_spd_34V_mic_1.wav",
+            "note": "Strong energy at low frequencies (0 kHz - 1 kHz).  \nThe intensity at high frequencies is very weak, with minimal strength 1 second before and after.  \nSpike patterns exist intermittently from low frequencies to mid frequencies."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_source_test_normal_0008_car_B1_spd_34V_mic_1.wav",
+            "note": "Strong energy observed in the low frequency range (0 kHz - 1 kHz). The intensity at high frequencies is very weak in both the preceding and following intervals of one second. A spike pattern exists non-periodically from low to high frequencies, but the intensity diminishes progressively at higher frequencies."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_source_test_normal_0023_car_C2_spd_34V_mic_1.wav",
+            "note": "At high frequencies, the intensity is very weak in the range of one second before and after. In the low mid-frequency range (2 kHz, 3 kHz), a decrease in intensity is observed over a bandwidth of 0.5 kHz. An irregular pattern of weak spikes is present from low to mid frequencies. Additionally, in the high mid-frequency range (5 kHz - 6 kHz), a decrease in intensity is noted over a bandwidth of 1 kHz."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_source_test_anomaly_0038_car_D1_spd_31V_mic_1.wav",
+            "note": "Strong energy is present in the low-frequency range (0 kHz - 1 kHz). There are numerous intervals where the intensity decreases irregularly from 8 kHz to 2 kHz. Overall, the energy distribution is stronger than normal."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_source_test_normal_0026_car_C2_spd_34V_mic_1.wav",
+            "note": "At high frequencies, the intensity is very weak for 1 second before and after. Strong energy is observed at low frequencies (0 kHz - 1 kHz). Horizontal linear patterns are evident at 0.15 kHz, 0.75 kHz, and 1 kHz."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_source_test_anomaly_0036_car_D1_spd_34V_mic_1.wav",
+            "note": "Strong energy at low frequencies (0 kHz - 1 kHz).  \nPeriodic linear patterns of varying intensity are observed across different frequency ranges.  \nAt high frequencies, the intensity is weak for 1 second before and after."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_target_test_anomaly_0001_car_A1_spd_28V_mic_2.wav",
+            "note": "The spike pattern exists non-periodically from low frequencies to mid frequencies, with the intensity gradually decreasing as the frequency increases. Strong energy is present in the low frequency range (0 kHz - 1 kHz). \n\nThe spike pattern is found non-periodically across the spectrum from low to high frequencies. During a 0.5-second interval, there is a very slight increase in the overall frequency and a minor rise in intensity at mid frequencies, indicating a non-periodic pattern. \n\nCompared to normal conditions, there is a horizontal linear pattern where the intensity significantly weakens by an amount of 1-2 kHz at high mid frequencies (5 kHz - 7 kHz)."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_source_test_normal_0040_car_D2_spd_34V_mic_1.wav",
+            "note": "At low frequencies, there is strong energy. At high frequencies, the intensity is very weak, fluctuating around one second. Irregular horizontal linear patterns are observed. Multiple non-periodic strong vertical linear patterns are also observed. Following these strong vertical patterns, there are two instances of non-periodic patterns with medium intensity lasting for 0.5 seconds at the preceding frequency band. This is followed by two occurrences of strong vertical linear patterns, then another instance of a non-periodic pattern with medium intensity, and finally one more strong vertical linear pattern. This sequence shows a certain regularity in its occurrence. Multiple non-periodic strong vertical linear patterns have been observed."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_target_test_anomaly_0049_car_E2_spd_37V_mic_2.wav",
+            "note": "At high frequencies, the intensity is weak for one second in both directions. Conversely, at low frequencies (0 kHz - 1 kHz), there is strong energy."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_target_test_anomaly_0002_car_A1_spd_28V_mic_2.wav",
+            "note": "The text translates to:\n\n\"Various periodic vertical patterns of differing intensities exist from low frequencies to high frequencies. There is strong energy at low frequencies (0 kHz - 1 kHz). At high frequencies, the intensity 1 second before and after is very weak. A1 exhibits a noticeable decrease in intensity over the range of 1-2 kHz in the medium to high frequency band (5 kHz - 7 kHz).\""
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_source_test_anomaly_0047_car_D2_spd_34V_mic_1.wav",
+            "note": "The spike pattern exists intermittently across a range from low frequencies to high frequencies; however, the intensity diminishes as the frequency increases. During a 0.5-second interval, there are two intermittent patterns where the intensity of the mid-frequency shows a slight increase."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_source_test_anomaly_0016_car_B2_spd_34V_mic_1.wav",
+            "note": "Strong energy at low frequencies (0 kHz - 1 kHz). The intensity at high frequencies is very weak, with only a 1-second duration variation. At mid-high frequencies (5-9 kHz), faint horizontal linear patterns exist, approximately the width of 1 kHz."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_target_test_anomaly_0035_car_E1_spd_37V_mic_2.wav",
+            "note": "At low mid-frequency ranges (2kHz, 3kHz), a region has been observed where the intensity decreases by 0.5kHz. In the high mid-frequency range (5kHz-7kHz), a region has been observed where the intensity decreases by 1-2kHz. Strong energy is present at low frequencies (0kHz-1kHz). In the high-frequency range, the intensity is very weak for 1 second before and after. A weak intensity, non-periodic pattern in the form of spikes exists from low frequencies to high frequencies."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_source_test_anomaly_0050_car_D2_spd_40V_mic_1.wav",
+            "note": "During a 0.5-second interval, there is an irregular pattern where the intensity of the mid-frequency increases slightly. Strong energy is present in the low frequency range (0 kHz - 1 kHz). Additionally, there is one occurrence of the non-periodic pattern characterized by the slight increase in mid-frequency intensity within the same 0.5-second interval."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_source_test_anomaly_0015_car_B2_spd_34V_mic_1.wav",
+            "note": "Strong energy is present in the low frequency range (0 kHz - 1 kHz). The intensity in the high frequency range is very weak for 1 second before and after. A faint horizontal linear pattern of weak intensity exists in the mid and high frequency ranges around 1 kHz bandwidth. An irregular pattern of weak intensity in the form of spikes is present across all frequency bands."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_source_test_anomaly_0012_car_B2_spd_34V_mic_1.wav",
+            "note": "The spike pattern exists intermittently across a frequency range from low frequencies to high frequencies, with the intensity decreasing progressively at higher frequencies.\n\nThere is strong energy in the low frequency range (0 kHz - 1 kHz). In the high frequency range, the intensity is extremely weak for one second before and after."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_source_test_normal_0032_car_C2_spd_40V_mic_1.wav",
+            "note": "In the high-frequency range (5kHz-6kHz), a reduction in intensity is observed over a bandwidth of 1kHz. Strong energy is present in the low-frequency range (0kHz-1kHz). In the high-frequency range, the intensity is very weak for 1 second before and after. Linear horizontal patterns are observed at 0.8kHz and 0.2kHz."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_source_test_anomaly_0031_car_C2_spd_31V_mic_1.wav",
+            "note": "Strong energy is observed in the low-frequency range (0 kHz - 1 kHz). The intensity at high frequencies shows a significant decrease, exhibiting very weak signals both one second before and after. A uniform energy distribution is present in the interval from 1.5 to 9.5 seconds. When viewed as an envelope, substantial anomalous events (high-amplitude peaks) appear in the initial phase, followed by a relatively stable signal pattern."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_source_test_normal_0047_car_D2_spd_40V_mic_1.wav",
+            "note": "Strong energy at low frequencies (0 kHz - 1 kHz). The intensity is very weak at high frequencies, with a significant decline in strength over 1 second before and after. Spike patterns are present non-periodically from low frequencies to high frequencies."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_target_test_anomaly_0040_car_E1_spd_28V_mic_2.wav",
+            "note": "Strong energy at low frequencies.  \nAt high frequencies, the intensity is very weak, with a one-second lag in both directions.  \nSpike patterns exist in aperiodic form from low to high frequencies, but the intensity diminishes progressively at higher frequencies."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_source_test_anomaly_0001_car_B1_spd_31V_mic_1.wav",
+            "note": "Strong energy is present at low frequencies (0 kHz - 1 kHz). Spike patterns exist intermittently from low frequencies to high frequencies, although the intensity gradually diminishes as the frequency increases."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_source_test_anomaly_0002_car_B1_spd_34V_mic_1.wav",
+            "note": "The frequency of the aperiodic sound ranges from low to mid frequencies, without extending into high frequencies."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_source_test_normal_0033_car_C2_spd_40V_mic_1.wav",
+            "note": "The horizontal linear pattern is observed at 1 kHz, 0.8 kHz, and 0.2 kHz. Strong energy is present in the low-frequency range (0 kHz - 1 kHz). A decrease in intensity from mid-frequency to high-frequency is observed for a duration of 0.5 seconds within the intervals of 1.5 seconds to 2 seconds and 9.5 seconds to 10 seconds. At high frequencies (5 kHz - 6 kHz), a reduction in intensity equivalent to the width of 1 kHz is noted. A similar decrease in intensity, spanning 0.5 kHz, is observed at low frequencies (2 kHz, 3 kHz). An irregular pattern of weak spikes exists across the spectrum from low to high frequencies. At high frequencies, the intensity is very weak for one second before and after."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_source_test_normal_0020_car_C2_spd_31V_mic_1.wav",
+            "note": "The intensity is very weak 1 second before and after at high frequencies.  \nThere is strong energy at low frequencies (0 kHz - 1 kHz).  \nA reduction in intensity is observed in the high mids at frequencies between 1 kHz and 2 kHz (5 kHz - 7 kHz)."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_source_test_normal_0006_car_B1_spd_34V_mic_1.wav",
+            "note": "Strong energy is observed in the low frequency range (0 kHz - 1 kHz). The intensity is considerably weak at high frequencies, with notable reductions one second before and after. An irregular pattern of weak spikes is present from low frequencies to mid frequencies. Anomalous sounds of a tonal nature are inconsistently observed in the low to mid-frequency range. Strong spikes are irregularly detected in the 0 kHz - 0.5 kHz band."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_source_test_normal_0029_car_C2_spd_34V_mic_1.wav",
+            "note": "Strong energy is present at low frequencies (0 kHz - 1 kHz). \n\nHorizontal linear patterns are frequently observed at low frequencies (0 kHz - 1 kHz) with intervals ranging from 0.1 seconds to 1 second. \n\nAt high frequencies, the intensity before and after 1 second is very weak. \n\nThere exist irregular vertical linear patterns of weak intensity from low to mid frequency ranges. \n\nHorizontal linear patterns are observed at frequencies of 1 kHz, 0.8 kHz, and 0.2 kHz. \n\nDuring a 0.5-second interval, there is a slight increase in intensity across the entire frequency range, with a minor increase in the mid-frequency intensity."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_source_test_normal_0010_car_B1_spd_34V_mic_1.wav",
+            "note": "Strong energy at low frequencies (0 kHz - 1 kHz). The intensity before and after at high frequencies is very weak."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_target_test_anomaly_0025_car_A2_spd_37V_mic_2.wav",
+            "note": "Strong energy is observed at low frequencies (0 kHz - 2 kHz). Horizontal linear patterns appear at 2 kHz, 3 kHz, and 6 kHz. Several aperiodic strong vertical linear patterns are also observed. At high frequencies, the intensity is weak for one second before and after the peak."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_source_test_anomaly_0045_car_D2_spd_40V_mic_1.wav",
+            "note": "Strong energy at low frequencies (0 kHz - 1 kHz). The intensity at high frequencies is very weak within one second before and after. A spike pattern exists non-periodically from low to mid frequencies, but the intensity decreases progressively as the frequency increases."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_source_test_normal_0025_car_C2_spd_34V_mic_1.wav",
+            "note": "Strong energy at low frequencies (0 kHz - 1 kHz).  \nWeak periodic patterns in the form of spikes are present from low to mid frequencies.  \nA period of reduced intensity is observed from mid to high frequencies over a span of 0.5 seconds.  \nIntensity at high frequencies is very low for 1 second before and after."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_target_test_anomaly_0030_car_E1_spd_37V_mic_2.wav",
+            "note": "The horizontal linear patterns are observed at frequencies of 0.2 kHz, 0.7 kHz, 1.3 kHz, 1.6 kHz, 2 kHz, 3.2 kHz, and 5 kHz. An aperiodic pattern with intermediate intensity exists for 0.5 seconds, spanning from mid-frequency to high-frequency, leaving behind a varied sound. Multiple aperiodic patterns of strong intensity in a vertical linear arrangement have been observed."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_target_test_anomaly_0003_car_A1_spd_28V_mic_2.wav",
+            "note": "Strong energy is observed at low frequencies (0 kHz - 1 kHz).  \nSpike patterns are present intermittently at low frequencies.  \nIn A1, a decrease in intensity by 1-2 kHz is observed in the high mid-frequency range (5 kHz - 7 kHz)."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_source_test_normal_0003_car_B2_spd_31V_mic_1.wav",
+            "note": "The text translates to:\n\n\"Strong energy at low frequencies (0 kHz - 1 kHz).  \nSpike patterns are present periodically at low frequencies.  \nB2 exhibits a uniform energy distribution in the range of 2 kHz to 8 kHz during the 1.5s to 9s interval.  \nB2 shows a horizontal linear pattern at frequencies of 6 kHz, 3.2 kHz, and 1.8 kHz.  \nSpike patterns exist periodically from low frequencies to high frequencies; however, the intensity gradually decreases as the frequency increases.  \nA weak-intensity, sporadic pattern of spikes is present from low frequencies to mid frequencies.\""
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_source_test_normal_0039_car_D2_spd_34V_mic_1.wav",
+            "note": "A horizontal linear pattern emerging at intervals of 0.1 to 1 second is frequently observed in the low-frequency range (0 kHz to 1 kHz). There is a strong energy presence at low frequencies. In contrast, the intensity at high frequencies is notably weak for durations of one second before and after. An aperiodic pattern characterized by weak spikes exists, spanning from low frequencies to high frequencies."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_source_test_normal_0016_car_B2_spd_40V_mic_1.wav",
+            "note": "At high frequencies, the intensity is very weak for 1 second before and after. There is strong energy at low frequencies (0 kHz - 1 kHz). It appears that the hill-shaped non-periodic sound is cut off as it transitions from low frequencies to mid frequencies."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_source_test_normal_0050_car_D2_spd_40V_mic_1.wav",
+            "note": "Strong energy is present in the low frequency range (0 kHz - 1 kHz). In the high frequency range, the intensity is very weak for 1 second in both directions. During a 0.5-second interval, a slight increase in frequency across the entire spectrum is observed. In the low mid-frequency range (2 kHz, 3 kHz), a region is observed where the intensity decreases by 0.5 kHz. In the high mid-frequency range (5 kHz - 7 kHz), a region is observed where the intensity decreases by 1-2 kHz. Additionally, an irregular weak intensity vertical linear pattern is identified."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_target_test_anomaly_0047_car_E2_spd_28V_mic_2.wav",
+            "note": "Strong energy at low frequencies (0 kHz - 1 kHz).  \nThe intensity at high frequencies is very weak for 1 second before and after.  \nSpike patterns are present in aperiodic fashion from low frequencies to high frequencies, but the intensity decreases progressively as the frequency increases."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_target_test_anomaly_0020_car_A2_spd_28V_mic_2.wav",
+            "note": "At high frequencies, the intensity is very weak for 1 second both before and after. Strong energy is observed at low frequencies (0 kHz - 1 kHz). In the high mid-frequency range (6 kHz - 7 kHz), a region is observed where the intensity decreases by the width of 1 kHz. Conversely, in the mid-frequency range (4 kHz - 5 kHz), a region is observed where the intensity increases by the same width of 1 kHz. Additionally, an irregular weak intensity linear pattern is noted. Strong signals are observed in the 0.8 kHz band during a 0.5-second interval, but these seem to be unrelated to the anomaly.\n"
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_target_test_anomaly_0038_car_E1_spd_28V_mic_2.wav",
+            "note": "Strong energy at low frequencies.  \nAt high frequencies, the intensity is very weak for about one second in both directions.  \nA region where the intensity decreases over a bandwidth of 1-2 kHz is observed in the mid-high frequency range (5 kHz - 7 kHz).  \nA region where the intensity decreases over a bandwidth of 0.5 kHz is observed at low frequencies (2 kHz, 3 kHz).  \nA spike pattern is present non-periodically from low frequencies to high frequencies.  \nA dot-like pattern has been observed."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_target_test_anomaly_0041_car_E2_spd_37V_mic_2.wav",
+            "note": "The horizontal linear pattern appears irregularly. The spike pattern is present aperiodically across low to mid frequencies."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_target_test_anomaly_0004_car_A1_spd_37V_mic_2.wav",
+            "note": "At high frequencies, the intensity is weak for a duration of 1 second before and after. There is a strong energy presence at low frequencies (0 kHz - 1 kHz). While the spike pattern exists intermittently from low frequencies to high frequencies, the intensity diminishes progressively at higher frequencies. A notable interval is observed at high frequencies (5 kHz - 7 kHz) where the intensity weakens by an amount equivalent to the bandwidth of 1-2 kHz."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_source_test_normal_0049_car_D2_spd_40V_mic_1.wav",
+            "note": "At high frequencies, the intensity is weak for one second before and after. At low frequencies (0 kHz - 1 kHz), there is strong energy. The spike pattern exists non-periodically from low frequencies to high frequencies."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_source_test_normal_0018_car_C2_spd_31V_mic_1.wav",
+            "note": "Strong energy is observed in the low frequency range (0 kHz - 1 kHz). In the high frequency range, the intensity is very weak within a 1-second window before and after. A spike pattern appears sporadically, spanning from low to high frequencies; however, the intensity decreases progressively as the frequency increases. Additionally, a region is noted in the high mid-frequency range (5 kHz - 7 kHz) where the intensity diminishes over a bandwidth of 1-2 kHz."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_source_test_normal_0037_car_D2_spd_31V_mic_1.wav",
+            "note": "The following observations were made regarding the data:\n\nAt low frequencies (2 kHz, 3 kHz), a reduction in intensity is observed over a bandwidth of 0.5 kHz. \nAt high frequencies (5 kHz to 7 kHz), a reduction in intensity is noted over a bandwidth of 1-2 kHz. \nThere is a significant drop in intensity in the seconds before and after high frequencies. \nStrong energy is present at low frequencies. \nHorizontal linear patterns appear irregularly, with increasing frequency leading to a decrease in intensity. \nHorizontal linear patterns are observed at frequencies of 0.2 kHz, 0.7 kHz, 1.7 kHz, 3.2 kHz, 5 kHz, 6 kHz, and 7 kHz. \nAn extremely weak, non-periodic pattern in the form of spikes exists from low frequencies to high frequencies."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_source_test_anomaly_0019_car_C1_spd_34V_mic_1.wav",
+            "note": "A very weak horizontal linear pattern exists in the bandwidth of 1 kHz at mid and high frequencies. There is strong energy observed at low frequencies (0 kHz to 1 kHz). The intensity at high frequencies shows very weak levels in the range of one second before and after. An irregular, hill-like sound is observed spanning from low frequencies to mid-high frequencies."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_source_test_anomaly_0009_car_B1_spd_40V_mic_1.wav",
+            "note": "Strong energy at low frequencies (0 kHz - 1 kHz).  \nThere are irregular, high-intensity vertical frequency patterns present across all frequency bands.  \nHorizontal linear patterns can be observed in specific frequency bands.  \nOverall, there is a strong energy presence."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_source_test_normal_0031_car_C2_spd_40V_mic_1.wav",
+            "note": "At high frequencies, the intensity is very weak for one second in both directions. \n\nStrong energy is observed at low frequencies (0 kHz - 1 kHz). \n\nA horizontal linear pattern appears at 1 kHz, 0.8 kHz, and 0.2 kHz. \n\nAt high frequencies (5 kHz - 6 kHz), a region is observed where the intensity decreases by the width of 1 kHz."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_target_test_anomaly_0032_car_E1_spd_28V_mic_2.wav",
+            "note": "Observations indicate a decrease in intensity over a 1 kHz bandwidth in the high-frequency range (5 kHz - 6 kHz). Strong energy is noted in the low-frequency range (0 kHz - 1 kHz). The intensity at high frequencies is very weak in the one second preceding and following the main event. Horizontal linear patterns are observed at 0.8 kHz and 0.2 kHz. Several sporadic vertical linear patterns of strong intensity have been noted, exhibiting non-periodic characteristics. A weak, sporadic pattern in the form of spikes is present from low frequencies to high frequencies. Additionally, horizontal linear patterns appear at 2 kHz and 3 kHz."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_target_test_anomaly_0010_car_A1_spd_37V_mic_2.wav",
+            "note": "Strong energy is observed in the low-frequency range (0 kHz - 1 kHz). The intensity is notably weak at high frequencies, with the strength diminishing significantly over a 1-second interval in both the forward and backward directions. A reduction in intensity is seen in the mid-high frequency range (5 kHz - 7 kHz), specifically within a bandwidth of 1-2 kHz. Additionally, an interval of slightly increased intensity is observed around 4-5 kHz."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_source_test_anomaly_0041_car_D1_spd_40V_mic_1.wav",
+            "note": "Overall, the 40V exhibits a stronger energy distribution compared to the 34V. There is a significant amount of energy at low frequencies (0 kHz - 1 kHz). An irregular pattern of spike-shaped intensity frequently appears from low to high frequencies."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_source_test_anomaly_0043_car_D2_spd_34V_mic_1.wav",
+            "note": "Strong energy at low frequencies (0 kHz - 1 kHz). Weak, non-periodic patterns in the form of spikes exist from low frequencies to high frequencies."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_source_test_normal_0048_car_D2_spd_40V_mic_1.wav",
+            "note": "At high frequencies, the intensity is weak for 1 second before and after. Irregular horizontal linear patterns appear, with intensities diminishing progressively at higher frequencies. At low frequencies (0 kHz - 2 kHz), there is a strong energy presence. A non-periodic strong intensity vertical linear pattern exists from low frequencies to mid frequencies."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_target_test_anomaly_0034_car_E1_spd_28V_mic_2.wav",
+            "note": "Strong energy at low frequencies.  \nAt high frequencies, the intensity is very weak for durations of 1 second both before and after.  \nAt high mid-frequencies (5 kHz - 6 kHz), a reduction in intensity equal to 1 kHz bandwidth has been observed.  \nHorizontal linear patterns appear at 1 kHz, 0.8 kHz, and 0.2 kHz."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_source_test_anomaly_0023_car_C2_spd_34V_mic_1.wav",
+            "note": "Strong energy in the low frequency range (0 kHz - 1 kHz). A uniform energy distribution is present in the interval of 1.5 to 9.5 seconds."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_source_test_anomaly_0039_car_D1_spd_34V_mic_1.wav",
+            "note": "The presence of a horizontal linear pattern where the intensity decreases in a bandwidth of 1-2 kHz at low mid frequencies (2 kHz - 3 kHz) and high mid frequencies (5 kHz - 7 kHz). \nThere is strong energy at low frequencies (0 kHz - 1 kHz). \nAdditionally, there is an irregular interval where the intensity weakens from 8 kHz down to 2 kHz."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_target_test_anomaly_0039_car_E1_spd_28V_mic_2.wav",
+            "note": "A horizontal linear pattern appearing at intervals of 0.1 seconds to 1 second is frequently observed in the low-frequency range (0 kHz - 1 kHz). There is a strong presence of energy at low frequencies, while the intensity in the high-frequency range exhibits very weak values, particularly for intervals of one second before and after. Although spike patterns are present intermittently across low to high frequencies, their intensity diminishes progressively with increasing frequency."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_target_test_anomaly_0037_car_E1_spd_37V_mic_2.wav",
+            "note": "The following observations were made regarding the frequency ranges:\n\n- In the low frequency range (2 kHz to 3 kHz), a section was observed where the intensity decreased by 0.5 kHz.\n- In the high frequency range (5 kHz to 7 kHz), a section was observed where the intensity decreased over a bandwidth of 1-2 kHz.\n- At high frequencies, the intensity is notably weak for 1 second both before and after the peak.\n- There is significant energy present at low frequencies.\n- Similar to the previous observation, the intensity at high frequencies remains very weak for 1 second before and after the peak.\n- A spike pattern exists non-periodically from low frequencies to high frequencies; however, the intensity diminishes as the frequency increases."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_target_test_anomaly_0014_car_A2_spd_28V_mic_2.wav",
+            "note": "Strong energy in the low-frequency range (0 kHz - 1 kHz).  \nStrong energy at high frequencies up to 2 kHz.  \nWithin specific frequency bands, horizontal linear patterns show that as frequency increases, the intensity gradually decreases.  \nSeveral irregular vertical patterns of varying intensities are observed.  \nAn aperiodic pattern is present, where intensity increases across the entire frequency spectrum for 0.5 seconds, producing a distinct splitting sound."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_target_test_anomaly_0007_car_A1_spd_28V_mic_2.wav",
+            "note": "Strong energy is observed in the low frequency range (0 kHz - 1 kHz). The intensity is very weak for one second before and after in the high frequency range. Although spike patterns exist sporadically from low to mid frequencies, their intensity gradually decreases at higher frequencies. In the range of high to mid frequencies (5 kHz - 7 kHz), a decrease in intensity by a bandwidth of 2 kHz is observed for A1."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_source_test_normal_0034_car_C2_spd_40V_mic_1.wav",
+            "note": "Strong energy is present at low frequencies.  \nAt high frequencies, the intensity before and after one second is very weak.  \nAn irregularly periodic strong intensity vertical linear pattern has been observed.  \nThe horizontal linear pattern shows an irregular decrease in intensity as the frequency increases.  \nThe horizontal linear pattern appears at frequencies of 0.2 kHz, 0.7 kHz, 1.7 kHz, 3.2 kHz, 4.9 kHz, 6 kHz, and 7 kHz."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_source_test_anomaly_0008_car_B1_spd_40V_mic_1.wav",
+            "note": "There is a very weak horizontal linear pattern observed in the 1 kHz bandwidth at mid and high frequencies.\n\nStrong energy is present at low frequencies (0 kHz - 1 kHz), while the intensity at high frequencies is very weak, with only marginal strength observed in the intervals of 1 second before and after. Additionally, there is a pattern where the intensity across all frequency bands shows a slight increase during a 0.5-second interval."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_target_test_anomaly_0015_car_A2_spd_28V_mic_2.wav",
+            "note": "The intensity is very weak for one second before and after at high frequencies. Strong energy is present at low frequencies (0 kHz - 1 kHz). Several non-periodic strong intensity vertical patterns have been observed. A horizontal linear pattern is noted at 2 kHz, where the intensity decreases compared to the surroundings. It has been observed that the energy distribution continues to weaken across the frequency bands of 2 kHz, 3 kHz, and 5-7 kHz."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_source_test_normal_0022_car_C2_spd_34V_mic_1.wav",
+            "note": "Strong energy is observed in the low-frequency range (0 kHz - 1 kHz). In the high-frequency range, the intensity is very weak before and after one second. In the mid-high frequency range (5 kHz - 6 kHz), a region is observed where the intensity decreases by the width of 1 kHz. In the mid-frequency range (4 kHz - 5 kHz), a region is observed where the intensity increases by the width of 1 kHz. A horizontal linear pattern is visible at 0.15 kHz, 0.75 kHz, and 1 kHz."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_source_test_anomaly_0011_car_B2_spd_34V_mic_1.wav",
+            "note": "At high frequencies, the intensity is very weak for 1 second before and after.\n\nAt low frequencies (0 kHz - 1 kHz), there is a strong energy spike pattern that exists non-periodically from low frequencies to mid frequencies. The magnitude of energy is uniformly strong across most frequency bands."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_source_test_anomaly_0048_car_D2_spd_34V_mic_1.wav",
+            "note": "Strong energy in the low frequency range (0 kHz - 1 kHz).  \nThere is an intermittent pattern of weak intensity in spike form that exists from low frequencies to high frequencies."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_source_test_normal_0007_car_B1_spd_34V_mic_1.wav",
+            "note": "Strong energy is observed in the low-frequency range (0 kHz - 1 kHz). The intensity is very weak in the high-frequency range, showing low levels 1 second before and after. An irregular pattern of weak intensity in the form of spikes exists from low frequencies to mid frequencies."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_target_test_anomaly_0008_car_A1_spd_28V_mic_2.wav",
+            "note": "Strong energy is observed in the low frequency range (0 kHz - 1 kHz). The intensity is very weak in the high frequency range during the 1-second intervals before and after. Although spike patterns exist irregularly from low to high frequencies, the intensity diminishes progressively as the frequency increases. A region is noted where the intensity decreases over a bandwidth of 1-2 kHz within the high frequency range (5 kHz - 7 kHz)."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_source_test_normal_0011_car_B1_spd_34V_mic_1.wav",
+            "note": "The spike pattern exists intermittently across the frequency spectrum from low frequencies to high frequencies, with the intensity gradually decreasing at higher frequencies. Strong energy is observed in the low frequency range (0 kHz - 1 kHz). In the high frequency range, the intensity is very weak just one second before and after. A region has been observed in the mid to high frequency range (5 kHz - 7 kHz) where the intensity diminishes over a bandwidth of 1-2 kHz. Additionally, another region is observed in the same high frequency range where the intensity decreases over a bandwidth of 2 kHz. Irregularly shaped sounds resembling an aduk are detected from low frequencies to mid frequencies. An intermittent pattern exists over a 0.5 second interval, during which the overall frequency exhibits very slight changes and the intensity in the mid frequency range shows a minor increase."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_target_test_anomaly_0024_car_A2_spd_37V_mic_2.wav",
+            "note": "At high frequencies, the intensity is very weak for one second before and after. There exists a weak, aperiodic pattern of spike-like forms across the low to mid frequency range. Strong energy is observed in the low frequency range (0 kHz - 1 kHz). In the high mid-frequency range (6 kHz - 7 kHz), a segment is noted where the intensity decreases by the extent of 1 kHz."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_source_test_anomaly_0032_car_C1_spd_34V_mic_1.wav",
+            "note": "Strong energy is observed in the low-frequency range (0 kHz - 1 kHz). The intensity is very weak in the high-frequency range, particularly in the ±1 second vicinity. A uniform energy distribution is evident in the interval from 1.5 to 9.5 seconds. Additionally, a weak, non-periodic pattern in the form of spikes exists from low frequencies to mid frequencies."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_target_test_anomaly_0028_car_E1_spd_28V_mic_2.wav",
+            "note": "At high frequencies, the intensity is very weak in the 1-second intervals before and after. Strong energy is observed in the low-frequency range (0 kHz - 1 kHz). In the high mid-frequency range (5 kHz - 7 kHz), a decrease in intensity is noted over a bandwidth of 1-2 kHz. There exists an irregular pattern of low-intensity spikes that spans from low to high frequencies. A horizontal linear pattern appears very weakly and irregularly. This horizontal linear pattern is observed at frequencies of 1 kHz, 0.8 kHz, and 0.2 kHz."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_target_test_anomaly_0033_car_E1_spd_28V_mic_2.wav",
+            "note": "Horizontal linear patterns are observed at 1 kHz, 0.8 kHz, and 0.2 kHz. There is a strong energy presence in the low frequency range (0 kHz - 1 kHz). An interval is observed where the intensity of high frequency decreases at mid frequencies for a duration of 0.5 seconds between 1.5 seconds to 2 seconds and from 9.5 seconds to 10 seconds. A region is noted where the intensity weakens by an amount equivalent to the bandwidth of 1 kHz in the high frequency range (5 kHz - 6 kHz). A similar attenuation of intensity is observed in the low mid frequencies (2 kHz, 3 kHz) with a bandwidth of 0.5 kHz. The intensity in the high frequency range is very weak during the last second."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_source_test_anomaly_0007_car_B1_spd_34V_mic_1.wav",
+            "note": "The presence of a weak horizontal linear pattern within a 1 kHz bandwidth at mid and high frequencies.\n\nStrong energy is observed at low frequencies (0 kHz - 1 kHz). A very weak horizontal linear pattern is detected in specific frequency bands. At high frequencies, the intensity is significantly low for a duration of one second before and after. Additionally, there is a pattern of slight intensity increase across all frequencies over a 0.5-second interval."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_source_test_anomaly_0022_car_C1_spd_31V_mic_1.wav",
+            "note": "At high frequencies, there is a very weak intensity in the 1-second interval before and after. \n\nIn the low-frequency range (0 kHz - 1 kHz), there is strong energy present. Various intensities of spike-shaped, non-periodic patterns exist from low frequencies to high frequencies."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_source_test_normal_0009_car_B1_spd_34V_mic_1.wav",
+            "note": "Strong energy is observed in the low frequency range (0 kHz - 1 kHz). In the high frequency range (5 kHz - 7 kHz), a reduction in intensity is noted, specifically in the bandwidth of 1-2 kHz. Additionally, the intensity is very weak in the one-second intervals before and after the high frequencies."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_source_test_normal_0002_car_B2_spd_31V_mic_1.wav",
+            "note": "Irregular vertical patterns of varying intensities are present from low frequencies to high frequencies. There is strong energy at low frequencies (0 kHz - 1 kHz). At high frequencies, the intensity is very weak, with an interval of 1 second both before and after."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_source_test_anomaly_0037_car_D1_spd_40V_mic_1.wav",
+            "note": "Strong energy at low frequencies (0 kHz - 1 kHz). During the interval of 0.5 seconds, there is an intermittent pattern where the intensity of the mid-frequency slightly increases."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_target_test_anomaly_0029_car_E1_spd_37V_mic_2.wav",
+            "note": "Strong energy is observed in the low-frequency range (0 kHz - 1 kHz). \n\nLinear horizontal patterns occurring at intervals of 0.1 seconds to 1 second are frequently observed in the low-frequency range (0 kHz - 1 kHz). \n\nThe intensity in the high-frequency range is very weak, with a notable lack of strength noticeable one second before and after. \n\nThere are non-periodic weak vertical linear patterns that exist from low frequencies to mid frequencies. \n\nHorizontal linear patterns are present at 1 kHz, 0.8 kHz, and 0.2 kHz."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_source_test_normal_0045_car_D2_spd_34V_mic_1.wav",
+            "note": "Strong energy in the low frequency range (0 kHz - 1 kHz).  \nA distinct horizontal linear pattern in the form of dotted lines is observed between 2.5 Hz and 7 s - 12 s.  \nA weak, non-periodic pattern characterized by spikes exists from low frequency to high frequency."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_target_test_anomaly_0043_car_E2_spd_37V_mic_2.wav",
+            "note": "Strong energy at low frequencies.  \nThe intensity one second before and after at high frequencies is very weak.  \nOne pattern in the form of a mustache was observed.  \nA weak, non-periodic pattern in the form of spikes exists from low frequencies to high frequencies."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_source_test_anomaly_0044_car_D2_spd_34V_mic_1.wav",
+            "note": "The spike pattern exists intermittently across the frequency spectrum from low frequencies to high frequencies, with the intensity gradually decreasing as the frequency increases. Strong energy is observed in the low-frequency range (0 kHz to 1 kHz). There is an intermittent pattern characterized by a slight increase in the intensity of mid-frequencies over a duration of 0.5 seconds."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_target_test_anomaly_0012_car_A1_spd_37V_mic_2.wav",
+            "note": "The spike pattern exists intermittently across the frequency spectrum from low frequencies to high frequencies, but the intensity diminishes progressively at higher frequencies. \n\nStrong energy is observed in the low-frequency range (0 kHz - 1 kHz). \n\nIn the high-frequency range, the intensity is very weak within the intervals of one second before and after. \n\nIn the mid-high frequency range (6 kHz - 7 kHz), a decrease in intensity is observed in the span equivalent to 1 kHz. \n\nAdditionally, a slight increase in intensity is noted around the 4-5 kHz range."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_source_test_normal_0035_car_D2_spd_31V_mic_1.wav",
+            "note": "Observations indicate a reduction in intensity by approximately 0.5 kHz in the low mid-frequency range (2 kHz to 3 kHz). In the high mid-frequency range (5 kHz to 7 kHz), a decrease in intensity is noted over a bandwidth of 1-2 kHz. Strong energy is present in the low-frequency range (0 kHz to 1 kHz). At high frequencies, the intensity is significantly attenuated for one second before and after. Between 9.9 seconds and 10 seconds, a period of 0.5 seconds reveals a decrease in intensity from mid-frequency to high-frequency. Although spike patterns exist in a non-periodic manner from low-frequency to mid-frequency, the intensity diminishes progressively with increasing frequency."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_target_test_anomaly_0013_car_A2_spd_28V_mic_2.wav",
+            "note": "Strong energy is present in the low frequency range (0 kHz - 1 kHz). Various intensities of horizontal linear patterns appear irregularly within specific frequency bands."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_source_test_anomaly_0014_car_B2_spd_31V_mic_1.wav",
+            "note": "At high frequencies, the intensity is very low for 1 second before and after.\n\nAt low frequencies (0 kHz - 1 kHz), there is strong energy present. An aperiodic vertical frequency pattern exists from low frequencies to high frequencies. Overall, energy is high across all frequencies. An aperiodic pattern is observed where intensity strengthens across the entire frequency range for 0.5 seconds, accompanied by a sound reminiscent of machinery grinding. Numerous horizontal linear patterns of varying intensity are prominently displayed across all frequency bands."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_target_test_anomaly_0009_car_A1_spd_28V_mic_2.wav",
+            "note": "Strong energy observed at low frequencies (0 kHz - 1 kHz). \n\nAn intermittent pattern with increased intensity across the entire frequency range persists for 0.5 seconds, leaving a residual sound of a crackling nature. \n\nMultiple instances of pronounced vertical patterns of non-periodic strong intensity have been recorded. \n\nSpike-like non-periodic patterns have been observed at low frequencies."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_source_test_anomaly_0025_car_C2_spd_40V_mic_1.wav",
+            "note": "Strong energy is observed in the low frequency range (0 kHz - 1 kHz). In the high frequency range, the intensity is very weak in the one second before and after. There is a pattern of slightly increased intensity in the mid-frequency range during the 0.5-second interval. A uniform energy distribution exists in the 1.5 to 9.5-second interval."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_source_test_anomaly_0027_car_C2_spd_31V_mic_1.wav",
+            "note": "In the 1 to 10-second interval, a regular vertical linear pattern is present across all frequency bands. Additionally, a consistent horizontal linear pattern is observed in the 1-second intervals before and after this range, across all bands.\n\nThere is strong energy in the low frequencies (0 kHz to 1 kHz). At high frequencies, the intensity during the 1-second intervals before and after is weaker. Although spike patterns exist sporadically from low frequencies to high frequencies, the intensity diminishes progressively as the frequency increases."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_source_test_normal_0038_car_D2_spd_31V_mic_1.wav",
+            "note": "Strong energy is observed at low frequencies. The intensity is very weak in the range of 1 second before and after at high frequencies. A decline in intensity is observed in the high-frequency range (5 kHz - 7 kHz) across a bandwidth of 1 - 2 kHz. Additionally, a decrease in intensity over a 0.5 kHz bandwidth is noted at low mid-frequencies (2 kHz, 3 kHz). Although spike patterns exist irregularly from low to high frequencies, the intensity progressively diminishes as the frequency increases."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_source_test_normal_0005_car_B1_spd_34V_mic_1.wav",
+            "note": "The spike pattern exists non-periodically across low frequencies to mid frequencies, with the intensity gradually decreasing as the frequency increases. There is a strong energy present in the low frequency range (0 kHz–1 kHz). The intensity at high frequencies is weak, with fluctuations observed in the preceding and following one second. Several instances of non-periodic strong intensity vertical patterns have been observed. Additionally, there is a non-periodic pattern where the intensity increases across the entire frequency range for a duration of 0.5 seconds, accompanied by a sound reminiscent of a choppy noise."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_source_test_normal_0015_car_B2_spd_40V_mic_1.wav",
+            "note": "At high frequencies, the intensity is very weak for 1 second before and after.  \nAt low frequencies (0 kHz - 1 kHz), there is strong energy.  \nSpike patterns are present non-periodically from low frequencies to high frequencies; however, the intensity gradually decreases as the frequency increases."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_target_test_anomaly_0019_car_A2_spd_28V_mic_2.wav",
+            "note": "At high frequencies, the intensity is very weak for one second before and after.  \nThere is strong energy at low frequencies (0 kHz - 1 kHz).  \nAt high mid-frequencies (6 kHz - 7 kHz), a decrease in intensity is observed over a bandwidth of 1 kHz.  \nAt mid-frequencies (4 kHz - 5 kHz), an increase in intensity is observed over a bandwidth of 1 kHz."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_source_test_anomaly_0028_car_C2_spd_34V_mic_1.wav",
+            "note": "Strong energy at low frequencies (0 kHz - 1 kHz). The intensity is very weak one second before and after at high frequencies."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_source_test_anomaly_0018_car_C1_spd_31V_mic_1.wav",
+            "note": "The spike pattern exists intermittently across a range of low to high frequencies, with the intensity gradually diminishing as the frequency increases. There is a very weak horizontal linear pattern in the mid and high frequency ranges, specifically within a 1kHz bandwidth. Strong energy is present in the low frequency range (0kHz-1kHz). At high frequencies, the intensity is very weak for a duration of 1 second before and after. An intermittent pattern is observed in which the intensity increases across the entire frequency spectrum for 0.5 seconds. A sound reminiscent of machinery grinding can be detected."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_source_test_anomaly_0026_car_C2_spd_31V_mic_1.wav",
+            "note": "There is a uniform energy distribution in the 1.5 to 9.5-second interval.\n\nStrong energy is observed in the low-frequency range (0 kHz to 1 kHz). A regular horizontal linear pattern is present in the 1-second intervals before and after. Additionally, there is a weak periodic pattern in the form of spikes that exists across low to high frequencies. Over a duration of 0.5 seconds, an irregular pattern is noted, characterized by a slight increase in intensity across all frequencies."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_source_test_anomaly_0029_car_C2_spd_40V_mic_1.wav",
+            "note": "There is a uniform energy distribution in the 1.5 to 9.5-second interval.\n\nStrong energy is present at low frequencies (0 kHz - 1 kHz). The intensity at high frequencies is very weak in the one-second intervals before and after. An intermittent pattern of weak intensity in the form of spikes can be observed at low frequencies, accompanied by a booming sound."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_target_test_anomaly_0048_car_E2_spd_37V_mic_2.wav",
+            "note": "At high frequencies, the intensity is very weak for 1 second before and after. Strong energy is observed at low frequencies (0 kHz - 1 kHz). A single non-periodic weak intensity vertical linear pattern has been observed. Spike patterns are present non-periodically from low to high frequencies, but the intensity diminishes progressively at higher frequencies."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_target_test_anomaly_0011_car_A1_spd_37V_mic_2.wav",
+            "note": "The spike pattern exists non-periodically from low frequencies to high frequencies, with intensity decreasing progressively at higher frequencies. There is strong energy in the low frequency range (0 kHz to 1 kHz). In the high frequency range, the intensity is very weak within a 1-second interval both before and after. A decrease in intensity is observed in the high mid-frequency range (5 kHz to 7 kHz) over a bandwidth of 1-2 kHz. Additionally, a reduction in intensity is noted in the high mid-frequency range (6 kHz to 7 kHz) over a bandwidth of 1 kHz. An interval is observed where the intensity slightly increases around 4-5 kHz."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_source_test_anomaly_0024_car_C2_spd_34V_mic_1.wav",
+            "note": "The spike pattern exists intermittently across a spectrum of low to high frequencies, with the intensity decreasing as the frequency increases. Strong energy is observed in the low-frequency range (0 kHz - 1 kHz). In the high-frequency range, the intensity is significantly weaker, particularly in the 1-second intervals before and after. A regular vertical linear pattern is noted during the 1-10 second interval."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_source_test_normal_0019_car_C2_spd_31V_mic_1.wav",
+            "note": "At high frequencies, the intensity is very weak for a duration of 1 second before and after. Strong energy is observed at low frequencies (0 kHz - 1 kHz). In the high mid-frequency range (5 kHz - 7 kHz), a decrease in intensity is noted over a bandwidth of 1-2 kHz. Additionally, a reduction in the intensity of high frequencies compared to mid frequencies is observed over a duration of 0.5 seconds."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_target_test_anomaly_0006_car_A1_spd_37V_mic_2.wav",
+            "note": "Strong energy is present in the low frequency range (0 kHz - 1 kHz). The intensity at high frequencies is very weak in the 1-second duration before and after. An aperiodic pattern of weak intensity in the form of spikes is observed from low frequencies to mid frequencies."
+        },
+        {
+            "file_path": "../unziped/dev/ToyCar/test/section_00_target_test_anomaly_0026_car_E1_spd_28V_mic_2.wav",
+            "note": "At high frequencies, the intensity is very weak for 1 second both before and after. Strong energy is observed at low frequencies (0 kHz - 1 kHz). Horizontal linear patterns are evident at 0.15 kHz, 0.75 kHz, and 1 kHz. Several non-periodic vertical linear patterns with varying intensities have been observed. One sporadic pattern in the form of spikes, exhibiting weak intensity, has been noted from low to high frequencies."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_source_test_normal_0050_noAttribute.wav",
+            "note": "The distribution exhibits a gradual decline in energy, resembling a hill formed around the 6s mark. There is a strong energy distribution across the entire range from 4s to 8s, which resembles the sound of wind (or bat wings flapping). While there are intervals throughout the full spectrum where the frequencies intensify at irregular intervals, the range between 4 kHz and 7 kHz appears relatively weak."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_source_test_normal_0039_noAttribute.wav",
+            "note": "The distribution shows a gradual decrease in energy, as if a hill is formed based on the 6s mark. There is a strong energy distribution across the entire range from 4s to 8s, reminiscent of wind or the sound of bat wings. In the central interval, a momentary \"weeeee\" sound is observed. When only frequencies below 2kHz are considered, it is estimated that there is a segment where a linear pattern of low frequencies (around 1.5kHz) intensifies. Throughout the entire range, there are intervals where the frequency strengthens irregularly at varying intervals."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_source_test_normal_0009_noAttribute.wav",
+            "note": "In the 4s-8s interval, there is a strong distribution of energy across the entire bandwidth, particularly in the 4s-5.5s range where there is a particularly robust energy concentration at 6-8kHz, reminiscent of the sound of wind or bat wings flapping. \n\nCentered around 6s, there is a strong yet increasingly faint, very thin vertical linear pattern that spreads periodically at 0.3s intervals, accompanied by a sound resembling a tapping or clicking."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_target_test_anomaly_0020_noAttribute.wav",
+            "note": "A very thin yet strong vertical linear pattern is spreading irregularly around the 6s mark, accompanied by a tapping sound. In the interval from 4s to 8s, there is a medium energy distribution across the entire frequency range, resembling the sound of wind (or bat wings fluttering)."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_source_test_anomaly_0037_noAttribute.wav",
+            "note": "The weak spike patterns are present intermittently across low to high frequencies. There is a strong energy distribution throughout the entire central region, resembling a crackling sound that bursts with quality. A very thin yet strong vertical linear pattern sporadically radiates around the 6-second mark, accompanied by audible crackling noises. Hill patterns are also observed intermittently."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_source_test_anomaly_0014_noAttribute.wav",
+            "note": "There is a very thin yet strong vertical linear pattern spreading irregularly around the 6-second mark, accompanied by a pattering sound. A weak spike pattern is present irregularly, spanning from low frequencies to high frequencies. \n\nIn the pre-4 to 8-second interval, there is a weak energy distribution across the entire spectrum, with a notable intermediate energy distribution in the 4 to 5.5-second range, particularly in the 6 to 8 kHz band, reminiscent of the sound of wind or bat wings. \n\nA horizontal linear pattern is observed in the 0.2, 1, 2, and 2.5 kHz bands."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_source_test_normal_0048_noAttribute.wav",
+            "note": "The distribution shows a gradual decrease in energy, resembling a hill formed around the 6s mark. There is a strong energy distribution across the entire range between 4s and 8s, with sounds reminiscent of wind or the flapping of bat wings. A mid-energy peak is observed in the 7.5 kHz to 7.8 kHz range, with a bandwidth of 0.3 kHz."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_target_test_anomaly_0040_noAttribute.wav",
+            "note": "In the frequency range below 2 kHz, numerous horizontal linear patterns were observed. Several strong, aperiodic vertical linear patterns were also detected. Following the observation of these strong vertical linear patterns, there were approximately two instances where the intensity increased significantly for several seconds at the frequency of the preceding band, after which two more strong vertical linear patterns appeared, followed again by a pattern of enhanced intensity for several seconds. Subsequently, another strong vertical linear pattern was noted, indicating a recurring regularity in these occurrences.\n\nNear the central frequency around 6 seconds, multiple vertical linear patterns of significant strength were observed, exhibiting strong energy and resembling a sound akin to a \"tatada,\" similar to an explosive quality of sound."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_source_test_anomaly_0007_noAttribute.wav",
+            "note": "In the 4s-8s interval, there is a strong energy distribution across the entire frequency range, with particularly significant energy concentration in the 4s-5.5s interval around 6-8 kHz, resembling the sound of wind (or bat wings flapping). \n\nThere is a sporadic presence of weak spike patterns that extend from low frequencies to high frequencies, creating a pronounced effect. \n\nAgain, within the 4s-8s interval, the strong energy distribution is reminiscent of a sound that resembles a series of taps with a bursting tonal quality.\n\nA very thin yet strong vertical linear pattern is observed, centered around 6s, which spreads irregularly, accompanied by the sound resembling splattering taps with expressive tonal bursts."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_source_test_normal_0034_noAttribute.wav",
+            "note": "In the central interval, a momentary \"bae-aeng\" sound was heard. It is estimated to be the region where the linear pattern at low frequencies (1 kHz) strengthens when only the band below 2 kHz is perceived. A weak spike pattern intermittently exists across a spectrum ranging from low frequencies to high frequencies. Based on the 6-second mark, a distribution appears that gradually decreases in energy, resembling the formation of a hill."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_target_test_anomaly_0043_noAttribute.wav",
+            "note": "The text translates to:\n\n\"A sporadic but strong spike pattern has been observed from low frequencies to mid frequencies. A gradual decrease in energy distribution appears as if a hill is formed around the 6-second mark. There is a strong energy distribution across the entire band before the 4 to 8-second interval, resembling the sound of wind (or bat wings). A vertical linear pattern is observed, where the frequency across the entire band strengthens at intervals of 0.1 seconds. The closer to the 6-second mark and mid frequencies, the stronger the pattern, while it weakens as it moves away; this very thin vertical linear pattern spreads in a relatively periodic manner around specific intervals centered on 6 seconds. There are numerous horizontal linear patterns below 2 kHz. A temporary interval has been observed where the intensity from mid frequencies to high frequencies weakens.\""
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_target_test_anomaly_0038_noAttribute.wav",
+            "note": "A very thin vertical linear pattern is distributed irregularly, accompanied by a tapping sound.  \nNumerous horizontal linear patterns are observed in the frequency range below 1.5 kHz.  \nHorizontal linear patterns are distinctly observed in the range of 0.25 to 0.5 kHz."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_source_test_normal_0035_noAttribute.wav",
+            "note": "In the frequency range from 4s to 8s, there is a notable distribution of intermediate energy, particularly a strong energy concentration within the 4s-5.5s interval at 6-8 kHz, which resembles sounds of wind or bat wing flapping. \n\nAn irregular pattern is observed where the intensity at all frequencies increases sharply for several seconds, producing a cracking sound. Additionally, there is a vertical linear pattern observed where the frequency across the entire range intensifies at intervals of 0.1 seconds."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_target_test_anomaly_0011_noAttribute.wav",
+            "note": "The distribution exhibits a gradual decrease in energy, forming a hill-like structure centered around 6 seconds. A horizontal linear pattern at high frequencies displays a wavering pattern reminiscent of waves. A sharp high-frequency sound is noticeable near 6 seconds, accompanied by the ringing of a school bell. In the frequency range prior to the 4 to 8 seconds interval, there is a strong energy distribution that resembles the sound of wind (or bat wings flapping)."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_source_test_normal_0021_noAttribute.wav",
+            "note": "In the band between 4 kHz and 7 kHz, the energy distribution weakens. In the interval from 4 to 8 seconds, a medium energy distribution is observed, which sounds similar to wind (or bat fluttering). A very thin but strong vertical linear pattern spreads irregularly around the 6-second mark, accompanied by a distinct tapping sound. An irregular pattern is observed where the frequencies across the entire spectrum strengthen in intervals of 0.1 seconds to 0.3 seconds, although the band from 4 kHz to 7 kHz is observed to be somewhat weaker. Additionally, very strong horizontal linear patterns are observed at 0.2, 1, and 2 kHz."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_source_test_normal_0032_noAttribute.wav",
+            "note": "There are regions across the entire frequency range where the frequency intensifies at irregular intervals; however, within the range of 4 kHz to 7 kHz, it appears relatively weak. Numerous horizontal linear patterns are observed in the frequency range below 1 kHz. There is an observed pattern of sporadic strong intensity spikes spanning from low frequencies to mid frequencies. A gradual energy distribution is noted, resembling the formation of hills, with a decrease in energy centered around 6 seconds. In the entire range from 4 seconds to 8 seconds, there is a strong energy distribution that resembles the sound of wind or bat wings. A low-frequency sound resembling \"ziiiing\" is heard near 6 seconds. When only the frequencies below 2 kHz are considered, it is estimated that there is an interval where the horizontal linear pattern at low frequency (0.2 kHz) intensifies.\n"
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_target_test_anomaly_0048_noAttribute.wav",
+            "note": "The distribution shows a gradual decrease in energy, similar to a hill formed around 6s. There is a strong energy distribution across the entire range from 4s to 8s, resembling the sound of wind (or the flapping of bat wings). A very thin vertical linear pattern, which is stronger closer to 6s and weaker as it moves away, is periodically spread out at specific intervals centered around 6s. A low-frequency \"ziiing\" sound can be heard near 6s. When only examining the range below 2 kHz, it is estimated that this corresponds to a section where the horizontal linear pattern in the low-frequency range becomes stronger."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_source_test_anomaly_0006_noAttribute.wav",
+            "note": "From 4s to 5.5s, there is a particularly strong energy distribution in the 6-8 kHz range, resembling the sound of wind (or the fluttering of bat wings). A vertical linear pattern is observed, with frequencies across the entire range becoming pronounced at intervals of 0.1s, producing a clattering sound. Throughout the period from 4s to 8s, there is a strong energy distribution across the entire spectrum, resembling a sound that pops and bursts with timbral richness. A very thin yet strong vertical linear pattern emerges around 6s, expanding periodically and accompanied by the sound of popping and bursting timbre."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_source_test_anomaly_0001_noAttribute.wav",
+            "note": "A very thin yet strong vertical linear pattern is intermittently spread around the 6-second mark, accompanied by a sound that resembles a sharp popping or bursting quality. The horizontal linear pattern appears somewhat pronounced in the frequency ranges of 0.25-0.5 kHz and 1.5-1.7 kHz. \n\nIn the time frame from 4 to 8 seconds, there is a strong distribution of energy across the entire spectrum, resembling that popping sound. Furthermore, during this interval, particularly between 4 and 5.5 seconds, there is a notably strong energy distribution in the 6-8 kHz range, which sounds reminiscent of wind or the fluttering of bat wings."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_source_test_anomaly_0033_noAttribute.wav",
+            "note": "A very thin yet strong vertical linear pattern spreads irregularly around 6 seconds, accompanied by a tapping sound. A gradual reduction in energy distribution appears as if a hill is formed around the 6-second mark. At the central interval, there is a momentary sound resembling \"weeing.\" When only frequencies below 2 kHz are heard, it is speculated that this corresponds to a segment where the horizontal linear pattern at low frequencies (1 kHz) is intensified."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_target_test_anomaly_0023_noAttribute.wav",
+            "note": "The horizontal linear pattern at high frequencies appears to ripple like waves. A sharp high-frequency sound is heard around 6 seconds. There is a strong distribution of energy across the entire frequency range in the interval of 4 to 8 seconds, particularly a pronounced energy peak between 4 to 5.5 seconds at 6 to 8 kHz, reminiscent of wind (or the sound of bat wings flapping). \n\nCentered at 6 seconds, there is a very thin vertical linear pattern that decreases in strength with distance, spreading periodically at intervals of 0.3 seconds, accompanied by a tapping sound."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_target_test_anomaly_0049_noAttribute.wav",
+            "note": "The distribution exhibits a gradual decrease in energy, resembling a hill formed around the 6-second mark. A strong energy distribution is present across the entire 4s-8s range, reminiscent of wind or bat wing flapping sounds. Weak spike patterns exist intermittently, covering a wide frequency range from low to high frequencies. \n\nA notable pattern is observed, where the frequency strengthens intermittently across the entire range for intervals of 0.1s to 0.3s; however, the band from 4kHz to 7kHz shows slightly weaker responses. Low-frequency sounds resembling a \"zziing\" can be detected near the 6-second mark. When only considering the frequencies below 2kHz, it is inferred that there is a region where horizontal linear patterns in the low frequencies become more pronounced. \n\nThe very thin vertical linear pattern, which is stronger closer to the 6-second mark and weaker as it moves away, is distributed somewhat periodically at certain intervals centered around 6 seconds."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_source_test_normal_0042_noAttribute.wav",
+            "note": "Throughout the entire frequency range, there are intervals where the frequencies strengthen at irregular intervals. However, within the range of 4 kHz to 7 kHz, this strengthening appears relatively weak. A trapezoidal pattern is observed non-periodically. In the interval from 4 seconds to 8 seconds, there is a moderate energy distribution across the entire frequency range, particularly demonstrating a strong energy distribution in the 4s to 5.5s interval between 6 kHz and 8 kHz, reminiscent of the sound of wind or bat wing flapping."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_source_test_anomaly_0036_noAttribute.wav",
+            "note": "The distribution appears to progressively decrease in energy, reminiscent of a hill formed around the 6s mark. There is a strong energy distribution across the entire central band, producing a sound akin to a crisp, bursting quality. In the central interval, there is a momentary sound resembling \"weeing.\" When only the frequency range below 2 kHz is considered, it is estimated that this section corresponds to a phase where the horizontal linear pattern of low frequencies (around 1 kHz) intensifies."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_source_test_anomaly_0042_noAttribute.wav",
+            "note": "Noise or patterns are not clearly observed. \nIn the frequency range before the 4s-8s interval, there is a distribution of intermediate energy, resembling the sound of wind or the fluttering of bat wings. \nHorizontal linear patterns appearing at intervals of 0.1s to 1s are frequently observed in the low-frequency range (0kHz-1kHz)."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_source_test_anomaly_0046_noAttribute.wav",
+            "note": "The data shows a distribution characterized by a gradual decrease in energy, resembling a hill that forms around the 6-second mark. A very thin, yet robust, vertical linear pattern is periodically observed at intervals of 0.1 seconds, producing a distinct clicking sound. Additionally, a sporadic pattern of strong spikes is detected at low frequencies. There is a strong distribution of energy across the entire bandwidth during the interval of 4 to 8 seconds, resembling the sound of wind (or the fluttering of bat wings), with a sharp quality."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_target_test_anomaly_0032_noAttribute.wav",
+            "note": "Multiple instances of irregular, strong intensity vertical linear patterns have been observed. Following the observation of these strong intensity vertical linear patterns, a temporary increase in intensity occurs at frequencies in the previous band for several seconds, which recurs about twice, followed again by two occurrences of the strong intensity vertical linear patterns, followed by another temporary increase in intensity, and concluding with one additional strong intensity vertical linear pattern. This sequence exhibits a certain regularity.\n\nThere exists an irregular pattern of increased intensity across the full frequency range over several seconds, characterized by a sound reminiscent of crackling. Numerous vertical linear patterns with strong energy have been observed irregularly across the frequency spectrum, producing a sound akin to popping or bursting quality.\n\nA strong horizontal linear pattern has been noted at 1.5 kHz."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_source_test_anomaly_0022_noAttribute.wav",
+            "note": "The text describes various characteristics of sound energy distribution in different frequency bands. Here's the translated version:\n\n\"A strong energy distribution is observed across the entire frequency range, resembling a sound that bursts with tonal quality like a popping or crackling noise. From the 4s to 8s interval, there is a slightly increased energy distribution, particularly between 4s and 5.5s at 6-8kHz, which sounds reminiscent of wind (or the flapping of bat wings). \n\nA non-periodic interval at 1.8kHz exhibits a very strong intensity with a horizontal linear pattern. Although a horizontal linear pattern appears across the entire frequency range, the intensity decreases as the frequency increases. A vertical linear pattern is observed where the frequency strengthens across the entire range at intervals of 0.1 seconds. Additionally, a non-periodic interval at 0.2kHz shows a marked increase in intensity.\""
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_source_test_anomaly_0013_noAttribute.wav",
+            "note": "The strong energy distribution is present across the entire 4s-8s interval, with particularly pronounced energy distribution in the 4s-5.5s range at 6-8 kHz, resembling the sound of wind (or bat wings). \n\nAdditionally, a vertically spiking pattern with enhanced intensity around 6s is observed periodically, accompanied by a popping sound. A significant horizontal linear pattern is observed below 1 kHz."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_source_test_normal_0029_noAttribute.wav",
+            "note": "The energy distribution appears to gradually decrease, forming a hill-like structure centered around 6s. There is a strong energy distribution across the entire 4s-8s range, resembling the sound of wind (or bat wings). In the central interval, there is a momentary sound described as \"wee-ing.\" When only the frequencies below 2kHz are heard, it is inferred that there is a region where the horizontal linear pattern of low frequencies (0.8kHz, 0.6kHz) strengthens."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_target_test_anomaly_0045_noAttribute.wav",
+            "note": "Multiple instances of intermittent, high-intensity vertical linear patterns have been observed. Following the observation of these strong vertical linear patterns, there have been occurrences where the intensity increases for a few seconds in the frequency of the prior band, happening about twice, after which the high-intensity vertical linear patterns reappear twice, followed again by a brief increase in intensity for a few seconds, and concluding with a single observation of a high-intensity vertical linear pattern. This sequence exhibits a certain regularity.\n\nAt 1.6 kHz, strong horizontal linear patterns were detected. Additionally, there is a very thin and low-intensity vertical linear pattern that is distributed intermittently around 6 seconds, accompanied by a noticeable tapping sound."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_source_test_normal_0018_noAttribute.wav",
+            "note": "In the frequency range of 4s to 8s, there is a strong distribution of energy that sounds reminiscent of wind or bat wing flapping. Numerous horizontal linear patterns are observed in the frequency range below 1.8 kHz. Weak spike patterns appear sporadically, extending from low frequencies to high frequencies. There are very thin yet strong vertical linear patterns that periodically spread around 6s, accompanied by a tapping sound."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_source_test_anomaly_0049_noAttribute.wav",
+            "note": "In the 4s-8s interval, there is a strong energy distribution across the entire frequency range, resembling the sound of wind (or bat wings). A gradual decrease in energy distribution appears as if a hill is formed around the 6s mark. \n\nAn irregular pattern of strong intensity spikes is observed at lower frequencies. Momentarily, a \"weeeing\" sound is detected in the central interval. When only frequencies below 2 kHz are considered, it is estimated that there is an interval where the horizontal linear pattern at lower frequencies (1 kHz) strengthens. \n\nA low frequency \"ziiiing\" is heard near 6s. Again, when only frequencies below 2 kHz are considered, it is suggested that there is an interval where the horizontal linear pattern at lower frequencies (0.2 kHz) becomes more prominent. \n\nIn the mid-frequency range, a pattern emerges where the intensity slightly increases in a circular manner, existing with a slight symmetry around the center."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_source_test_normal_0019_noAttribute.wav",
+            "note": "The weak spike pattern exists intermittently across low to high frequencies. Strong vertical patterns appear at irregular intervals throughout the entire frequency range, but they appear relatively weak in the band between 4 kHz and 7 kHz. During the 4s to 8s interval, there is a medium energy distribution that resembles the sound of wind (or bat flapping its wings)."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_source_test_normal_0045_noAttribute.wav",
+            "note": "In the 4s-8s interval, a mid-frequency energy distribution is observed, akin to the sound of wind (or the fluttering of bat wings). An irregular pattern emerges where the frequency across the entire spectrum strengthens periodically for intervals of 0.1s to 0.3s, although the range from 4kHz to 7kHz is detected somewhat more weakly. Additionally, a linear pattern consisting of approximately four horizontal lines is detected in the frequency range below 1kHz."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_source_test_anomaly_0044_noAttribute.wav",
+            "note": "In the 4s to 8s range, there is a strong distribution of energy across the entire spectrum, resembling the sound of wind (or bat wings). The sound appears sharp. A low frequency producing a \"ziiiing\" sound is heard near the 6s mark. When only frequencies below 2 kHz are observed, it is estimated that there is a region where the horizontal linear pattern of the low frequencies intensifies."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_source_test_anomaly_0039_noAttribute.wav",
+            "note": "In the 4s-8s interval, there is a strong energy distribution across the entire frequency range, reminiscent of wind or bat wing sounds. Several irregular, strong vertical linear patterns have been observed. Following the observation of these strong vertical linear patterns, there are two occurrences where, for a few seconds, the intensity increases at certain frequencies in the range, which is then followed by two more strong vertical linear patterns followed by another brief increase in intensity, and subsequently a single strong vertical linear pattern, all occurring in a regular sequence.\n\nNear the 6s mark, multiple vertical patterns exhibit strong energy across the entire frequency range, producing a sound reminiscent of tapping with a bursty quality. Thin yet powerful vertical linear patterns are intermittently spreading around the 6s mark, accompanied by a tapping sound."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_source_test_normal_0001_noAttribute.wav",
+            "note": "In the 4s-8s range, there is a significant distribution of intermediate energy across the entire spectrum, particularly within the 4s-5.5s interval, where there is a strong energy distribution at 6-8 kHz that resembles the sound of wind (or bat wing flutters). A very thin yet intense vertical linear pattern is intermittently spread around 6s, accompanied by a percussive sound."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_target_test_anomaly_0047_noAttribute.wav",
+            "note": "Multiple instances of irregularly occurring strong vertical linear patterns have been observed. Following the observation of these strong vertical linear patterns, there appear two occurrences of a pattern where the intensity increases for a few seconds at the frequency of the preceding band, followed again by two occurrences of strong vertical linear patterns, followed by another pattern of increased intensity for a few seconds, and then a single strong vertical linear pattern. This sequence displays a certain regularity.\n\nThere is also a very thin and weak vertical linear pattern that sporadically spreads around 6 seconds, accompanied by a sound reminiscent of rapid tapping.\n\nAdditionally, four strong horizontal linear patterns have been detected between 1 kHz and 2 kHz, along with numerous strong horizontal linear patterns being detected irregularly."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_target_test_anomaly_0042_noAttribute.wav",
+            "note": "The text translates to:\n\n\"There are sections across the entire frequency range where the frequency is amplified at irregular intervals, yet between 4 kHz and 7 kHz, it appears comparatively weaker. \n\nA very thin vertical linear pattern is present, which grows stronger as it approaches 6 seconds and weakens as it moves away, spreading periodically at certain intervals centered around 6 seconds. \n\nIn the 4 to 8 seconds interval, there is a strong energy distribution that sounds reminiscent of wind (or the flapping of bat wings).\""
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_target_test_anomaly_0031_noAttribute.wav",
+            "note": "The distribution gradually decreases in energy, similar to a hill formed around the 6-second mark. There is a strong energy distribution across the entire range from 4 seconds to 8 seconds, reminiscent of sounds made by wind or the flapping of bat wings. In the central interval, there is a momentary sound resembling \"bae-ae-aeng.\" When only the range below 2 kHz is heard, it is estimated that there is a segment where the low-frequency (1 kHz) horizontal linear patterns become more pronounced. \n\nAround the central frequency near 6 seconds, multiple vertical linear patterns intensify in energy and are observed, producing a sound that resembles a popping quality. There is a very thin vertical linear pattern that is strong and weakens as it moves away from the 6-second mark, extending periodically outward at specific intervals while producing a popping sound. Numerous horizontal linear patterns are observed in the frequency range below 1 kHz."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_source_test_normal_0004_noAttribute.wav",
+            "note": "The weak spike pattern exists intermittently across a range of frequencies from low to high. There is a slight energy distribution across the entire bandwidth before the 4s-8s interval, with a particularly medium energy distribution in the 4s-5.5s range at 6-8 kHz, resembling sounds of wind (or bat wing flapping)."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_source_test_anomaly_0026_noAttribute.wav",
+            "note": "A very thin yet strong vertical linear pattern is spreading periodically around the 6-second mark, accompanied by a faint tapping sound. \n\nIn the central interval from 4.5 seconds to 7.5 seconds, a moderate energy distribution is evenly spread across the entire frequency range. \n\nNumerous horizontal linear patterns are observed in the frequency range below 2 kHz. \n\nWeak spike patterns are present intermittently, extending from low frequencies to high frequencies. \n\nIn the full frequency range from 4 seconds to 8 seconds, there is a weak energy distribution that resembles the sound of wind (or the fluttering of bat wings)."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_target_test_anomaly_0002_noAttribute.wav",
+            "note": "In the 4s to 5.5s range, there is a mid-energy distribution at 6-8 kHz, with a very thin vertical linear pattern spreading irregularly around 6s, creating a \"tatatat\" sound. A vertical linear pattern is observed where the frequencies across the entire range intensify at intervals of 0.3s. Near the 6s mark, there is a strong energy distribution across the entire spectrum, characterized by a tightly clustered narrow vertical linear pattern that resembles a popping sound, akin to the quality of \"tatatat.\""
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_source_test_anomaly_0004_noAttribute.wav",
+            "note": "The text translates to:\n\n\"There is a strong energy distribution across the entire range from 4 to 8 seconds, particularly a pronounced energy distribution in the 4s to 5.5s range at 6-8 kHz, which sounds similar to wind (or the flapping of bat wings). \nIn the range from 4s to 8s, there is a strong energy distribution that is reminiscent of a sharp, popping sound. \nA very thin yet strong vertical linear pattern is observed to be spreading irregularly around 6 seconds, accompanied by the sharp, popping sound. \nAn irregular pattern of strong intensity spikes is observed at low frequencies.\""
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_source_test_anomaly_0029_noAttribute.wav",
+            "note": "The following observations were noted: There are periodic patterns where the entire frequency range intensifies within intervals of 0.1s to 0.3s; however, the bands between 4kHz and 7kHz are observed to be somewhat less pronounced. A strong energy distribution is noted across the entire frequency range from 4s to 8s, accompanied by a low-frequency sound resembling a \"ziiing.\" Additionally, there is a medium energy distribution observed in the 0.3kHz bandwidth between 7.5kHz and 7.8kHz. Strong horizontal linear patterns were observed at 0.2kHz and 1kHz."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_target_test_anomaly_0005_noAttribute.wav",
+            "note": "In the vicinity of 6 seconds, multiple linear patterns exhibit strong energy and are observed, resembling the sound of crackling or bursting quality. A gradual decrease in energy distribution is evident, as if a hill has formed around the 6-second mark. In the entire frequency range from 4 to 8 seconds, a strong energy distribution is noted, reminiscent of sounds akin to wind or the fluttering of bat wings."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_source_test_anomaly_0010_noAttribute.wav",
+            "note": "In the 4s-8s interval, there is a strong energy distribution across the entire frequency range, notably with a particularly pronounced energy distribution in the 4s-5.5s range around 6-8 kHz, which resembles the sound of wind (or bat wings). \n\nA very thin yet intense vertical linear pattern is spreading non-periodically around the 6s mark, accompanied by a tapping sound. Additionally, there exists a weaker spike pattern that non-periodically spans from low to high frequencies, producing a jarring sound."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_source_test_anomaly_0027_noAttribute.wav",
+            "note": "A non-periodic pattern has been observed in which the frequency across the entire spectrum strengthens within intervals of 0.1 to 0.3 seconds; however, the 4 kHz to 7 kHz range appears to be slightly weaker. There is a thumping sound present. \n\nIn the 4 to 8 seconds interval, a strong energy distribution is evident across the entire spectrum, accompanied by a \"weeeing\" sound. \n\nA distinct horizontal linear pattern can be clearly observed in the 0.25 to 0.5 kHz range. \n\nDuring the 4 to 8 seconds interval, there is again a strong energy distribution, reminiscent of a sound similar to wind or the fluttering of bat wings."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_source_test_anomaly_0016_noAttribute.wav",
+            "note": "The pattern that intensifies from the central band to the surrounding bands, based on 6s (a specific reference point), has been observed intermittently, accompanied by a clicking sound. The horizontal linear pattern is strongly observed in the frequency range of 0.25 to 0.5 kHz."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_source_test_normal_0020_noAttribute.wav",
+            "note": "A very thin yet strong vertical linear pattern is observed to radiate non-periodically from the 6-second mark, accompanied by a sound reminiscent of a light tapping. Non-periodically, a pattern of enhanced frequency across the entire spectrum is noticed, occurring within intervals of 0.1 to 0.3 seconds, although the 4kHz to 7kHz range is observed to be somewhat weaker. Between 4 to 8 seconds, there is a weak energy distribution across the entire spectrum, resembling the sound of wind (or the fluttering of bat wings). The energy distribution in the 4kHz to 7kHz range, excluding the vicinity around 6 seconds, is comparatively weak. A brief observation reveals a section where the intensity of high frequencies diminishes relative to the mid frequencies."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_source_test_anomaly_0034_noAttribute.wav",
+            "note": "The text can be translated to English as follows:\n\n---\n\nThere is a strong energy distribution across the entire range from 4s to 8s, resembling the sound of wind (or the flapping of bat wings). A very thin yet strong linear pattern is intermittently spreading around 6s, accompanied by a tapping sound. In the central interval, there is a momentary \"weeing\" sound. When only the range below 2kHz is heard, it is estimated that this corresponds to a segment where the horizontal linear pattern of low frequency (1kHz) intensifies. There is a strong energy distribution across the entire central interval, sounding like a tapping sound with a burst of audio quality.\n\n--- \n\nThis translation maintains the technical accuracy and descriptive quality of the original Korean text."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_source_test_anomaly_0018_noAttribute.wav",
+            "note": "A very thin yet strong vertical linear pattern is spread irregularly around 6 seconds, accompanied by a tapping sound. \n\nThroughout the 4 to 8 seconds interval, there is a medium energy distribution across all frequencies, with particularly strong energy distribution in the 4 to 5.5 seconds range at 6 to 8 kHz, resembling the sound of wind (or bat wings fluttering). \n\nIn the 4 to 8 seconds interval, there is a strong energy distribution again, producing a sound that resembles tapping with a bursting quality. \n\nAt 0.25 to 0.5 kHz, a distinct horizontal linear pattern is observed. Numerous horizontal linear patterns are detected below the 2 kHz range. \n\nIn the 4 to 8 seconds interval, there is a strong energy distribution, and the sound of tapping, with a bursting quality, is particularly pronounced."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_source_test_anomaly_0015_noAttribute.wav",
+            "note": "Strong horizontal linear patterns were observed at 0.2 kHz and moderate patterns at 1 kHz. A spiking pattern, which intensifies around the 6-second mark, was observed periodically, accompanied by a tapping sound. There is a strong energy distribution across all frequencies in the 4 to 8-second range, with a particularly strong energy distribution in the 6 to 8 kHz range between 4 and 5.5 seconds, resembling the sound of wind or bat wing flaps.\n\nA vertical linear pattern was observed across all frequencies with an interval of 0.1 seconds, although the range of 4 kHz to 7 kHz was observed with slightly weaker intensity. The horizontal linear pattern emerged strongly at frequencies of 0.25 kHz, 0.5 kHz, 0.6 kHz, 0.75 kHz, 0.9 kHz, 1.1 kHz, 1.2 kHz, 1.4 kHz, and 1.6 kHz, and was also present at other frequencies."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_target_test_anomaly_0025_noAttribute.wav",
+            "note": "The horizontal linear pattern at the medium wave frequency appears to undulate like waves. A sharp high-frequency sound can be heard around 6 seconds. In the interval from 4 to 8 seconds, there is an intermediate energy distribution across the entire bandwidth, reminiscent of wind or the flapping sound of bat wings. Based on the 6-second mark, there is a very thin vertical linear pattern that is strong and weakens as it moves away, periodically spreading at intervals of 0.3 seconds centered around 6 seconds, with a tapping sound present. An irregular strong-intensity spike pattern has been observed ranging from low frequencies to mid-range frequencies."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_source_test_anomaly_0050_noAttribute.wav",
+            "note": "The distribution exhibits a gradual decrease in energy, resembling a hill formed around the 6s mark. There is a very strong energy distribution across the entire band from 4s to 8s, reminiscent of wind (or the sound of flapping bat wings). A low-frequency \"whooshing\" sound can be heard near the 6s range. Overall, the energy distribution is robust."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_source_test_anomaly_0045_noAttribute.wav",
+            "note": "The text can be translated and refined as follows:\n\nA periodic pattern was observed where the frequencies across the entire range become stronger for intervals of 0.1s to 0.3s; however, the frequencies in the 4kHz to 7kHz range were observed to be somewhat weaker. An irregular, thumping sound is intermittently present at low frequencies. In the central segment, a momentary \"weeeing\" sound can be heard. When only the frequencies below 2kHz were analyzed, it was inferred that there is a strengthening of the linear pattern at low frequencies (around 1kHz). Between 4s and 8s, there is a strong distribution of energy across the full frequency range, reminiscent of wind or the flapping of bat wings. Around the 6s mark, a distribution pattern emerges that gradually decreases in energy, resembling the formation of a hill."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_source_test_normal_0024_noAttribute.wav",
+            "note": "A pattern is observed where the frequency across the entire range intensifies intermittently for intervals of 0.1 to 0.3 seconds; however, the frequency range of 4 kHz to 7 kHz is observed to be slightly weaker. In the interval of 4 to 8 seconds, a moderate energy distribution is noted across the entire spectrum, resembling the sound of wind or the fluttering of bat wings."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_target_test_anomaly_0016_noAttribute.wav",
+            "note": "A very thin yet strong vertical linear pattern is observed periodically at intervals of 0.1 seconds, producing a distinctive tapping sound. \n\nIn the 4 to 8-second range, there is a strong energy distribution across the entire frequency range, resembling the sound of wind or the flutter of bat wings. \n\nAn irregular pattern emerges for several seconds, where the intensity strengthens across all frequencies, resulting in a grinding noise."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_source_test_anomaly_0032_noAttribute.wav",
+            "note": "The distribution exhibits a gradual decrease in energy, resembling a hill formed based on the 6s benchmark. There is a strong energy distribution across the entire range from 4s to 8s, particularly notable in the 4s-5.5s range around 6-8 kHz, which sounds reminiscent of wind (or the flapping of bat wings)."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_target_test_anomaly_0037_noAttribute.wav",
+            "note": "In the frequency range below 1 kHz, a significant number of horizontal linear patterns were observed. A gradual reduction in energy distribution appears, resembling hills formed around the 6-second mark. A horn sound is audible. There is a strong energy distribution across the entire range prior to the 4-8 seconds interval, reminiscent of wind (or bat wing sounds). An irregular pattern of strong spikes at low to mid frequencies has been noted. A very thin vertical linear pattern, stronger near 6 seconds and diminishing with distance, radiates periodically around 6 seconds at specific intervals."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_source_test_normal_0026_noAttribute.wav",
+            "note": "The distribution shows a gradual decrease in energy, resembling a hill formed around 6 seconds. There is a strong energy distribution across the entire range prior to the 4s-8s interval, resembling the sound of wind (or the fluttering of bat wings). A vertical linear pattern is observed, where the frequency across the entire range strengthens at intervals of 0.1 seconds. Near the 6-second mark, multiple linear patterns across the entire range exhibit high energy and sound akin to a popping or crackling quality."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_target_test_anomaly_0033_noAttribute.wav",
+            "note": "An irregular pattern is observed where the intensity increases across the entire frequency range for several seconds, accompanied by a splitting sound. Numerous strong energy vertical linear patterns appear irregularly across the entire spectrum, resembling a thudding sound that gives the impression of quality bursting. Horizontal linear patterns are observed below 2.5 kHz. Vertical linear patterns are observed where the frequency across the entire spectrum strengthens at intervals of 0.1 seconds."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_source_test_normal_0011_noAttribute.wav",
+            "note": "The distribution gradually decreases in energy, resembling a hill formed around the 6-second mark. A pattern has been observed where the entire frequency range intensifies in a non-periodic manner for intervals between 0.1 seconds and 0.3 seconds; however, the 4 kHz to 7 kHz range appears to be somewhat weaker. In the interval from 4 seconds to 8 seconds, there is a moderate energy distribution across the entire spectrum, particularly with a strong energy presence in the 6-8 kHz range during the 4 to 5.5 seconds timeframe, which resembles the sound of wind (or bat wing flapping)."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_source_test_anomaly_0021_noAttribute.wav",
+            "note": "A pattern has been observed where the frequency across the entire spectrum strengthens intermittently within the range of 0.1s to 0.3s; however, the 4kHz to 7kHz range appears to be somewhat weaker. While a horizontal linear pattern emerges across the entire frequency range, the intensity decreases as the frequency increases. In the central frequency range, there is a strong energy distribution that sounds like a popping noise, resulting in a significant degradation in sound quality. A very strong horizontal linear pattern is observed at 0.2kHz."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_source_test_normal_0022_noAttribute.wav",
+            "note": "In the frequency range of 4 kHz to 7 kHz, the energy distribution weakens. A gradual decrease in energy distribution is observed, resembling the formation of a peak centered around 6 seconds. There is a strong energy distribution across the entire 4s to 8s interval, which sounds akin to wind or the fluttering of bat wings. A distinct horizontal linear pattern is clearly observed in the range of 0.25 kHz to 0.5 kHz. In the 7.5 kHz to 7.8 kHz range, a mid-energy peak with a bandwidth of 0.3 kHz is recorded. Near 6 seconds, multiple linear patterns across the entire range exhibit strong energy, producing a sound reminiscent of crackling and a burst in tonal quality."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_source_test_anomaly_0048_noAttribute.wav",
+            "note": "The distribution shows a gradual decrease in energy, resembling a hill formed around the 6s mark. There is a strong energy distribution across the entire bandwidth from 4s to 8s, particularly a robust energy concentration in the 4s-5.5s range at 6-8 kHz, which resembles the sound of wind (or bat wing flapping). \n\nA very thin but strong linear vertical pattern, which strengthens around the 6s mark, is observed periodically at 0.1-second intervals, producing a clicking sound. Additionally, there exists a weak spike pattern that is non-periodic, spanning from low to high frequencies. \n\nNon-periodic patterns of increasing frequency across the entire range are observed, with increases occurring in intervals from 0.1s to 0.3s; however, the 4 kHz to 7 kHz range is observed to be somewhat weaker."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_source_test_anomaly_0041_noAttribute.wav",
+            "note": "In the 4s-8s range, a strong energy distribution is observed, resembling the sound of wind or bat wings fluttering. Around 6s, a gradual decrease in energy distribution appears, as if a hill is being formed. In the entire range near 6s, multiple linear patterns exhibit strong energy and are observed, producing a sound reminiscent of a rapid tapping with a burst of tonal quality."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_source_test_normal_0028_noAttribute.wav",
+            "note": "The distribution displays a gradual decrease in energy, resembling a hill formed around the 6-second mark. Throughout the entire frequency range, there are intervals where the frequencies become pronounced at irregular gaps; however, within the 4kHz to 7kHz range, the energy appears relatively weak. In the 4 to 8-second interval, there is a strong energy distribution that sounds akin to wind or the fluttering of bat wings."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_source_test_anomaly_0043_noAttribute.wav",
+            "note": "In the 4s-8s range, there is a strong energy distribution across the entire bandwidth, resembling the sound of wind (or bat wing flapping)."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_target_test_anomaly_0024_noAttribute.wav",
+            "note": "The horizontal linear pattern at the high mid-frequency appears to undulate like waves. A sharp high-frequency sound is heard near 6 seconds. There is a strong energy distribution across the entire spectrum in the interval of 4 to 8 seconds, with particularly intense energy concentration in the 4 to 5.5-second range, especially between 6 to 8 kHz, resembling the sound of wind (or bat wings). \n\nCentered around 6 seconds is a very thin vertical linear pattern that is strong and diminishes with distance, spreading out periodically at 0.3-second intervals, accompanied by a tapping sound. Additionally, an irregular and intense spike pattern is observed from low frequencies to mid frequencies."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_target_test_anomaly_0007_noAttribute.wav",
+            "note": "In the entire frequency range near 6 seconds, multiple linear patterns exhibit strong energy and are observed, resembling a crisp, popping sound akin to an exploding audio quality. \n\nA very thin yet robust vertical linear pattern radiates intermittently around the 6-second mark, accompanied by a distinctive popping sound. \n\nThere is a strong distribution of energy throughout the entire frequency range between 4 and 8 seconds, reminiscent of the sound of wind or the flapping of bat wings."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_target_test_anomaly_0050_noAttribute.wav",
+            "note": "The distribution shows a gradual decrease in energy, resembling a hill formed around 6 seconds. In the frequency range from 4 seconds to 8 seconds, there is a strong energy distribution that sounds similar to wind or bat wing flapping. A low-frequency \"ziiiing\" is heard near the 6-second mark. When only considering frequencies below 2 kHz, it is estimated that there is a range in which horizontal linear patterns at low frequencies become more pronounced. The vertical linear patterns, which are very thin, exhibit a strong intensity closer to the 6-second mark and weaken as they move further away, spreading out periodically at specific intervals centered around 6 seconds."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_source_test_normal_0002_noAttribute.wav",
+            "note": "In particular, in the 4s-5.5s interval at 6-8 kHz, there is a mid-range energy distribution, with a very thin vertical linear pattern that expands non-periodically around the 6s mark, accompanied by a sound resembling a light tapping."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_source_test_anomaly_0020_noAttribute.wav",
+            "note": "Below 2 kHz, numerous horizontal linear patterns are distinctly observed. There is a strong disruption of sound at the center. During the 4s-8s interval, there is a strong distribution of energy across all frequencies, resembling the sound of an explosion with a crisp quality. A very thin yet strong vertical linear pattern is observed radiating irregularly around the 6s mark, accompanied by a clicking sound. In the mid-frequency range, a pattern with slightly increased intensity is symmetrically located around the center. Distinct horizontal linear patterns are observed in the 0.25-0.5 kHz range."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_source_test_normal_0010_noAttribute.wav",
+            "note": "The text translates to:\n\n\"There is a strong energy distribution across the entire range from 4s to 8s, particularly a pronounced energy distribution in the 4s to 5.5s interval around 6-8 kHz, resembling the sound of wind (or bat wing flapping). A trapezoidal pattern is observed intermittently.\""
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_source_test_normal_0003_noAttribute.wav",
+            "note": "In the 4s-8s interval, there is a weak energy distribution across the entire range, particularly in the 4s-5.5s interval, where a moderate energy distribution is observed at 6-8 kHz, resembling the sound of wind or bat flapping its wings."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_target_test_anomaly_0021_noAttribute.wav",
+            "note": "Between 4 kHz and 7 kHz, the energy distribution weakens. In the interval from 4 seconds to 8 seconds, there is a mid-range energy distribution that resembles the sound of wind (or bat wings flapping). A very thin but strong vertical linear pattern is spread irregularly around the 6-second mark, accompanied by a tapping sound. Throughout the frequency range, there are sections where the frequencies become pronounced at irregular intervals; however, in the 4 kHz to 7 kHz range, these appear relatively weak. Below 1 kHz, a prominent horizontal linear pattern is observed."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_target_test_anomaly_0030_noAttribute.wav",
+            "note": "A distribution is observed that gradually decreases in energy, forming a hill-like profile centered around the 6s mark. There is a strong energy distribution across the entire 4s-8s interval, producing sounds reminiscent of wind or bat wing flaps. A momentary \"baeaeng\" sound is heard in the center interval. When only frequencies below 2kHz are considered, it is estimated that there is a strong horizontal linear pattern at low frequencies (around 1kHz). \n\nNumerous vertical linear patterns, which strengthen around the central frequency near 6s, exhibit high energy and are observed as sounds resembling a popping or bursting quality. A very thin vertical linear pattern, strong at 6s and diminishing with distance, is periodically spread out at certain intervals centered around the 6s mark, accompanied by the sound of popping."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_source_test_normal_0031_noAttribute.wav",
+            "note": "The distribution shows a gradual decrease in energy, resembling a hill formed on a baseline of 6s. There is a strong energy distribution across the entire range from 4s to 8s, resembling the sound of wind or the flapping of bat wings. Although there are intervals within the entire range where the frequency intensifies at irregular intervals, this effect appears relatively weak in the band between 4 kHz and 7 kHz. In the band below 2.5 kHz, numerous horizontal linear patterns are observed. Additionally, aperiodic spikes of strong intensity are noted across frequencies from low to mid-range."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_source_test_normal_0016_noAttribute.wav",
+            "note": "A very thin yet strong vertical linear pattern is observed periodically at intervals of 0.1 seconds, accompanied by a distinct snapping sound. \n\nIn the interval from 4 to 8 seconds, there is a strong distribution of energy across the entire frequency spectrum, with particularly pronounced energy concentrations in the 4 to 5.5-second range at frequencies between 6 to 8 kHz, resembling the sound of wind (or the flapping of bat wings). \n\nAdditionally, an irregular pattern has been observed where the frequencies across the entire spectrum intensify within a timeframe of 0.1 to 0.3 seconds; however, the bands between 4 kHz and 7 kHz exhibit slightly weaker observations."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_target_test_anomaly_0017_noAttribute.wav",
+            "note": "The distribution exhibits a gradual decrease in energy, resembling a hill formed around the 6s mark. There is a strong energy distribution across the entire 4s-8s range, which resembles the sound of wind (or the flapping of bat wings). Additionally, there are sporadic low to high-frequency spike patterns with relatively weak intensity."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_source_test_anomaly_0008_noAttribute.wav",
+            "note": "Observations reveal a vertical linear pattern where the frequency across the entire spectrum intensifies at 0.1-second intervals, producing a clanging sound. \n\nDuring the 4 to 8 seconds interval, there is a strong energy distribution across the entire spectrum, particularly marked by a robust energy presence between 4 to 5.5 seconds at 6-8 kHz, reminiscent of wind or the fluttering of bat wings. \n\nThroughout the 4 to 8 seconds interval, the strong energy distribution also resembles a sound characterized by a tapping noise followed by a bursting quality in the audio."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_source_test_normal_0008_noAttribute.wav",
+            "note": "Multiple instances of irregular, strong vertical linear patterns have been observed. Following the observation of these strong vertical linear patterns, two occurrences of enhanced intensity patterns were noted at the frequencies of the preceding band for several seconds, after which the strong vertical linear patterns occurred twice again, followed by another few seconds of increased intensity patterns, and then a final strong vertical linear pattern. This sequence displays a certain regularity in its occurrence. \n\nIn the interval from 4s to 8s, a strong energy distribution across the entire frequency range was observed, with particularly intense energy distribution in the 4s to 5.5s range at 6-8 kHz, resembling the sound of wind (or bat wing flapping). Near the 6s mark, multiple linear patterns with strong energy were observed across the entire frequency range, producing a sound reminiscent of a sharp, popping quality, as if bursting."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_source_test_anomaly_0005_noAttribute.wav",
+            "note": "The energy distribution is strong across the entire range from 4s to 8s, particularly exhibiting a robust energy concentration in the 4s to 5.5s interval at 6-8 kHz, reminiscent of wind or the flapping of bat wings. \n\nThere is a strong energy distribution throughout the interval from 4s to 8s, producing sounds that resemble a popping or bursting quality. \n\nA very thin but powerful vertical linear pattern is observed, radiating irregularly around 6s, accompanied by a popping or bursting sound. \n\nIrregular spike patterns are observed at low frequencies, producing a sound reminiscent of muffled thuds."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_source_test_anomaly_0017_noAttribute.wav",
+            "note": "A non-periodic spike pattern of strong intensity has been observed from low frequencies to high frequencies. In the overall range prior to the 4s-8s interval, there is a medium energy distribution, with particularly strong energy distribution noted in the 4s-5.5s segment at 6-8 kHz, which resembles the sound of wind (or bat flapping)."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_source_test_normal_0017_noAttribute.wav",
+            "note": "There is a strong energy distribution across the entire frequency range from 4s to 8s, particularly pronounced in the 4s to 5.5s range, with a significant concentration of energy observed between 6-8 kHz, resembling the sound of wind (or bat wing flapping). Additionally, numerous horizontal linear patterns can be observed in the frequency range below 2 kHz."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_target_test_anomaly_0001_noAttribute.wav",
+            "note": "In the vicinity of 6 seconds, numerous linear patterns with strong energy are observed, resembling a sound that bursts with quality. There is a strong energy distribution across the entire spectrum in the 4 to 8 seconds interval, with particularly intense energy distribution noted between 4 to 5.5 seconds in the 6 to 8 kHz range. A very thin yet strong vertical linear pattern spreads irregularly around 6 seconds, with the \"tapping\" sound being frequently captured."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_source_test_anomaly_0023_noAttribute.wav",
+            "note": "The weak spike pattern exists intermittently across a range of low to high frequencies. A very thin yet strong vertical linear pattern is emerging intermittently around 6 seconds, accompanied by a clicking sound. The intensity increases near 6.7 kHz, around the 6-second mark, producing a high-frequency \"weeeing\" sound."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_source_test_anomaly_0035_noAttribute.wav",
+            "note": "There is a very thin yet strong vertical linear pattern that spreads irregularly around the 6s mark, accompanied by a tapping sound. A strong energy distribution is observed across the entire range of the central interval, resembling a popping sound as if the audio quality is bursting forth."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_source_test_normal_0038_noAttribute.wav",
+            "note": "In the 4s-8s range, there is a weak energy distribution across the entire band, particularly presenting a moderate energy distribution in the 4s-5.5s range at 6-8 kHz, which resembles the sound of wind (or bat wing flapping). Very strong horizontal linear patterns are observed at 0.2, 1, and 2 kHz. There is a very thin, weak vertical linear pattern that intermittently spreads around the 6s mark, accompanied by a tapping sound."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_source_test_normal_0005_noAttribute.wav",
+            "note": "There is a strong energy distribution across the entire frequency range of 4s-8s, particularly pronounced in the 4s-5.5s range and around 6-8 kHz, resembling the sound of wind (or the fluttering of bat wings)."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_source_test_anomaly_0038_noAttribute.wav",
+            "note": "Numerous strong energy linear patterns are observed in the vicinity of 6s, producing a sound reminiscent of crackling or bursting audio quality. An extremely thin yet powerful vertical linear pattern radiates intermittently around 6s, accompanied by crackling sounds."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_target_test_anomaly_0018_noAttribute.wav",
+            "note": "In the frequency range of 4s to 8s, there is a strong energy distribution that resembles the sound of wind (or bat wing beats). In the frequency range below 1 kHz, many horizontal linear patterns are observed. The horizontal linear pattern at 1 kHz shows aperiodic fluctuations, becoming stronger and then weaker. Across the entire frequency range, strong vertical patterns appear at irregular intervals, but they are relatively weaker in the range between 4 kHz and 7 kHz."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_source_test_normal_0049_noAttribute.wav",
+            "note": "The distribution shows a gradual decrease in energy, resembling a hill formed around the 6s mark. There is a strong energy distribution across the entire range from 4s to 8s, reminiscent of the sound of wind (or bat wings flapping). While there are segments across the entire spectrum where the frequencies become more pronounced at irregular intervals, the range between 4 kHz and 7 kHz appears relatively weaker."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_source_test_normal_0041_noAttribute.wav",
+            "note": "The distribution shows a gradual decrease in energy, resembling a hill formed based on the 6s reference point. There is a strong energy distribution across the entire range from 4s to 8s, which sounds like wind or the flapping of bat wings. A pattern is observed where the frequency across the entire spectrum intensifies intermittently for intervals of 0.1s to 0.3s, although the 4kHz to 7kHz range appears somewhat weaker. In the frequency range below 1kHz, numerous horizontal linear patterns are observed."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_source_test_anomaly_0024_noAttribute.wav",
+            "note": "The distribution shows a gradual decrease in energy that forms a hill-like shape, with the 6-second mark serving as a reference. In the central interval, there is a momentary sound resembling \"weeeing.\" When only frequencies below 2 kHz are heard, it is assumed to be a region where low-frequency horizontal patterns become more pronounced. \n\nThere is a strong energy distribution across the entire frequency range before the central interval, producing a sound reminiscent of a burst in audio quality. Between 0.1 and 0.3 seconds, a pattern is observed that intermittently intensifies as it spreads from the central band to the surrounding ranges, accompanied by a tapping sound. \n\nIn the frequency range from 4 to 8 seconds, there is a significant energy distribution that sounds like wind (or the fluttering of bat wings)."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_source_test_normal_0030_noAttribute.wav",
+            "note": "The distribution shows a gradual decrease in energy, resembling a hill formed around the 6s mark. There is a strong energy distribution across the entire band from 4s to 8s, resembling the sound of wind or bat wings. A low-frequency \"zeee\" is audible near the 6s point. When only the frequencies below 2kHz are heard, it is estimated that there is a significant interval where the horizontal linear pattern of low frequencies (0.2kHz) intensifies. A non-periodic pattern is observed where the frequency across the entire range increases for intervals of 0.1s to 0.3s; however, the range from 4kHz to 7kHz is observed to be somewhat weaker."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_source_test_normal_0012_noAttribute.wav",
+            "note": "In the frequency range below 2 kHz, numerous horizontal linear patterns have been observed. There is a gradual decrease in energy distribution that resembles a hill when referenced against 6 seconds. Across the entire range prior to the 4s-8s interval, there is a slightly stronger energy distribution, particularly noted in the 4s-5.5s range, with a notable presence of energy between 6-8 kHz as well, which resembles the sound of wind (or bat wing flapping)."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_source_test_anomaly_0031_noAttribute.wav",
+            "note": "A gradual decrease in energy distribution is observed, resembling a hill formed around the 6-second mark. Horizontal linear patterns appear at various frequencies, such as 0.25-0.5 kHz and 1.4-1.6 kHz. There is a strong energy distribution across the entire central frequency range, reminiscent of a crisp sound that bursts forth. Sounds reminiscent of wind (or bat wing flapping) can be heard.\n\nBased on the 6-second mark, a non-periodic pattern emerges, where energy intensifies as it spreads from the central band to the surrounding bands at intervals of 0.1-0.3 seconds, accompanied by a clicking sound. A low-frequency \"weee-ing\" noise is also heard near the 6-second mark."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_source_test_anomaly_0028_noAttribute.wav",
+            "note": "In the interval from 4s to 8s, there is a strong energy distribution across the entire frequency range, which can be heard as a sound resembling wind or the flapping of bat wings. The horizontal linear patterns are clearly observed at 0.25 kHz, 1.1 kHz, 1.6 kHz, 3.1 kHz, 6 kHz, and 7 kHz; however, the intensity decreases as the frequency increases. Additionally, in the interval from 4s to 8s, a strong energy distribution is noted, with a noticeable \"wheeeing\" sound."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_target_test_anomaly_0028_noAttribute.wav",
+            "note": "The distribution shows a gradual decrease in energy, akin to a hill formed based on the 6s mark. Throughout the entire frequency range between 3s and 9.5s, numerous vertical linear patterns exhibit strong energy, resembling a sound that pops and bursts in quality. Irregular intervals reveal vertical linear patterns where the frequency across the entire range intensifies. Vertical linear patterns of increasing frequency across the entire range are observed at intervals of 0.1 seconds."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_target_test_anomaly_0044_noAttribute.wav",
+            "note": "The text can be translated into English as follows:\n\n\"There are intervals in the entire frequency range where the frequency intensity is amplified irregularly, but within the range of 4kHz to 7kHz, it appears relatively weak. A distribution pattern emerges that shows a gradual decrease in energy, resembling a hill centered around 6 seconds. The entire frequency range exhibits a medium energy distribution during the 4 to 8 seconds interval, producing a sound reminiscent of wind (or bat flapping). An observation of non-periodic patterns shows that the frequency in the entire range is amplified in intervals of 0.1 seconds to 0.3 seconds; however, the 4kHz to 7kHz band is observed to be slightly weaker. A very thin and weak vertical linear pattern spreads irregularly around 6 seconds, accompanied by a 'tat-tat' sound.\""
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_source_test_normal_0036_noAttribute.wav",
+            "note": "Observation of a vertical linear pattern where the frequency of the entire band intensifies at intervals of 0.1 seconds."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_target_test_anomaly_0039_noAttribute.wav",
+            "note": "There is a very thin vertical linear pattern that is spreading non-periodically, accompanied by a tapping sound. A vertical linear pattern is observed where the frequency across the entire range intensifies at intervals of 0.1 seconds. Very strong horizontal linear patterns are observed at 0.2 kHz and 1.5 kHz."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_target_test_anomaly_0012_noAttribute.wav",
+            "note": "In the frequency range below 2 kHz, many horizontal linear patterns were observed. A distribution showing a gradual decrease in energy is evident, resembling the formation of hills around 6 seconds. The horizontal linear patterns at higher frequencies exhibit a wave-like undulation. Near 6 seconds, the intensity strengthens, accompanied by sharp high-frequency sounds. Throughout the interval of 4 to 8 seconds, there is a strong distribution of energy, resembling the sound of wind (or bat wing flapping)."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_source_test_normal_0013_noAttribute.wav",
+            "note": "In the 4s-8s interval, there is a distribution of intermediate energy across the entire frequency range, particularly a strong energy distribution in the 4s-5.5s range at 6-8 kHz, which sounds similar to the noise of wind (or the flapping of bat wings). A period of approximately 0.3 seconds is observed during which the intensity of the high frequencies diminishes in relation to the mid frequencies."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_source_test_normal_0043_noAttribute.wav",
+            "note": "An irregular pattern of strong spikes has been observed from low frequencies to mid frequencies. A distribution indicating a gradual decrease in energy, resembling the formation of a hill with a 6-second baseline, is evident. There is a strong energy distribution across the entire bandwidth in the 4s to 8s range, reminiscent of the sound of wind (or bat wings). A horizontal dashed line pattern is observed at high frequencies around 7.8 kHz."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_source_test_normal_0023_noAttribute.wav",
+            "note": "In the 4s-8s interval, there is a distribution of intermediate energy that sounds akin to wind (or the flapping of bat wings). Strong spikes in intensity with an irregular pattern are observed from low frequencies to mid frequencies. A very thin yet strong vertical linear pattern spreads irregularly around the 6s mark, accompanied by a staccato-like sound."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_target_test_anomaly_0041_noAttribute.wav",
+            "note": "The distribution shows a gradual decrease in energy, resembling a hill formed around 6 seconds. There is a strong energy distribution across the entire range from 4 seconds to 8 seconds, which sounds similar to wind or the flapping of bat wings. \n\nAs we approach the 6-second mark and the mid-frequency range, a very thin vertical linear pattern is observed that is stronger when closer to the 6 seconds and weaker as we move away from it, spreading periodically at specific intervals centered around 6 seconds. \n\nThere is also a region near 6 seconds below 2 kHz where the intensity of horizontal linear patterns increases, during which a \"wee-ing\" sound is heard. In some instances, there are gaps in the horizontal linear patterns below 2 kHz near the 10-second mark."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_source_test_normal_0007_noAttribute.wav",
+            "note": "A pattern has been observed where the frequency across the entire spectrum intensifies sporadically within intervals of 0.1 to 0.3 seconds; however, the 4 kHz to 7 kHz band is noted to be slightly weaker. Within the 4 to 8 seconds range, there is a medium energy distribution across the entire spectrum, with particularly strong energy distribution in the 6 to 8 kHz range during the 4 to 5.5 seconds interval, reminiscent of the sound of wind (or the fluttering of bat wings)."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_target_test_anomaly_0013_noAttribute.wav",
+            "note": "The middle energy distribution across the entire frequency range from 4s to 8s was observed, with particularly strong energy distribution in the 4s-5.5s range at 6-8 kHz, resembling the sound of wind or bat fluttering. \n\nA section was noted where the intensity of high frequencies weakened at medium frequencies over a duration of 0.3 seconds. \n\nA very thin vertical linear pattern was intermittently dispersed around 6s, accompanied by a tapping sound. \n\nAdditionally, a vertical linear pattern was observed where the frequency strength increased across the entire range at 0.1-second intervals."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_target_test_anomaly_0008_noAttribute.wav",
+            "note": "Overall, there is a weak energy distribution. In the 4s-8s range, the energy distribution is weak and resembles the sound of wind (or the flapping of bat wings). A very thin, vertical linear pattern is irregularly dispersed around 6s, accompanied by a soft tapping sound."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_target_test_anomaly_0046_noAttribute.wav",
+            "note": "Detection of multiple horizontal linear patterns in the band below 2 kHz. \n\nAn extremely thin and faint vertical linear pattern is observed to be periodically dispersed around the 6-second mark, accompanied by a tapping sound. \n\nVertical linear patterns exhibit increased strength across the entire frequency range at intervals of 0.1 seconds.\n\nA brief observation of a segment where the intensity of high frequencies decreases in the mid-frequency range."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_target_test_anomaly_0027_noAttribute.wav",
+            "note": "A vertical linear pattern is observed where the frequency across the entire spectrum strengthens within the range of 0.1s to 0.3s, although the bands from 4kHz to 7kHz are observed to be somewhat weaker. From 3s to 9.5s, multiple vertical linear patterns are observed across the entire spectrum, exhibiting strong energy, resembling a sound that crackles and bursts in quality. Additionally, a vertical linear pattern where the frequency across the entire spectrum strengthens is observed again within the 0.1s to 0.3s interval."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_target_test_anomaly_0029_noAttribute.wav",
+            "note": "The distribution is observed to gradually decrease in energy, resembling a hill formed around 6 seconds. A strong energy distribution is present across the entire range from 4 seconds to 8 seconds, resembling the sound of wind (or bat wings). A momentary \"weeing\" sound is heard in the central interval. When only the frequencies below 2 kHz are considered, it is estimated that we are in a range where the horizontal linear pattern of low frequencies (1 kHz) becomes more pronounced.\n\nA low frequency \"ziiing\" is heard near 6 seconds. When only the frequencies below 2 kHz are considered, it is estimated that we are again in a range where the horizontal linear pattern of low frequencies (0.2 kHz) becomes more pronounced. \n\nFocusing on the central frequency around 6 seconds, multiple vertically linear patterns with strong energy are observed, which sound like a popping or bursting quality. There exists a very thin vertical linear pattern that is strong and weakens as it moves away from the 6-second mark, periodically spreading out in specific intervals centered around 6 seconds, accompanied by a popping sound."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_source_test_normal_0037_noAttribute.wav",
+            "note": "In the frequency range below 1 kHz, many horizontal linear patterns are observed. There is a weak energy distribution across the entire spectrum prior to the interval of 4 to 8 seconds, resembling the sound of wind (or bats flapping their wings). Around the central frequency near 6 seconds, multiple vertical linear patterns with strong energy are observed, producing a sound akin to a tapping or burst of audio quality."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_target_test_anomaly_0035_noAttribute.wav",
+            "note": "The very thin vertical linear pattern is dispersed intermittently, accompanied by a tapping sound. This extremely thin vertical linear pattern, which is stronger closer to 6 seconds and gradually weakens as it moves further away, appears to be distributed somewhat periodically at specific intervals centered around 6 seconds. There is a strong energy distribution across the entire frequency range prior to the 4 to 8 seconds interval, resembling the sound of wind (or the flapping of bat wings). Around the 6-second mark, a distribution pattern emerges that shows a gradual decrease in energy, as if a hill is being formed."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_source_test_normal_0047_noAttribute.wav",
+            "note": "A gradually decreasing energy distribution pattern is observed, resembling a hill formed around the 6s benchmark. In the mid-range, a slightly increased intensity pattern is observed, exhibiting a degree of symmetry around the central area. Throughout the entire range before the 4s-8s interval, the energy distribution resembles a sound akin to wind (or bat wing flapping). A low frequency, producing a \"ziing\" sound, is detected near the 6s mark."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_source_test_normal_0014_noAttribute.wav",
+            "note": "A distribution is observed where energy gradually decreases, resembling the formation of a hill based on the 6s mark. There is a strong energy distribution across the entire band from 4s to 8s, particularly notable in the 4s-5.5s range at 6-8 kHz, which sounds reminiscent of wind (or bat wing flapping)."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_source_test_anomaly_0012_noAttribute.wav",
+            "note": "A spike pattern with vertically enhancing sprite motifs based on the 6s interval is observed intermittently, accompanied by a soft tapping sound. A vertical linear pattern is detected with an increase in frequency across the entire spectrum at 0.1s intervals, although the frequencies in the 4kHz-7kHz range are observed to be slightly weaker.\n\nBetween 4s and 8s, a strong energy distribution is noted across the entire spectrum, particularly from 4s to 5.5s, where there is a particularly high energy concentration between 6-8kHz, resembling the sound of wind (or the fluttering of bat wings).\n\nA horizontal linear pattern is observed in the frequency range of 7.2kHz-7.8kHz, with a bandwidth of 0.5kHz. Two strong horizontal linear patterns are present in the 0-1kHz range, alongside two of medium strength, and approximately five weaker patterns in the 1-2kHz range."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_target_test_anomaly_0022_noAttribute.wav",
+            "note": "In the frequency range between 4 kHz and 7 kHz, the energy distribution weakens. There is a very thin yet strong vertical linear pattern that spreads periodically around 6 seconds, accompanied by a clicking sound. In the interval from 4 seconds to 8 seconds, a moderate energy distribution is observed across the entire frequency spectrum, resembling the sound of wind (or the flapping of bat wings). Notably, very strong horizontal linear patterns are detected at 0.2 kHz, 1 kHz, and 2 kHz."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_source_test_anomaly_0009_noAttribute.wav",
+            "note": "Overall, there is a strong energy distribution. \n\nThere is a very thin yet powerful vertical linear pattern that spreads irregularly around 6 seconds, accompanied by a crackling sound that resembles a burst in sound quality. \n\nIn the interval from 4 to 8 seconds, there is a strong energy distribution across the entire frequency range, reminiscent of that crackling sound. \n\nIn the same interval, particularly from 4 to 5.5 seconds, there is a slightly stronger energy distribution, specifically in the 6-8 kHz range, which sounds akin to a rushing wind or the flapping of bat wings."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_source_test_normal_0027_noAttribute.wav",
+            "note": "A strong vertical linear pattern is observed across the entire frequency range for the interval of 0.1s to 0.3s; however, the frequency range of 4kHz to 7kHz is observed to be somewhat weaker. In the interval from 4s to 8s, there is a strong energy distribution across the entire frequency range, resembling the sound of wind or the flapping of bat wings."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_source_test_normal_0025_noAttribute.wav",
+            "note": "The analysis reveals that intermittently, there is a pattern where frequencies across the entire spectrum are notably intensified within the 0.1s to 0.3s interval; however, the 4kHz to 7kHz range appears to be somewhat diminished in intensity. Between the 4s to 8s interval, the overall frequency spectrum indicates a medium energy distribution, resembling the sounds of wind or bat wing flapping. Additionally, a vertical linear pattern has been observed, characterized by frequency intensifications across the entire spectrum at 0.1s intervals."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_source_test_anomaly_0011_noAttribute.wav",
+            "note": "A spike pattern characterized by vertical sprite motifs strengthens based on a 6-second interval, observed intermittently, creating a sound akin to rustling. There is a strong energy distribution across the entire bandwidth between 4 seconds and 8 seconds, particularly notable in the 4 to 5.5-second range within the 6 to 8 kHz frequency, resembling the sound of wind (or bat wings). Additionally, there exists a weaker spike pattern that intermittently spans from low frequencies to high frequencies."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_source_test_normal_0044_noAttribute.wav",
+            "note": "Irregular intervals of frequency peaks exist across the entire frequency range, but they appear relatively weak in the range between 4 kHz and 7 kHz. A gradual distribution is observed, resembling the formation of a hill, where energy decreases over a duration of 6 seconds. In the range of 4 to 8 seconds, a medium energy distribution is noted, reminiscent of sounds like wind or bat wings. A horizontal dashed line pattern is visible in the high frequency range around 7.8 kHz."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_target_test_anomaly_0014_noAttribute.wav",
+            "note": "A distribution is observed where energy gradually decreases, as if a hill is formed based on the 6-second mark. Weak horizontal linear patterns in the high-frequency range exhibit a wavy motion, resembling the ebbs and flows of waves. In the broader frequency range prior to the 4s-8s interval, there is a weak energy distribution, with notable mid-range energy especially within the 4s-5.5s range at 6-8 kHz, resembling the sounds of wind (or bat wings flapping). \n\nA very thin yet strong vertical linear pattern intermittently spreads around the 6-second mark, accompanied by a pitter-patter sound. Numerous horizontal linear patterns are observed in the sub-2.5 kHz range, with the 1.6 kHz frequency displaying a particularly strong horizontal linear pattern."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_source_test_anomaly_0047_noAttribute.wav",
+            "note": "A very thin yet strong vertical linear pattern is observed periodically at intervals of 0.1 seconds, accompanied by a clicking sound. During the period from 4 to 8 seconds, there is a strong energy distribution across a wide frequency range, resembling the sound of wind (or the flapping of bat wings) with a sharp quality."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_target_test_anomaly_0019_noAttribute.wav",
+            "note": "The weak spike patterns are present intermittently from low to high frequencies. Strong spike patterns of irregular intensity have been observed from low to mid frequencies. There is a strong energy distribution across the entire frequency range prior to the 4s-8s interval, resembling the sound of wind (or bat wings flapping). Very thin vertical linear patterns are found intermittently centered around 6s, accompanied by a tapping sound."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_target_test_anomaly_0009_noAttribute.wav",
+            "note": "Very thin yet strong vertical linear patterns are spread irregularly around 6s, accompanied by a tapping sound. Below 2kHz, a significant presence of horizontal linear patterns can be observed."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_target_test_anomaly_0026_noAttribute.wav",
+            "note": "The distribution shows a gradual decrease in energy, resembling a hill formed around the 6-second mark. A strong energy distribution is observed throughout the entire 4 to 8-second interval, reminiscent of the sound of wind (or bat wings flapping). In the 3 to 9.5-second range, multiple vertical linear patterns exhibit strong energy, producing a sound akin to a popping or cracking quality."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_source_test_anomaly_0040_noAttribute.wav",
+            "note": "The distribution exhibits a gradual decrease in energy, resembling the formation of a hill centered around 6s. There is a strong energy distribution across the entire bandwidth between 4s and 8s, which resembles the sound of wind or bat wings flapping. A multitude of linear patterns observed near 6s possess significant energy, producing sounds reminiscent of rapid tapping or bursting textures. Additionally, trapezoidal patterns are observed in aperiodic intervals."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_target_test_anomaly_0036_noAttribute.wav",
+            "note": "The text describes a phenomenon characterized by very thin vertical linear patterns that disperse in a quasi-periodic manner, accompanied by a tapping sound. As proximity to 6 seconds and higher frequencies increases, these patterns exhibit greater intensity, becoming weaker as the distance increases, spread out in a somewhat periodic fashion around specific intervals centered on 6 seconds. There is a strong energy distribution across the entire frequency range from 4 to 8 seconds, resembling the sound of wind or the fluttering of bat wings. An energy distribution pattern appears, showing a gradual decrease in intensity as if a hill is formed around the 6-second mark."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_source_test_anomaly_0019_noAttribute.wav",
+            "note": "The frequency range from 4s to 8s exhibits a weak energy distribution across the entire spectrum, particularly between 4s and 5.5s, where there is a moderate energy distribution in the 6-8 kHz range that resembles the sound of wind (or the flapping of bat wings). \n\nThere is a horizontal linear pattern observed across the entire frequency range, although the intensity decreases as the frequency increases. \n\nWithin the 4s to 8s interval, there is a strong energy distribution that sounds like a popping or cracking sound. Again, in the 4s to 8s interval, a particularly strong energy distribution is noted, especially between 4s and 5.5s in the 6-8 kHz range, which again resembles the sound of wind or bat wing flaps. \n\nA very thin but strong vertical linear pattern is observed sporadically around 6s, accompanied by a popping sound. Additionally, a distinct horizontal linear pattern is clearly observed in the 0.25-0.5 kHz range."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_source_test_anomaly_0003_noAttribute.wav",
+            "note": "The text can be translated into English as follows:\n\n\"There is a strong energy distribution across the entire frequency range in the 4s-8s interval, resembling a sound like quality bursting with crispness. Within this range, particularly from 4s to 5.5s, there is a notably strong energy distribution between 6-8kHz, reminiscent of the sound of wind (or bat wings). A vertical linear pattern is observed, with frequencies across the entire range strengthening in intervals of 0.1 seconds. A horizontal linear pattern is slightly stronger at 0.25-0.5kHz and 1.5kHz.\""
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_source_test_normal_0040_noAttribute.wav",
+            "note": "In the frequency range below 2 kHz, numerous horizontal linear patterns are observed. There is a gradual decrease in energy distribution, resembling the formation of hills, based on a reference of 6 seconds. Within the interval of 4 to 8 seconds, a medium energy distribution appears, reminiscent of sounds produced by wind or bat wing flaps. A momentary \"weee-ing\" sound is detected in the central interval. When only the frequencies below 2 kHz are considered, it is estimated that there is a strengthening of the low-frequency (1.5 kHz) horizontal linear pattern. Throughout the entire range, there are segments where the overall frequency appears stronger at irregular intervals, although this phenomenon appears relatively weak in the range between 4 kHz and 7 kHz."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_source_test_normal_0033_noAttribute.wav",
+            "note": "Strong, non-periodic vertical linear patterns of high intensity have been observed multiple times. Following the observation of these high-intensity vertical linear patterns, a pattern has occurred twice where the intensity increases for a few seconds at frequencies of the previous band, followed by two occurrences of the strong vertical linear patterns, and then another instance of a few seconds of increased intensity, concluding with a single occurrence of the strong vertical linear pattern. This sequence exhibits a certain regularity.\n\nAdditionally, multiple horizontal linear patterns have been observed in the 1 kHz to 2 kHz range. A distribution resembling a hill has gradually formed, indicating a decrease in energy over 6 seconds. A strong distribution of energy has been noted in the 4 to 8 second interval, which resembles the sound of wind (or bat flapping). \n\nA low frequency \"ziiiing\" sound is heard near the 6-second mark. When only frequencies below 2 kHz were analyzed, it was estimated that there is a prominent horizontal linear pattern at a low frequency (0.2 kHz) during the intervals of increased intensity."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_target_test_anomaly_0006_noAttribute.wav",
+            "note": "A distribution gradually decreases in energy, resembling a hill formation based on the 6s reference point. There is a strong energy distribution across the entire frequency range from 4s to 8s, reminiscent of the sound of wind (or bat wings flapping). Near the 6s range, multiple linear patterns with strong energy are observed, producing a sound akin to tapping, which gives the impression of a burst in sound quality."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_target_test_anomaly_0003_noAttribute.wav",
+            "note": "Several instances of non-periodic strong vertical linear patterns have been observed. After the observation of these strong vertical linear patterns, there are two occurrences of a pattern where the intensity increases for a few seconds at the frequency of the previous band, followed again by two occurrences of strong vertical linear patterns, subsequent to which there is another brief increase in intensity. This sequence is observed to have a certain regularity. \n\nAround the 6-second mark, multiple linear patterns in the previous band exhibit strong energy and sound akin to a tapping followed by a burst of sound quality. Overall, there is a significant amount of noise present."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_source_test_normal_0006_noAttribute.wav",
+            "note": "The distribution shows a gradual decrease in energy, resembling a hill formed around the 6-second mark. There is a medium energy distribution across the entire frequency range of 4 to 8 seconds, with particularly strong energy distribution observed in the 4 to 5.5-second interval, and it can be heard at 6 to 8 kHz, resembling the sound of wind (or bat wing flapping). Based on the 6-second reference, there exists a very thin linear pattern of strong energy that diminishes as it moves further away, appearing periodically centered around the 6-second mark with intervals of 0.3 seconds, producing a sound reminiscent of tapping."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_source_test_anomaly_0025_noAttribute.wav",
+            "note": "In the interval from 4 seconds to 8 seconds, a strong energy distribution is observed across the entire frequency band, resembling the sound of wind or bat wings. A pattern of periodic strengthening in frequencies across the full spectrum is observed intermittently, typically between 0.1 seconds and 0.3 seconds, although the frequency range from 4 kHz to 7 kHz appears somewhat weaker. \n\nUsing the 6-second mark as a reference, a pattern of strengthening is observed as it spreads from the central band to the surrounding bands in increments of 0.1 to 0.3 seconds, accompanied by a tapping sound. A vertical linear pattern is noted, showcasing an increase in frequencies across the entire spectrum at intervals of 0.1 seconds. \n\nIn the central frequency range, a strong energy distribution is present, reminiscent of a tapping sound with a bursting quality in the audio. Additionally, within the central frequency range, a transient low frequency is heard, producing a \"weeeing\" sound."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_target_test_anomaly_0010_noAttribute.wav",
+            "note": "The horizontal linear pattern at high frequencies exhibits a wavy motion reminiscent of surfacing waves. Sharp high-frequency sounds are audible around the 6-second mark. There is a strong distribution of energy across the entire range from 4 to 8 seconds, resembling the sound of wind or bat wings flapping. A very thin yet strong vertical linear pattern spreads irregularly around the 6-second mark, accompanied by a tapping sound."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_source_test_normal_0046_noAttribute.wav",
+            "note": "Detection of multiple horizontal linear patterns in the frequency range below 2 kHz. A very thin and faint vertical linear pattern is sporadically spread around 6 seconds, accompanied by a tapping sound. A horizontal dotted pattern is observed at high frequencies around 7.8 kHz. A low-frequency \"weeeing\" sound is heard near 6 seconds. There is a strong energy distribution across the entire range from 4 to 8 seconds, reminiscent of the sound of wind (or bat wing flapping)."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_source_test_anomaly_0002_noAttribute.wav",
+            "note": "In the 4s-8s interval, there is a strong energy distribution across the entire frequency range, resembling a sound that \"crackles\" and bursts with rich tonal quality. Weak spike patterns are present intermittently, spanning from low frequencies to high frequencies. A very thin yet strong vertical linear pattern is observed to periodically spread around the 6s mark, accompanied by the same \"crackling\" sound with vivid tonal bursts.\n\nAt intervals of 0.1s, a vertical linear pattern is noted, indicating a significant increase in frequency across the entire range. Additionally, a horizontal linear pattern appears slightly stronger near 0.3kHz, 1.1kHz, and 1.5kHz, with a bandwidth of approximately 0.2kHz."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_target_test_anomaly_0015_noAttribute.wav",
+            "note": "Several instances of non-periodic, strong vertical linear patterns have been observed. Following the occurrence of these strong vertical linear patterns, there are a couple of instances where the intensity increases significantly for a few seconds at frequencies within the previous band, which is then succeeded by another two instances of strong vertical linear patterns, followed once again by a few seconds of elevated intensity. This sequence reveals a certain regularity: a strong vertical linear pattern appears once more in such a manner.\n\nThere exists a very thin yet robust vertical linear pattern that spreads non-periodically around 6 seconds, accompanied by a tapping sound. \n\nAdditionally, non-periodic spikes of strong intensity have been detected across frequencies ranging from low to mid-range frequencies. \n\nIn the interval of 4 to 8 seconds, a weak energy distribution is noted throughout the entire band, particularly in the 4 to 5.5 seconds range at 6-8 kHz, which resembles the sound of wind or the fluttering of bat wings."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_source_test_normal_0015_noAttribute.wav",
+            "note": "In the 4s-8s range, a mid-energy distribution is observed across the entire band, with particularly strong energy distribution in the 4s-5.5s range at 6-8 kHz, resembling the sound of wind (or bat wings flapping). A trapezoidal pattern is observed intermittently."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_target_test_anomaly_0034_noAttribute.wav",
+            "note": "In the frequency range below 1 kHz, numerous horizontal linear patterns are observed. Very thin vertical linear patterns are sporadically dispersed, accompanied by a tapping sound. A weak energy distribution is observed in the range of 7.2 kHz to 7.8 kHz, with a bandwidth of 0.5 kHz. Throughout the entire spectrum, there are intervals where the frequency increases with irregular spacing; however, within the range of 4 kHz to 7 kHz, these patterns appear relatively weak. Weak intensity spike patterns exist periodically, spanning from low frequencies to high frequencies."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_target_test_anomaly_0004_noAttribute.wav",
+            "note": "The low-intensity spike pattern exists intermittently from low frequencies to high frequencies. Numerous linear patterns around 6s exhibit strong energy and are observed, producing a sound reminiscent of a crackling noise with a bursting tonal quality."
+        },
+        {
+            "file_path": "../unziped/dev/ToyTrain/test/section_00_source_test_anomaly_0030_noAttribute.wav",
+            "note": "A very thin yet strong vertical linear pattern radiates intermittently around 6 seconds, accompanied by a tapping sound. \n\nThere is a strong energy distribution across the entire frequency range from 4 seconds to 8 seconds, resembling the sound of wind (or the fluttering of bat wings). \n\nHorizontal linear patterns appear at various frequencies, such as 0.25-0.5 kHz, 1 kHz, and 1.3-1.7 kHz."
+        }
+    ]
+}
