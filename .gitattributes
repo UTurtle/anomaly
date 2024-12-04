@@ -1,3 +1,0 @@
-eda/extract_feature_code/audio_features.json filter=lfs diff=lfs merge=lfs -text
-eda/extract_feature_code/ladlm_dataset/data-00000-of-00001.arrow filter=lfs diff=lfs merge=lfs -text
-*.json filter=lfs diff=lfs merge=lfs -text
