@@ -1,5 +1,7 @@
 datasets.zip
 
+
+
 bearing/
 fan/
 gearbox/
@@ -11,3 +13,5 @@ eval_2024/
 
 *_backup.csv
 *_backup.json
+
+*.arrow
