@@ -26,6 +26,7 @@ The **DCASE 2024 Task 2** focuses on developing an **Anomalous sound detection (
     - [x] make `audio_pair_notes.json`. has attribute `same note` and `difference note`
     - [x] add write `difference note` and `same note` in `eda_playground complete pair.ipynb` 
   
+
 - __Dataset make and transform__
   - [x] extracting features
   - [x] extracting features with `librosa feature parameters`.
@@ -45,7 +46,11 @@ The **DCASE 2024 Task 2** focuses on developing an **Anomalous sound detection (
     - [ ] refactor directory
     - [ ] refactor script
 
+
 - __Make model__
+
+
+
 
 ##### directory structure
 
